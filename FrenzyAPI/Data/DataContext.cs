@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Repository.Data
+namespace FrenzyAPI
 {
     public class DataContext:DbContext
     {

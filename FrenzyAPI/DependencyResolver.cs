@@ -1,4 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Contract;
+using FrenzyAPI.Repository;
+using FrenzyAPI.ServiceCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -16,6 +19,8 @@ namespace FrenzyAPI
             {
                 options.UseSqlite(config.GetConnectionString("DefaultConnection"));
             });
+            services.AddScoped<IRequestHandler, RequestHandler>();
+            services.AddScoped<IResturantRepository, ResturantRepository>();
             return services;
         }
     }

@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FrenzyAPI.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220513103455_InitialCreate")]
+    [Migration("20220513185853_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,17 +29,17 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("REAL");
 
-                    b.Property<int>("ResturantId")
+                    b.Property<int>("RestaurantId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ResturantId");
+                    b.HasIndex("RestaurantId");
 
                     b.ToTable("Menu");
                 });
 
-            modelBuilder.Entity("Models.Resturant", b =>
+            modelBuilder.Entity("Models.Restaurant", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -51,28 +51,28 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<string>("OpeningHours")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("ResturantName")
+                    b.Property<string>("RestaurantName")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Resturants");
+                    b.ToTable("Restaurants");
                 });
 
             modelBuilder.Entity("Models.Menu", b =>
                 {
-                    b.HasOne("Models.Resturant", "Resutrant")
-                        .WithMany("MyProperty")
-                        .HasForeignKey("ResturantId")
+                    b.HasOne("Models.Restaurant", "Restaurant")
+                        .WithMany("Menu")
+                        .HasForeignKey("RestaurantId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Resutrant");
+                    b.Navigation("Restaurant");
                 });
 
-            modelBuilder.Entity("Models.Resturant", b =>
+            modelBuilder.Entity("Models.Restaurant", b =>
                 {
-                    b.Navigation("MyProperty");
+                    b.Navigation("Menu");
                 });
 #pragma warning restore 612, 618
         }

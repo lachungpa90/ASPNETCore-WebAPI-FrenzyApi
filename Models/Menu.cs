@@ -7,8 +7,8 @@ namespace Models
     public class Menu
     {
         public int Id { get; set; }
-        public Resturant Resutrant { get; set; }
-        public int ResturantId { get; set; }
+        public Restaurant Restaurant { get; set; }
+        public int RestaurantId { get; set; }
         public string DishName { get; set; }
         public double Price { get; set; }
     }

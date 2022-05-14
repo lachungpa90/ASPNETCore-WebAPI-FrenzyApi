@@ -10,14 +10,14 @@ namespace FrenzyAPI
 {
     public class Seed
     {
-        public async Task SeedResturant(DataContext context)
+        public static  async Task SeedResturant(DataContext context)
         {
-            if (await context.Resturants.AnyAsync()) return;
-            var resturantData = await System.IO.File.ReadAllTextAsync("Data/ResturantSeedData.json");
-            var resturants = JsonSerializer.Deserialize<List<Resturant>>(resturantData);
-            foreach(var resutrant in resturants)
+            if (await context.Restaurants.AnyAsync()) return;
+            var restaurantData = await System.IO.File.ReadAllTextAsync("Data/RestaurantSeedData.json");
+            var restaurants = JsonSerializer.Deserialize<List<Restaurant>>(restaurantData);
+            foreach(var restaurant in restaurants)
             {
-                context.Resturants.Add(resutrant);
+                context.Restaurants.Add(restaurant);
             }
             await context.SaveChangesAsync();
         }

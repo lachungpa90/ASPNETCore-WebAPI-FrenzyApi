@@ -10,14 +10,23 @@ namespace FrenzyAPI.ServiceCore
     public class RequestHandler: IRequestHandler
     {
         private readonly IResturantRepository _resturant;
-        public RequestHandler(IResturantRepository resturant)
+        private readonly IUsersRepository _user;
+        public RequestHandler(IResturantRepository resturant, IUsersRepository user)
         {
             _resturant = resturant;
-                
+
+            _user = user;    
         }
         public async Task<List<Restaurant>>GetResturants()
         {
             var result = await _resturant.GetResturantsAsync();
+            if (result == null)
+                return null;
+            return result.ToList();
+        }
+        public async Task<List<Users>> GetUsers()
+        {
+            var result = await _user.GetUsersAsync();
             if (result == null)
                 return null;
             return result.ToList();

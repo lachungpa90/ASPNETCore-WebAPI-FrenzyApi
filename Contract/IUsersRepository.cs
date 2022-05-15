@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Contract
 {
-    public interface IRequestHandler
+    public interface IUsersRepository
     {
-        Task<List<Restaurant>> GetResturants();
-        Task<List<Users>> GetUsers();
+        Task<IEnumerable<Users>> GetUsersAsync();
     }
 }

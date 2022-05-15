@@ -21,6 +21,7 @@ namespace FrenzyAPI
             });
             services.AddScoped<IRequestHandler, RequestHandler>();
             services.AddScoped<IResturantRepository, ResturantRepository>();
+            services.AddScoped<IUsersRepository, UsersRepository>();
             return services;
         }
     }

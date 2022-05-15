@@ -1,7 +1,7 @@
 [
     {
         "CashBalance": 700.7,
-        "Id": 0,
+        "UserId": 0,
         "Name": "Edith Johnson",
         "PurchaseHistory": [
             {
@@ -50,7 +50,7 @@
     },
     {
         "CashBalance": 237.61,
-        "Id": 1,
+        "UserId": 1,
         "Name": "Edward Gonzalez",
         "PurchaseHistory": [
             {
@@ -123,7 +123,7 @@
     },
     {
         "CashBalance": 844.9,
-        "Id": 2,
+        "UserId": 2,
         "Name": "Hildegard Gabrielsen",
         "PurchaseHistory": [
             {
@@ -136,7 +136,7 @@
     },
     {
         "CashBalance": 277.18,
-        "Id": 3,
+        "UserId": 3,
         "Name": "Heather Edwards",
         "PurchaseHistory": [
             {
@@ -167,7 +167,7 @@
     },
     {
         "CashBalance": 997.73,
-        "Id": 4,
+        "UserId": 4,
         "Name": "Christopher Deisher",
         "PurchaseHistory": [
             {
@@ -180,7 +180,7 @@
     },
     {
         "CashBalance": 610.67,
-        "Id": 5,
+        "UserId": 5,
         "Name": "Kasha Borda",
         "PurchaseHistory": [
             {
@@ -289,7 +289,7 @@
     },
     {
         "CashBalance": 863.35,
-        "Id": 6,
+        "UserId": 6,
         "Name": "Coy Mincks",
         "PurchaseHistory": [
             {
@@ -392,7 +392,7 @@
     },
     {
         "CashBalance": 629.2,
-        "Id": 7,
+        "UserId": 7,
         "Name": "Andrew Bidlack",
         "PurchaseHistory": [
             {
@@ -429,7 +429,7 @@
     },
     {
         "CashBalance": 144.12,
-        "Id": 8,
+        "UserId": 8,
         "Name": "Gary Coffin",
         "PurchaseHistory": [
             {
@@ -532,7 +532,7 @@
     },
     {
         "CashBalance": 21.29,
-        "Id": 9,
+        "UserId": 9,
         "Name": "Edna Johnson",
         "PurchaseHistory": [
             {
@@ -587,7 +587,7 @@
     },
     {
         "CashBalance": 776.89,
-        "Id": 10,
+        "UserId": 10,
         "Name": "Judy Spease",
         "PurchaseHistory": [
             {
@@ -648,13 +648,13 @@
     },
     {
         "CashBalance": 638.26,
-        "Id": 11,
+        "UserId": 11,
         "Name": "Kirsten Bostic",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 304.79,
-        "Id": 12,
+        "UserId": 12,
         "Name": "Alma Meadows",
         "PurchaseHistory": [
             {
@@ -703,7 +703,7 @@
     },
     {
         "CashBalance": 890.52,
-        "Id": 13,
+        "UserId": 13,
         "Name": "Mark Gregoire",
         "PurchaseHistory": [
             {
@@ -812,7 +812,7 @@
     },
     {
         "CashBalance": 257.36,
-        "Id": 14,
+        "UserId": 14,
         "Name": "Phyllis Tennon",
         "PurchaseHistory": [
             {
@@ -897,7 +897,7 @@
     },
     {
         "CashBalance": 60.98,
-        "Id": 15,
+        "UserId": 15,
         "Name": "Adele Smith",
         "PurchaseHistory": [
             {
@@ -940,7 +940,7 @@
     },
     {
         "CashBalance": 75.23,
-        "Id": 16,
+        "UserId": 16,
         "Name": "Susan Maggio",
         "PurchaseHistory": [
             {
@@ -977,7 +977,7 @@
     },
     {
         "CashBalance": 55.16,
-        "Id": 17,
+        "UserId": 17,
         "Name": "Gloria Kramer",
         "PurchaseHistory": [
             {
@@ -1008,7 +1008,7 @@
     },
     {
         "CashBalance": 812.36,
-        "Id": 18,
+        "UserId": 18,
         "Name": "Darren Pedigo",
         "PurchaseHistory": [
             {
@@ -1093,7 +1093,7 @@
     },
     {
         "CashBalance": 424.42,
-        "Id": 19,
+        "UserId": 19,
         "Name": "Beverly Corbin",
         "PurchaseHistory": [
             {
@@ -1196,7 +1196,7 @@
     },
     {
         "CashBalance": 170.34,
-        "Id": 20,
+        "UserId": 20,
         "Name": "Harold Gerard",
         "PurchaseHistory": [
             {
@@ -1239,7 +1239,7 @@
     },
     {
         "CashBalance": 329.53,
-        "Id": 21,
+        "UserId": 21,
         "Name": "Eva Rodriguez",
         "PurchaseHistory": [
             {
@@ -1294,7 +1294,7 @@
     },
     {
         "CashBalance": 110.27,
-        "Id": 22,
+        "UserId": 22,
         "Name": "Jerri Ortiz",
         "PurchaseHistory": [
             {
@@ -1313,7 +1313,7 @@
     },
     {
         "CashBalance": 594.45,
-        "Id": 23,
+        "UserId": 23,
         "Name": "Michael Richardson",
         "PurchaseHistory": [
             {
@@ -1422,7 +1422,7 @@
     },
     {
         "CashBalance": 270.76,
-        "Id": 24,
+        "UserId": 24,
         "Name": "Jason Britton",
         "PurchaseHistory": [
             {
@@ -1441,7 +1441,7 @@
     },
     {
         "CashBalance": 312.93,
-        "Id": 25,
+        "UserId": 25,
         "Name": "Jaime Schell",
         "PurchaseHistory": [
             {
@@ -1496,7 +1496,7 @@
     },
     {
         "CashBalance": 532.03,
-        "Id": 26,
+        "UserId": 26,
         "Name": "Edward Perez",
         "PurchaseHistory": [
             {
@@ -1509,7 +1509,7 @@
     },
     {
         "CashBalance": 13.71,
-        "Id": 27,
+        "UserId": 27,
         "Name": "Matthew Miyashiro",
         "PurchaseHistory": [
             {
@@ -1558,7 +1558,7 @@
     },
     {
         "CashBalance": 565.7,
-        "Id": 28,
+        "UserId": 28,
         "Name": "Kum Crabtree",
         "PurchaseHistory": [
             {
@@ -1673,7 +1673,7 @@
     },
     {
         "CashBalance": 543.09,
-        "Id": 29,
+        "UserId": 29,
         "Name": "Carol Shields",
         "PurchaseHistory": [
             {
@@ -1758,7 +1758,7 @@
     },
     {
         "CashBalance": 329.22,
-        "Id": 30,
+        "UserId": 30,
         "Name": "Curtis Ricks",
         "PurchaseHistory": [
             {
@@ -1819,7 +1819,7 @@
     },
     {
         "CashBalance": 28.59,
-        "Id": 31,
+        "UserId": 31,
         "Name": "Mark Baker",
         "PurchaseHistory": [
             {
@@ -1886,13 +1886,13 @@
     },
     {
         "CashBalance": 214.43,
-        "Id": 32,
+        "UserId": 32,
         "Name": "James Sanford",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 529.24,
-        "Id": 33,
+        "UserId": 33,
         "Name": "Cynthia Kamal",
         "PurchaseHistory": [
             {
@@ -2007,13 +2007,13 @@
     },
     {
         "CashBalance": 355.81,
-        "Id": 34,
+        "UserId": 34,
         "Name": "Adele Johnson",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 719.91,
-        "Id": 35,
+        "UserId": 35,
         "Name": "Robert Davis",
         "PurchaseHistory": [
             {
@@ -2104,7 +2104,7 @@
     },
     {
         "CashBalance": 748.21,
-        "Id": 36,
+        "UserId": 36,
         "Name": "Ronald Heilman",
         "PurchaseHistory": [
             {
@@ -2147,7 +2147,7 @@
     },
     {
         "CashBalance": 190.93,
-        "Id": 37,
+        "UserId": 37,
         "Name": "George Pratt",
         "PurchaseHistory": [
             {
@@ -2202,7 +2202,7 @@
     },
     {
         "CashBalance": 673.75,
-        "Id": 38,
+        "UserId": 38,
         "Name": "Linda Barnes",
         "PurchaseHistory": [
             {
@@ -2293,7 +2293,7 @@
     },
     {
         "CashBalance": 540.85,
-        "Id": 39,
+        "UserId": 39,
         "Name": "Jesse Council",
         "PurchaseHistory": [
             {
@@ -2414,7 +2414,7 @@
     },
     {
         "CashBalance": 413.84,
-        "Id": 40,
+        "UserId": 40,
         "Name": "Kenneth Hill",
         "PurchaseHistory": [
             {
@@ -2475,7 +2475,7 @@
     },
     {
         "CashBalance": 607.0,
-        "Id": 41,
+        "UserId": 41,
         "Name": "Ronald Lempke",
         "PurchaseHistory": [
             {
@@ -2566,7 +2566,7 @@
     },
     {
         "CashBalance": 754.06,
-        "Id": 42,
+        "UserId": 42,
         "Name": "Theresa Montoya",
         "PurchaseHistory": [
             {
@@ -2627,7 +2627,7 @@
     },
     {
         "CashBalance": 796.55,
-        "Id": 43,
+        "UserId": 43,
         "Name": "Stella Johnson",
         "PurchaseHistory": [
             {
@@ -2682,7 +2682,7 @@
     },
     {
         "CashBalance": 358.62,
-        "Id": 44,
+        "UserId": 44,
         "Name": "Dennis Depeyster",
         "PurchaseHistory": [
             {
@@ -2755,7 +2755,7 @@
     },
     {
         "CashBalance": 39.19,
-        "Id": 45,
+        "UserId": 45,
         "Name": "Amalia Silva",
         "PurchaseHistory": [
             {
@@ -2870,7 +2870,7 @@
     },
     {
         "CashBalance": 356.18,
-        "Id": 46,
+        "UserId": 46,
         "Name": "Janet Wortman",
         "PurchaseHistory": [
             {
@@ -2949,7 +2949,7 @@
     },
     {
         "CashBalance": 136.35,
-        "Id": 47,
+        "UserId": 47,
         "Name": "Timmy Mccormick",
         "PurchaseHistory": [
             {
@@ -3034,13 +3034,13 @@
     },
     {
         "CashBalance": 387.34,
-        "Id": 48,
+        "UserId": 48,
         "Name": "Hazel Brazelton",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 433.14,
-        "Id": 49,
+        "UserId": 49,
         "Name": "Charles Scroggs",
         "PurchaseHistory": [
             {
@@ -3161,7 +3161,7 @@
     },
     {
         "CashBalance": 629.24,
-        "Id": 50,
+        "UserId": 50,
         "Name": "Charles Springer",
         "PurchaseHistory": [
             {
@@ -3270,7 +3270,7 @@
     },
     {
         "CashBalance": 374.06,
-        "Id": 51,
+        "UserId": 51,
         "Name": "Anthony Sorensen",
         "PurchaseHistory": [
             {
@@ -3319,7 +3319,7 @@
     },
     {
         "CashBalance": 600.36,
-        "Id": 52,
+        "UserId": 52,
         "Name": "Lillie Hicks",
         "PurchaseHistory": [
             {
@@ -3422,7 +3422,7 @@
     },
     {
         "CashBalance": 969.21,
-        "Id": 53,
+        "UserId": 53,
         "Name": "Ralph Couture",
         "PurchaseHistory": [
             {
@@ -3441,7 +3441,7 @@
     },
     {
         "CashBalance": 291.83,
-        "Id": 54,
+        "UserId": 54,
         "Name": "Mary Makin",
         "PurchaseHistory": [
             {
@@ -3460,7 +3460,7 @@
     },
     {
         "CashBalance": 799.28,
-        "Id": 55,
+        "UserId": 55,
         "Name": "Adam Kelley",
         "PurchaseHistory": [
             {
@@ -3497,7 +3497,7 @@
     },
     {
         "CashBalance": 989.19,
-        "Id": 56,
+        "UserId": 56,
         "Name": "Kathrine Osbeck",
         "PurchaseHistory": [
             {
@@ -3522,7 +3522,7 @@
     },
     {
         "CashBalance": 481.82,
-        "Id": 57,
+        "UserId": 57,
         "Name": "Kerry Mckee",
         "PurchaseHistory": [
             {
@@ -3547,7 +3547,7 @@
     },
     {
         "CashBalance": 610.52,
-        "Id": 58,
+        "UserId": 58,
         "Name": "Jeanine Lefebvre",
         "PurchaseHistory": [
             {
@@ -3650,7 +3650,7 @@
     },
     {
         "CashBalance": 27.66,
-        "Id": 59,
+        "UserId": 59,
         "Name": "Christopher Sylva",
         "PurchaseHistory": [
             {
@@ -3669,7 +3669,7 @@
     },
     {
         "CashBalance": 443.7,
-        "Id": 60,
+        "UserId": 60,
         "Name": "Lillian Meyer",
         "PurchaseHistory": [
             {
@@ -3748,7 +3748,7 @@
     },
     {
         "CashBalance": 343.17,
-        "Id": 61,
+        "UserId": 61,
         "Name": "Wendy Vert",
         "PurchaseHistory": [
             {
@@ -3839,7 +3839,7 @@
     },
     {
         "CashBalance": 171.56,
-        "Id": 62,
+        "UserId": 62,
         "Name": "Nicholas Oswalt",
         "PurchaseHistory": [
             {
@@ -3858,7 +3858,7 @@
     },
     {
         "CashBalance": 199.0,
-        "Id": 63,
+        "UserId": 63,
         "Name": "Erika Moore",
         "PurchaseHistory": [
             {
@@ -3913,7 +3913,7 @@
     },
     {
         "CashBalance": 399.7,
-        "Id": 64,
+        "UserId": 64,
         "Name": "Stephanie Hansen",
         "PurchaseHistory": [
             {
@@ -3968,7 +3968,7 @@
     },
     {
         "CashBalance": 972.33,
-        "Id": 65,
+        "UserId": 65,
         "Name": "Benjamin Ryan",
         "PurchaseHistory": [
             {
@@ -4041,7 +4041,7 @@
     },
     {
         "CashBalance": 163.55,
-        "Id": 66,
+        "UserId": 66,
         "Name": "Mary Olson",
         "PurchaseHistory": [
             {
@@ -4066,7 +4066,7 @@
     },
     {
         "CashBalance": 630.36,
-        "Id": 67,
+        "UserId": 67,
         "Name": "Ruth Carney",
         "PurchaseHistory": [
             {
@@ -4157,7 +4157,7 @@
     },
     {
         "CashBalance": 718.7,
-        "Id": 68,
+        "UserId": 68,
         "Name": "Jerry Mazza",
         "PurchaseHistory": [
             {
@@ -4176,7 +4176,7 @@
     },
     {
         "CashBalance": 562.95,
-        "Id": 69,
+        "UserId": 69,
         "Name": "James Larkins",
         "PurchaseHistory": [
             {
@@ -4195,7 +4195,7 @@
     },
     {
         "CashBalance": 242.38,
-        "Id": 70,
+        "UserId": 70,
         "Name": "Charles Vanderkam",
         "PurchaseHistory": [
             {
@@ -4304,7 +4304,7 @@
     },
     {
         "CashBalance": 168.41,
-        "Id": 71,
+        "UserId": 71,
         "Name": "Matthew Haney",
         "PurchaseHistory": [
             {
@@ -4323,7 +4323,7 @@
     },
     {
         "CashBalance": 782.24,
-        "Id": 72,
+        "UserId": 72,
         "Name": "Amy Ward",
         "PurchaseHistory": [
             {
@@ -4396,7 +4396,7 @@
     },
     {
         "CashBalance": 358.41,
-        "Id": 73,
+        "UserId": 73,
         "Name": "Geraldine Kalinowski",
         "PurchaseHistory": [
             {
@@ -4451,7 +4451,7 @@
     },
     {
         "CashBalance": 677.92,
-        "Id": 74,
+        "UserId": 74,
         "Name": "Margaret Lyon",
         "PurchaseHistory": [
             {
@@ -4488,7 +4488,7 @@
     },
     {
         "CashBalance": 479.78,
-        "Id": 75,
+        "UserId": 75,
         "Name": "Brenda Papp",
         "PurchaseHistory": [
             {
@@ -4501,7 +4501,7 @@
     },
     {
         "CashBalance": 63.45,
-        "Id": 76,
+        "UserId": 76,
         "Name": "Derick Woods",
         "PurchaseHistory": [
             {
@@ -4592,7 +4592,7 @@
     },
     {
         "CashBalance": 292.18,
-        "Id": 77,
+        "UserId": 77,
         "Name": "Lisa Briggs",
         "PurchaseHistory": [
             {
@@ -4695,7 +4695,7 @@
     },
     {
         "CashBalance": 396.13,
-        "Id": 78,
+        "UserId": 78,
         "Name": "Melanie Termini",
         "PurchaseHistory": [
             {
@@ -4762,7 +4762,7 @@
     },
     {
         "CashBalance": 190.31,
-        "Id": 79,
+        "UserId": 79,
         "Name": "Marsha Monterio",
         "PurchaseHistory": [
             {
@@ -4871,7 +4871,7 @@
     },
     {
         "CashBalance": 185.95,
-        "Id": 80,
+        "UserId": 80,
         "Name": "Francis Johnson",
         "PurchaseHistory": [
             {
@@ -4896,7 +4896,7 @@
     },
     {
         "CashBalance": 897.35,
-        "Id": 81,
+        "UserId": 81,
         "Name": "Rebecca Perez",
         "PurchaseHistory": [
             {
@@ -5005,7 +5005,7 @@
     },
     {
         "CashBalance": 590.82,
-        "Id": 82,
+        "UserId": 82,
         "Name": "Brent Meldahl",
         "PurchaseHistory": [
             {
@@ -5048,7 +5048,7 @@
     },
     {
         "CashBalance": 815.97,
-        "Id": 83,
+        "UserId": 83,
         "Name": "Ben Peterson",
         "PurchaseHistory": [
             {
@@ -5097,7 +5097,7 @@
     },
     {
         "CashBalance": 143.19,
-        "Id": 84,
+        "UserId": 84,
         "Name": "Earl Lea",
         "PurchaseHistory": [
             {
@@ -5122,7 +5122,7 @@
     },
     {
         "CashBalance": 793.06,
-        "Id": 85,
+        "UserId": 85,
         "Name": "Edward Zoellner",
         "PurchaseHistory": [
             {
@@ -5237,7 +5237,7 @@
     },
     {
         "CashBalance": 986.74,
-        "Id": 86,
+        "UserId": 86,
         "Name": "Scott Butler",
         "PurchaseHistory": [
             {
@@ -5358,7 +5358,7 @@
     },
     {
         "CashBalance": 917.24,
-        "Id": 87,
+        "UserId": 87,
         "Name": "Martha Lurvey",
         "PurchaseHistory": [
             {
@@ -5401,7 +5401,7 @@
     },
     {
         "CashBalance": 716.53,
-        "Id": 88,
+        "UserId": 88,
         "Name": "Gary Hawkes",
         "PurchaseHistory": [
             {
@@ -5444,7 +5444,7 @@
     },
     {
         "CashBalance": 445.62,
-        "Id": 89,
+        "UserId": 89,
         "Name": "Johnny Farr",
         "PurchaseHistory": [
             {
@@ -5475,7 +5475,7 @@
     },
     {
         "CashBalance": 783.31,
-        "Id": 90,
+        "UserId": 90,
         "Name": "Danny Baker",
         "PurchaseHistory": [
             {
@@ -5488,7 +5488,7 @@
     },
     {
         "CashBalance": 825.04,
-        "Id": 91,
+        "UserId": 91,
         "Name": "Angela Vanwagoner",
         "PurchaseHistory": [
             {
@@ -5555,7 +5555,7 @@
     },
     {
         "CashBalance": 136.78,
-        "Id": 92,
+        "UserId": 92,
         "Name": "Pamela Gainer",
         "PurchaseHistory": [
             {
@@ -5592,13 +5592,13 @@
     },
     {
         "CashBalance": 702.88,
-        "Id": 93,
+        "UserId": 93,
         "Name": "Jacob Randolph",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 123.08,
-        "Id": 94,
+        "UserId": 94,
         "Name": "Jose Denk",
         "PurchaseHistory": [
             {
@@ -5713,7 +5713,7 @@
     },
     {
         "CashBalance": 236.8,
-        "Id": 95,
+        "UserId": 95,
         "Name": "Norma Moncada",
         "PurchaseHistory": [
             {
@@ -5786,7 +5786,7 @@
     },
     {
         "CashBalance": 606.27,
-        "Id": 96,
+        "UserId": 96,
         "Name": "Elois Cota",
         "PurchaseHistory": [
             {
@@ -5823,7 +5823,7 @@
     },
     {
         "CashBalance": 992.25,
-        "Id": 97,
+        "UserId": 97,
         "Name": "Allison Smith",
         "PurchaseHistory": [
             {
@@ -5884,7 +5884,7 @@
     },
     {
         "CashBalance": 269.69,
-        "Id": 98,
+        "UserId": 98,
         "Name": "Michael Brown",
         "PurchaseHistory": [
             {
@@ -5933,7 +5933,7 @@
     },
     {
         "CashBalance": 602.3,
-        "Id": 99,
+        "UserId": 99,
         "Name": "John Narine",
         "PurchaseHistory": [
             {
@@ -6042,7 +6042,7 @@
     },
     {
         "CashBalance": 216.2,
-        "Id": 100,
+        "UserId": 100,
         "Name": "Tom Scarborough",
         "PurchaseHistory": [
             {
@@ -6109,7 +6109,7 @@
     },
     {
         "CashBalance": 797.07,
-        "Id": 101,
+        "UserId": 101,
         "Name": "Winifred Lopes",
         "PurchaseHistory": [
             {
@@ -6128,7 +6128,7 @@
     },
     {
         "CashBalance": 595.83,
-        "Id": 102,
+        "UserId": 102,
         "Name": "Karen Sessions",
         "PurchaseHistory": [
             {
@@ -6243,7 +6243,7 @@
     },
     {
         "CashBalance": 572.09,
-        "Id": 103,
+        "UserId": 103,
         "Name": "Jeff Garza",
         "PurchaseHistory": [
             {
@@ -6298,7 +6298,7 @@
     },
     {
         "CashBalance": 798.86,
-        "Id": 104,
+        "UserId": 104,
         "Name": "Hannah Woods",
         "PurchaseHistory": [
             {
@@ -6359,7 +6359,7 @@
     },
     {
         "CashBalance": 228.26,
-        "Id": 105,
+        "UserId": 105,
         "Name": "Dora Hart",
         "PurchaseHistory": [
             {
@@ -6444,7 +6444,7 @@
     },
     {
         "CashBalance": 463.74,
-        "Id": 106,
+        "UserId": 106,
         "Name": "Candy Shepherd",
         "PurchaseHistory": [
             {
@@ -6529,7 +6529,7 @@
     },
     {
         "CashBalance": 231.91,
-        "Id": 107,
+        "UserId": 107,
         "Name": "Darlene Oliver",
         "PurchaseHistory": [
             {
@@ -6602,7 +6602,7 @@
     },
     {
         "CashBalance": 883.73,
-        "Id": 108,
+        "UserId": 108,
         "Name": "Robert King",
         "PurchaseHistory": [
             {
@@ -6621,7 +6621,7 @@
     },
     {
         "CashBalance": 107.09,
-        "Id": 109,
+        "UserId": 109,
         "Name": "Johnny Eversole",
         "PurchaseHistory": [
             {
@@ -6652,7 +6652,7 @@
     },
     {
         "CashBalance": 234.57,
-        "Id": 110,
+        "UserId": 110,
         "Name": "Jimmy Reid",
         "PurchaseHistory": [
             {
@@ -6665,7 +6665,7 @@
     },
     {
         "CashBalance": 530.68,
-        "Id": 111,
+        "UserId": 111,
         "Name": "Agnes Stemm",
         "PurchaseHistory": [
             {
@@ -6678,7 +6678,7 @@
     },
     {
         "CashBalance": 674.09,
-        "Id": 112,
+        "UserId": 112,
         "Name": "Roy Wood",
         "PurchaseHistory": [
             {
@@ -6757,7 +6757,7 @@
     },
     {
         "CashBalance": 861.09,
-        "Id": 113,
+        "UserId": 113,
         "Name": "Robin Loomis",
         "PurchaseHistory": [
             {
@@ -6800,7 +6800,7 @@
     },
     {
         "CashBalance": 19.68,
-        "Id": 114,
+        "UserId": 114,
         "Name": "Dolores Chaffin",
         "PurchaseHistory": [
             {
@@ -6837,7 +6837,7 @@
     },
     {
         "CashBalance": 864.29,
-        "Id": 115,
+        "UserId": 115,
         "Name": "Julie Warren",
         "PurchaseHistory": [
             {
@@ -6952,7 +6952,7 @@
     },
     {
         "CashBalance": 622.13,
-        "Id": 116,
+        "UserId": 116,
         "Name": "Salvatore Stout",
         "PurchaseHistory": [
             {
@@ -7019,7 +7019,7 @@
     },
     {
         "CashBalance": 957.16,
-        "Id": 117,
+        "UserId": 117,
         "Name": "Joann Bridges",
         "PurchaseHistory": [
             {
@@ -7074,7 +7074,7 @@
     },
     {
         "CashBalance": 864.57,
-        "Id": 118,
+        "UserId": 118,
         "Name": "Robert Morrison",
         "PurchaseHistory": [
             {
@@ -7123,19 +7123,19 @@
     },
     {
         "CashBalance": 388.84,
-        "Id": 119,
+        "UserId": 119,
         "Name": "Gary Beach",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 702.49,
-        "Id": 120,
+        "UserId": 120,
         "Name": "Clare Marcus",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 372.07,
-        "Id": 121,
+        "UserId": 121,
         "Name": "Philip Ramos",
         "PurchaseHistory": [
             {
@@ -7190,7 +7190,7 @@
     },
     {
         "CashBalance": 133.71,
-        "Id": 122,
+        "UserId": 122,
         "Name": "John Wenstrom",
         "PurchaseHistory": [
             {
@@ -7233,7 +7233,7 @@
     },
     {
         "CashBalance": 374.58,
-        "Id": 123,
+        "UserId": 123,
         "Name": "Wanda Papik",
         "PurchaseHistory": [
             {
@@ -7312,7 +7312,7 @@
     },
     {
         "CashBalance": 34.34,
-        "Id": 124,
+        "UserId": 124,
         "Name": "Eric Nieto",
         "PurchaseHistory": [
             {
@@ -7373,7 +7373,7 @@
     },
     {
         "CashBalance": 744.9,
-        "Id": 125,
+        "UserId": 125,
         "Name": "Mildred Shelton",
         "PurchaseHistory": [
             {
@@ -7482,7 +7482,7 @@
     },
     {
         "CashBalance": 850.54,
-        "Id": 126,
+        "UserId": 126,
         "Name": "Kristina Lambert",
         "PurchaseHistory": [
             {
@@ -7501,7 +7501,7 @@
     },
     {
         "CashBalance": 195.96,
-        "Id": 127,
+        "UserId": 127,
         "Name": "Barbara Arriaga",
         "PurchaseHistory": [
             {
@@ -7616,7 +7616,7 @@
     },
     {
         "CashBalance": 46.01,
-        "Id": 128,
+        "UserId": 128,
         "Name": "Leslie Hensley",
         "PurchaseHistory": [
             {
@@ -7737,7 +7737,7 @@
     },
     {
         "CashBalance": 791.15,
-        "Id": 129,
+        "UserId": 129,
         "Name": "Martha Szekely",
         "PurchaseHistory": [
             {
@@ -7756,7 +7756,7 @@
     },
     {
         "CashBalance": 652.3,
-        "Id": 130,
+        "UserId": 130,
         "Name": "John Maestas",
         "PurchaseHistory": [
             {
@@ -7877,7 +7877,7 @@
     },
     {
         "CashBalance": 647.0,
-        "Id": 131,
+        "UserId": 131,
         "Name": "Joseph Trujillo",
         "PurchaseHistory": [
             {
@@ -7962,7 +7962,7 @@
     },
     {
         "CashBalance": 497.39,
-        "Id": 132,
+        "UserId": 132,
         "Name": "Michael Gilmore",
         "PurchaseHistory": [
             {
@@ -8059,7 +8059,7 @@
     },
     {
         "CashBalance": 495.51,
-        "Id": 133,
+        "UserId": 133,
         "Name": "Raleigh Adler",
         "PurchaseHistory": [
             {
@@ -8078,7 +8078,7 @@
     },
     {
         "CashBalance": 143.25,
-        "Id": 134,
+        "UserId": 134,
         "Name": "Jaimie Staton",
         "PurchaseHistory": [
             {
@@ -8193,7 +8193,7 @@
     },
     {
         "CashBalance": 820.46,
-        "Id": 135,
+        "UserId": 135,
         "Name": "Frances Crim",
         "PurchaseHistory": [
             {
@@ -8236,7 +8236,7 @@
     },
     {
         "CashBalance": 134.26,
-        "Id": 136,
+        "UserId": 136,
         "Name": "Richard Cary",
         "PurchaseHistory": [
             {
@@ -8261,7 +8261,7 @@
     },
     {
         "CashBalance": 967.02,
-        "Id": 137,
+        "UserId": 137,
         "Name": "Kelly Peck",
         "PurchaseHistory": [
             {
@@ -8292,7 +8292,7 @@
     },
     {
         "CashBalance": 450.06,
-        "Id": 138,
+        "UserId": 138,
         "Name": "Clifford Haynes",
         "PurchaseHistory": [
             {
@@ -8383,7 +8383,7 @@
     },
     {
         "CashBalance": 523.54,
-        "Id": 139,
+        "UserId": 139,
         "Name": "Donald Bane",
         "PurchaseHistory": [
             {
@@ -8408,7 +8408,7 @@
     },
     {
         "CashBalance": 260.28,
-        "Id": 140,
+        "UserId": 140,
         "Name": "Lula Mentgen",
         "PurchaseHistory": [
             {
@@ -8523,7 +8523,7 @@
     },
     {
         "CashBalance": 587.56,
-        "Id": 141,
+        "UserId": 141,
         "Name": "Jessica Lewis",
         "PurchaseHistory": [
             {
@@ -8536,7 +8536,7 @@
     },
     {
         "CashBalance": 479.46,
-        "Id": 142,
+        "UserId": 142,
         "Name": "Lidia Schultz",
         "PurchaseHistory": [
             {
@@ -8567,7 +8567,7 @@
     },
     {
         "CashBalance": 261.08,
-        "Id": 143,
+        "UserId": 143,
         "Name": "Phyllis Williams",
         "PurchaseHistory": [
             {
@@ -8634,7 +8634,7 @@
     },
     {
         "CashBalance": 662.24,
-        "Id": 144,
+        "UserId": 144,
         "Name": "Jessica Coleman",
         "PurchaseHistory": [
             {
@@ -8731,7 +8731,7 @@
     },
     {
         "CashBalance": 229.85,
-        "Id": 145,
+        "UserId": 145,
         "Name": "Robert Briggs",
         "PurchaseHistory": [
             {
@@ -8744,7 +8744,7 @@
     },
     {
         "CashBalance": 961.28,
-        "Id": 146,
+        "UserId": 146,
         "Name": "Ana Fox",
         "PurchaseHistory": [
             {
@@ -8853,7 +8853,7 @@
     },
     {
         "CashBalance": 649.18,
-        "Id": 147,
+        "UserId": 147,
         "Name": "Jonathan Savage",
         "PurchaseHistory": [
             {
@@ -8902,13 +8902,13 @@
     },
     {
         "CashBalance": 508.73,
-        "Id": 148,
+        "UserId": 148,
         "Name": "Chad Wilson",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 132.5,
-        "Id": 149,
+        "UserId": 149,
         "Name": "Derek Vogt",
         "PurchaseHistory": [
             {
@@ -8939,7 +8939,7 @@
     },
     {
         "CashBalance": 947.42,
-        "Id": 150,
+        "UserId": 150,
         "Name": "Tomas Brown",
         "PurchaseHistory": [
             {
@@ -9030,7 +9030,7 @@
     },
     {
         "CashBalance": 17.2,
-        "Id": 151,
+        "UserId": 151,
         "Name": "James Balistreri",
         "PurchaseHistory": [
             {
@@ -9097,13 +9097,13 @@
     },
     {
         "CashBalance": 799.24,
-        "Id": 152,
+        "UserId": 152,
         "Name": "Brandon Stephens",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 342.05,
-        "Id": 153,
+        "UserId": 153,
         "Name": "Christy Adams",
         "PurchaseHistory": [
             {
@@ -9224,7 +9224,7 @@
     },
     {
         "CashBalance": 315.32,
-        "Id": 154,
+        "UserId": 154,
         "Name": "Howard Olson",
         "PurchaseHistory": [
             {
@@ -9273,7 +9273,7 @@
     },
     {
         "CashBalance": 354.59,
-        "Id": 155,
+        "UserId": 155,
         "Name": "Annette Menz",
         "PurchaseHistory": [
             {
@@ -9340,7 +9340,7 @@
     },
     {
         "CashBalance": 90.69,
-        "Id": 156,
+        "UserId": 156,
         "Name": "Dana Palmer",
         "PurchaseHistory": [
             {
@@ -9455,7 +9455,7 @@
     },
     {
         "CashBalance": 240.97,
-        "Id": 157,
+        "UserId": 157,
         "Name": "Shad Beason",
         "PurchaseHistory": [
             {
@@ -9480,7 +9480,7 @@
     },
     {
         "CashBalance": 208.81,
-        "Id": 158,
+        "UserId": 158,
         "Name": "Andrew Mcclellan",
         "PurchaseHistory": [
             {
@@ -9541,7 +9541,7 @@
     },
     {
         "CashBalance": 590.52,
-        "Id": 159,
+        "UserId": 159,
         "Name": "Evangeline Moses",
         "PurchaseHistory": [
             {
@@ -9650,7 +9650,7 @@
     },
     {
         "CashBalance": 725.61,
-        "Id": 160,
+        "UserId": 160,
         "Name": "Tom Wilson",
         "PurchaseHistory": [
             {
@@ -9699,7 +9699,7 @@
     },
     {
         "CashBalance": 87.18,
-        "Id": 161,
+        "UserId": 161,
         "Name": "Lourdes Jack",
         "PurchaseHistory": [
             {
@@ -9778,7 +9778,7 @@
     },
     {
         "CashBalance": 171.32,
-        "Id": 162,
+        "UserId": 162,
         "Name": "June Gomez",
         "PurchaseHistory": [
             {
@@ -9839,7 +9839,7 @@
     },
     {
         "CashBalance": 724.77,
-        "Id": 163,
+        "UserId": 163,
         "Name": "Marilyn Cooke",
         "PurchaseHistory": [
             {
@@ -9894,7 +9894,7 @@
     },
     {
         "CashBalance": 585.77,
-        "Id": 164,
+        "UserId": 164,
         "Name": "Jose Grunden",
         "PurchaseHistory": [
             {
@@ -9961,7 +9961,7 @@
     },
     {
         "CashBalance": 687.7,
-        "Id": 165,
+        "UserId": 165,
         "Name": "Bonita Spencer",
         "PurchaseHistory": [
             {
@@ -10028,7 +10028,7 @@
     },
     {
         "CashBalance": 616.14,
-        "Id": 166,
+        "UserId": 166,
         "Name": "Israel Finkle",
         "PurchaseHistory": [
             {
@@ -10095,7 +10095,7 @@
     },
     {
         "CashBalance": 74.3,
-        "Id": 167,
+        "UserId": 167,
         "Name": "Mark Moore",
         "PurchaseHistory": [
             {
@@ -10114,7 +10114,7 @@
     },
     {
         "CashBalance": 466.34,
-        "Id": 168,
+        "UserId": 168,
         "Name": "Joel Flynn",
         "PurchaseHistory": [
             {
@@ -10169,7 +10169,7 @@
     },
     {
         "CashBalance": 62.34,
-        "Id": 169,
+        "UserId": 169,
         "Name": "Jane Jeffery",
         "PurchaseHistory": [
             {
@@ -10236,7 +10236,7 @@
     },
     {
         "CashBalance": 429.7,
-        "Id": 170,
+        "UserId": 170,
         "Name": "Patricia Spring",
         "PurchaseHistory": [
             {
@@ -10339,7 +10339,7 @@
     },
     {
         "CashBalance": 219.57,
-        "Id": 171,
+        "UserId": 171,
         "Name": "Brenda Tompkins",
         "PurchaseHistory": [
             {
@@ -10430,7 +10430,7 @@
     },
     {
         "CashBalance": 71.48,
-        "Id": 172,
+        "UserId": 172,
         "Name": "Anthony Karg",
         "PurchaseHistory": [
             {
@@ -10443,7 +10443,7 @@
     },
     {
         "CashBalance": 635.69,
-        "Id": 173,
+        "UserId": 173,
         "Name": "Robert Hedge",
         "PurchaseHistory": [
             {
@@ -10462,7 +10462,7 @@
     },
     {
         "CashBalance": 93.75,
-        "Id": 174,
+        "UserId": 174,
         "Name": "Richard Amin",
         "PurchaseHistory": [
             {
@@ -10583,7 +10583,7 @@
     },
     {
         "CashBalance": 457.98,
-        "Id": 175,
+        "UserId": 175,
         "Name": "Sandra Murphy",
         "PurchaseHistory": [
             {
@@ -10644,7 +10644,7 @@
     },
     {
         "CashBalance": 336.58,
-        "Id": 176,
+        "UserId": 176,
         "Name": "William Jordan",
         "PurchaseHistory": [
             {
@@ -10705,7 +10705,7 @@
     },
     {
         "CashBalance": 266.55,
-        "Id": 177,
+        "UserId": 177,
         "Name": "Maureen Evans",
         "PurchaseHistory": [
             {
@@ -10778,7 +10778,7 @@
     },
     {
         "CashBalance": 451.61,
-        "Id": 178,
+        "UserId": 178,
         "Name": "Billy Pelham",
         "PurchaseHistory": [
             {
@@ -10821,7 +10821,7 @@
     },
     {
         "CashBalance": 152.52,
-        "Id": 179,
+        "UserId": 179,
         "Name": "Janie Newell",
         "PurchaseHistory": [
             {
@@ -10846,7 +10846,7 @@
     },
     {
         "CashBalance": 521.82,
-        "Id": 180,
+        "UserId": 180,
         "Name": "Rhonda Legendre",
         "PurchaseHistory": [
             {
@@ -10931,13 +10931,13 @@
     },
     {
         "CashBalance": 643.85,
-        "Id": 181,
+        "UserId": 181,
         "Name": "Elaine Fick",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 898.25,
-        "Id": 182,
+        "UserId": 182,
         "Name": "Walter Burkholder",
         "PurchaseHistory": [
             {
@@ -11028,7 +11028,7 @@
     },
     {
         "CashBalance": 339.12,
-        "Id": 183,
+        "UserId": 183,
         "Name": "Jonathan Croteau",
         "PurchaseHistory": [
             {
@@ -11041,7 +11041,7 @@
     },
     {
         "CashBalance": 387.82,
-        "Id": 184,
+        "UserId": 184,
         "Name": "Rodney Shipp",
         "PurchaseHistory": [
             {
@@ -11084,13 +11084,13 @@
     },
     {
         "CashBalance": 780.19,
-        "Id": 185,
+        "UserId": 185,
         "Name": "Kimberly Mueller",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 756.23,
-        "Id": 186,
+        "UserId": 186,
         "Name": "Kerry Perez",
         "PurchaseHistory": [
             {
@@ -11193,7 +11193,7 @@
     },
     {
         "CashBalance": 666.0,
-        "Id": 187,
+        "UserId": 187,
         "Name": "Lena Isbrecht",
         "PurchaseHistory": [
             {
@@ -11236,13 +11236,13 @@
     },
     {
         "CashBalance": 123.13,
-        "Id": 188,
+        "UserId": 188,
         "Name": "Robin Nickle",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 479.54,
-        "Id": 189,
+        "UserId": 189,
         "Name": "Donna Mitchell",
         "PurchaseHistory": [
             {
@@ -11351,7 +11351,7 @@
     },
     {
         "CashBalance": 378.76,
-        "Id": 190,
+        "UserId": 190,
         "Name": "James Banks",
         "PurchaseHistory": [
             {
@@ -11382,7 +11382,7 @@
     },
     {
         "CashBalance": 799.59,
-        "Id": 191,
+        "UserId": 191,
         "Name": "Connie Falcone",
         "PurchaseHistory": [
             {
@@ -11461,7 +11461,7 @@
     },
     {
         "CashBalance": 285.53,
-        "Id": 192,
+        "UserId": 192,
         "Name": "Robert Burrow",
         "PurchaseHistory": [
             {
@@ -11576,7 +11576,7 @@
     },
     {
         "CashBalance": 6.15,
-        "Id": 193,
+        "UserId": 193,
         "Name": "Matthew Baker",
         "PurchaseHistory": [
             {
@@ -11643,7 +11643,7 @@
     },
     {
         "CashBalance": 663.27,
-        "Id": 194,
+        "UserId": 194,
         "Name": "Shirley Carter",
         "PurchaseHistory": [
             {
@@ -11674,7 +11674,7 @@
     },
     {
         "CashBalance": 556.46,
-        "Id": 195,
+        "UserId": 195,
         "Name": "Steven Uvalle",
         "PurchaseHistory": [
             {
@@ -11783,7 +11783,7 @@
     },
     {
         "CashBalance": 861.72,
-        "Id": 196,
+        "UserId": 196,
         "Name": "Katie Lane",
         "PurchaseHistory": [
             {
@@ -11808,7 +11808,7 @@
     },
     {
         "CashBalance": 962.4,
-        "Id": 197,
+        "UserId": 197,
         "Name": "Hector Pattison",
         "PurchaseHistory": [
             {
@@ -11911,7 +11911,7 @@
     },
     {
         "CashBalance": 867.58,
-        "Id": 198,
+        "UserId": 198,
         "Name": "Tobias Kirksey",
         "PurchaseHistory": [
             {
@@ -11948,7 +11948,7 @@
     },
     {
         "CashBalance": 877.7,
-        "Id": 199,
+        "UserId": 199,
         "Name": "Nicholas Bracy",
         "PurchaseHistory": [
             {
@@ -11985,7 +11985,7 @@
     },
     {
         "CashBalance": 992.34,
-        "Id": 200,
+        "UserId": 200,
         "Name": "Alphonse Reyes",
         "PurchaseHistory": [
             {
@@ -12034,7 +12034,7 @@
     },
     {
         "CashBalance": 926.24,
-        "Id": 201,
+        "UserId": 201,
         "Name": "Barbara Lee",
         "PurchaseHistory": [
             {
@@ -12131,7 +12131,7 @@
     },
     {
         "CashBalance": 357.96,
-        "Id": 202,
+        "UserId": 202,
         "Name": "Thomas Hanner",
         "PurchaseHistory": [
             {
@@ -12180,7 +12180,7 @@
     },
     {
         "CashBalance": 557.45,
-        "Id": 203,
+        "UserId": 203,
         "Name": "Chris Imfeld",
         "PurchaseHistory": [
             {
@@ -12265,7 +12265,7 @@
     },
     {
         "CashBalance": 235.81,
-        "Id": 204,
+        "UserId": 204,
         "Name": "Ricky Ishak",
         "PurchaseHistory": [
             {
@@ -12284,7 +12284,7 @@
     },
     {
         "CashBalance": 829.2,
-        "Id": 205,
+        "UserId": 205,
         "Name": "Allison Bender",
         "PurchaseHistory": [
             {
@@ -12399,7 +12399,7 @@
     },
     {
         "CashBalance": 407.38,
-        "Id": 206,
+        "UserId": 206,
         "Name": "Diana Schumann",
         "PurchaseHistory": [
             {
@@ -12496,7 +12496,7 @@
     },
     {
         "CashBalance": 888.05,
-        "Id": 207,
+        "UserId": 207,
         "Name": "Margaret Carr",
         "PurchaseHistory": [
             {
@@ -12581,7 +12581,7 @@
     },
     {
         "CashBalance": 124.52,
-        "Id": 208,
+        "UserId": 208,
         "Name": "James Stay",
         "PurchaseHistory": [
             {
@@ -12636,7 +12636,7 @@
     },
     {
         "CashBalance": 637.31,
-        "Id": 209,
+        "UserId": 209,
         "Name": "Harold White",
         "PurchaseHistory": [
             {
@@ -12727,7 +12727,7 @@
     },
     {
         "CashBalance": 794.34,
-        "Id": 210,
+        "UserId": 210,
         "Name": "John Price",
         "PurchaseHistory": [
             {
@@ -12788,7 +12788,7 @@
     },
     {
         "CashBalance": 593.16,
-        "Id": 211,
+        "UserId": 211,
         "Name": "John Hoover",
         "PurchaseHistory": [
             {
@@ -12861,7 +12861,7 @@
     },
     {
         "CashBalance": 665.97,
-        "Id": 212,
+        "UserId": 212,
         "Name": "Margaret Carter",
         "PurchaseHistory": [
             {
@@ -12916,7 +12916,7 @@
     },
     {
         "CashBalance": 725.45,
-        "Id": 213,
+        "UserId": 213,
         "Name": "Christopher Heritage",
         "PurchaseHistory": [
             {
@@ -12947,7 +12947,7 @@
     },
     {
         "CashBalance": 952.74,
-        "Id": 214,
+        "UserId": 214,
         "Name": "Richard Jacobs",
         "PurchaseHistory": [
             {
@@ -13026,13 +13026,13 @@
     },
     {
         "CashBalance": 171.24,
-        "Id": 215,
+        "UserId": 215,
         "Name": "Alma Dubois",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 395.73,
-        "Id": 216,
+        "UserId": 216,
         "Name": "Harold Thornton",
         "PurchaseHistory": [
             {
@@ -13057,7 +13057,7 @@
     },
     {
         "CashBalance": 989.41,
-        "Id": 217,
+        "UserId": 217,
         "Name": "Raymond Tatum",
         "PurchaseHistory": [
             {
@@ -13106,7 +13106,7 @@
     },
     {
         "CashBalance": 870.35,
-        "Id": 218,
+        "UserId": 218,
         "Name": "Ross Benton",
         "PurchaseHistory": [
             {
@@ -13185,7 +13185,7 @@
     },
     {
         "CashBalance": 131.34,
-        "Id": 219,
+        "UserId": 219,
         "Name": "Joseph Harbeson",
         "PurchaseHistory": [
             {
@@ -13222,7 +13222,7 @@
     },
     {
         "CashBalance": 520.6,
-        "Id": 220,
+        "UserId": 220,
         "Name": "Curtis Odum",
         "PurchaseHistory": [
             {
@@ -13259,7 +13259,7 @@
     },
     {
         "CashBalance": 164.77,
-        "Id": 221,
+        "UserId": 221,
         "Name": "Tina White",
         "PurchaseHistory": [
             {
@@ -13278,7 +13278,7 @@
     },
     {
         "CashBalance": 821.79,
-        "Id": 222,
+        "UserId": 222,
         "Name": "Chris Holtsclaw",
         "PurchaseHistory": [
             {
@@ -13399,7 +13399,7 @@
     },
     {
         "CashBalance": 319.25,
-        "Id": 223,
+        "UserId": 223,
         "Name": "Charley Hope",
         "PurchaseHistory": [
             {
@@ -13460,7 +13460,7 @@
     },
     {
         "CashBalance": 178.04,
-        "Id": 224,
+        "UserId": 224,
         "Name": "Betty Whitaker",
         "PurchaseHistory": [
             {
@@ -13575,7 +13575,7 @@
     },
     {
         "CashBalance": 407.33,
-        "Id": 225,
+        "UserId": 225,
         "Name": "Heather Koch",
         "PurchaseHistory": [
             {
@@ -13588,7 +13588,7 @@
     },
     {
         "CashBalance": 319.85,
-        "Id": 226,
+        "UserId": 226,
         "Name": "Troy Clingerman",
         "PurchaseHistory": [
             {
@@ -13691,7 +13691,7 @@
     },
     {
         "CashBalance": 713.03,
-        "Id": 227,
+        "UserId": 227,
         "Name": "Peggy Cullins",
         "PurchaseHistory": [
             {
@@ -13788,7 +13788,7 @@
     },
     {
         "CashBalance": 703.94,
-        "Id": 228,
+        "UserId": 228,
         "Name": "Julian Castellano",
         "PurchaseHistory": [
             {
@@ -13867,7 +13867,7 @@
     },
     {
         "CashBalance": 454.74,
-        "Id": 229,
+        "UserId": 229,
         "Name": "Barry Gonzalez",
         "PurchaseHistory": [
             {
@@ -13886,7 +13886,7 @@
     },
     {
         "CashBalance": 151.5,
-        "Id": 230,
+        "UserId": 230,
         "Name": "Janis Houck",
         "PurchaseHistory": [
             {
@@ -13911,7 +13911,7 @@
     },
     {
         "CashBalance": 100.57,
-        "Id": 231,
+        "UserId": 231,
         "Name": "Joshua Chang",
         "PurchaseHistory": [
             {
@@ -14026,7 +14026,7 @@
     },
     {
         "CashBalance": 690.65,
-        "Id": 232,
+        "UserId": 232,
         "Name": "Frances Smith",
         "PurchaseHistory": [
             {
@@ -14099,7 +14099,7 @@
     },
     {
         "CashBalance": 930.01,
-        "Id": 233,
+        "UserId": 233,
         "Name": "Richard Houston",
         "PurchaseHistory": [
             {
@@ -14196,7 +14196,7 @@
     },
     {
         "CashBalance": 735.89,
-        "Id": 234,
+        "UserId": 234,
         "Name": "Steven Wright",
         "PurchaseHistory": [
             {
@@ -14293,7 +14293,7 @@
     },
     {
         "CashBalance": 792.4,
-        "Id": 235,
+        "UserId": 235,
         "Name": "Stephanie Odell",
         "PurchaseHistory": [
             {
@@ -14330,7 +14330,7 @@
     },
     {
         "CashBalance": 114.81,
-        "Id": 236,
+        "UserId": 236,
         "Name": "Robert Hernandez",
         "PurchaseHistory": [
             {
@@ -14397,7 +14397,7 @@
     },
     {
         "CashBalance": 29.61,
-        "Id": 237,
+        "UserId": 237,
         "Name": "Holly Philbrook",
         "PurchaseHistory": [
             {
@@ -14476,7 +14476,7 @@
     },
     {
         "CashBalance": 168.35,
-        "Id": 238,
+        "UserId": 238,
         "Name": "Robert Bunting",
         "PurchaseHistory": [
             {
@@ -14591,7 +14591,7 @@
     },
     {
         "CashBalance": 401.63,
-        "Id": 239,
+        "UserId": 239,
         "Name": "Dolores Linehan",
         "PurchaseHistory": [
             {
@@ -14652,7 +14652,7 @@
     },
     {
         "CashBalance": 239.93,
-        "Id": 240,
+        "UserId": 240,
         "Name": "Gregory Brown",
         "PurchaseHistory": [
             {
@@ -14701,7 +14701,7 @@
     },
     {
         "CashBalance": 333.56,
-        "Id": 241,
+        "UserId": 241,
         "Name": "Perla Oakley",
         "PurchaseHistory": [
             {
@@ -14822,7 +14822,7 @@
     },
     {
         "CashBalance": 73.58,
-        "Id": 242,
+        "UserId": 242,
         "Name": "Christopher Tobon",
         "PurchaseHistory": [
             {
@@ -14877,7 +14877,7 @@
     },
     {
         "CashBalance": 416.76,
-        "Id": 243,
+        "UserId": 243,
         "Name": "Ronald Pfeiffer",
         "PurchaseHistory": [
             {
@@ -14992,7 +14992,7 @@
     },
     {
         "CashBalance": 911.79,
-        "Id": 244,
+        "UserId": 244,
         "Name": "Lee Blanco",
         "PurchaseHistory": [
             {
@@ -15005,7 +15005,7 @@
     },
     {
         "CashBalance": 979.23,
-        "Id": 245,
+        "UserId": 245,
         "Name": "Antoinette Rummler",
         "PurchaseHistory": [
             {
@@ -15018,7 +15018,7 @@
     },
     {
         "CashBalance": 631.14,
-        "Id": 246,
+        "UserId": 246,
         "Name": "Orlando Johnson",
         "PurchaseHistory": [
             {
@@ -15133,7 +15133,7 @@
     },
     {
         "CashBalance": 318.99,
-        "Id": 247,
+        "UserId": 247,
         "Name": "Lonnie Taylor",
         "PurchaseHistory": [
             {
@@ -15146,7 +15146,7 @@
     },
     {
         "CashBalance": 292.41,
-        "Id": 248,
+        "UserId": 248,
         "Name": "Donna Dockery",
         "PurchaseHistory": [
             {
@@ -15177,7 +15177,7 @@
     },
     {
         "CashBalance": 414.32,
-        "Id": 249,
+        "UserId": 249,
         "Name": "Christopher Phan",
         "PurchaseHistory": [
             {
@@ -15286,7 +15286,7 @@
     },
     {
         "CashBalance": 166.09,
-        "Id": 250,
+        "UserId": 250,
         "Name": "Deborah Quintero",
         "PurchaseHistory": [
             {
@@ -15347,13 +15347,13 @@
     },
     {
         "CashBalance": 84.28,
-        "Id": 251,
+        "UserId": 251,
         "Name": "Karen Graham",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 160.75,
-        "Id": 252,
+        "UserId": 252,
         "Name": "Grace Rogers",
         "PurchaseHistory": [
             {
@@ -15450,7 +15450,7 @@
     },
     {
         "CashBalance": 387.84,
-        "Id": 253,
+        "UserId": 253,
         "Name": "Wendy Romano",
         "PurchaseHistory": [
             {
@@ -15511,7 +15511,7 @@
     },
     {
         "CashBalance": 853.08,
-        "Id": 254,
+        "UserId": 254,
         "Name": "Byron Ho",
         "PurchaseHistory": [
             {
@@ -15608,7 +15608,7 @@
     },
     {
         "CashBalance": 616.41,
-        "Id": 255,
+        "UserId": 255,
         "Name": "Noelle Hunter",
         "PurchaseHistory": [
             {
@@ -15693,7 +15693,7 @@
     },
     {
         "CashBalance": 239.87,
-        "Id": 256,
+        "UserId": 256,
         "Name": "Whitney Whiting",
         "PurchaseHistory": [
             {
@@ -15808,7 +15808,7 @@
     },
     {
         "CashBalance": 107.63,
-        "Id": 257,
+        "UserId": 257,
         "Name": "Paul Johnson",
         "PurchaseHistory": [
             {
@@ -15827,7 +15827,7 @@
     },
     {
         "CashBalance": 842.0,
-        "Id": 258,
+        "UserId": 258,
         "Name": "Anne Bauer",
         "PurchaseHistory": [
             {
@@ -15936,7 +15936,7 @@
     },
     {
         "CashBalance": 488.54,
-        "Id": 259,
+        "UserId": 259,
         "Name": "Theresa Kjar",
         "PurchaseHistory": [
             {
@@ -16027,7 +16027,7 @@
     },
     {
         "CashBalance": 242.96,
-        "Id": 260,
+        "UserId": 260,
         "Name": "Lawanda Wright",
         "PurchaseHistory": [
             {
@@ -16046,7 +16046,7 @@
     },
     {
         "CashBalance": 606.1,
-        "Id": 261,
+        "UserId": 261,
         "Name": "Doris Laumbach",
         "PurchaseHistory": [
             {
@@ -16107,7 +16107,7 @@
     },
     {
         "CashBalance": 28.9,
-        "Id": 262,
+        "UserId": 262,
         "Name": "Jo Willbanks",
         "PurchaseHistory": [
             {
@@ -16204,7 +16204,7 @@
     },
     {
         "CashBalance": 824.62,
-        "Id": 263,
+        "UserId": 263,
         "Name": "Ray Sudduth",
         "PurchaseHistory": [
             {
@@ -16265,7 +16265,7 @@
     },
     {
         "CashBalance": 149.2,
-        "Id": 264,
+        "UserId": 264,
         "Name": "Emanuel Overstreet",
         "PurchaseHistory": [
             {
@@ -16284,7 +16284,7 @@
     },
     {
         "CashBalance": 959.31,
-        "Id": 265,
+        "UserId": 265,
         "Name": "Kristi Prichard",
         "PurchaseHistory": [
             {
@@ -16387,7 +16387,7 @@
     },
     {
         "CashBalance": 474.09,
-        "Id": 266,
+        "UserId": 266,
         "Name": "Robert Lake",
         "PurchaseHistory": [
             {
@@ -16424,7 +16424,7 @@
     },
     {
         "CashBalance": 989.54,
-        "Id": 267,
+        "UserId": 267,
         "Name": "Julia Milligan",
         "PurchaseHistory": [
             {
@@ -16437,7 +16437,7 @@
     },
     {
         "CashBalance": 724.4,
-        "Id": 268,
+        "UserId": 268,
         "Name": "Eleanor Whitehead",
         "PurchaseHistory": [
             {
@@ -16522,7 +16522,7 @@
     },
     {
         "CashBalance": 42.87,
-        "Id": 269,
+        "UserId": 269,
         "Name": "Martha Evans",
         "PurchaseHistory": [
             {
@@ -16631,7 +16631,7 @@
     },
     {
         "CashBalance": 878.31,
-        "Id": 270,
+        "UserId": 270,
         "Name": "Anna Holland",
         "PurchaseHistory": [
             {
@@ -16740,7 +16740,7 @@
     },
     {
         "CashBalance": 84.37,
-        "Id": 271,
+        "UserId": 271,
         "Name": "Alvin Gilson",
         "PurchaseHistory": [
             {
@@ -16771,7 +16771,7 @@
     },
     {
         "CashBalance": 232.47,
-        "Id": 272,
+        "UserId": 272,
         "Name": "Charles Sechrest",
         "PurchaseHistory": [
             {
@@ -16886,7 +16886,7 @@
     },
     {
         "CashBalance": 79.2,
-        "Id": 273,
+        "UserId": 273,
         "Name": "Amy Lewis",
         "PurchaseHistory": [
             {
@@ -16995,7 +16995,7 @@
     },
     {
         "CashBalance": 891.35,
-        "Id": 274,
+        "UserId": 274,
         "Name": "Laura Payne",
         "PurchaseHistory": [
             {
@@ -17092,7 +17092,7 @@
     },
     {
         "CashBalance": 566.25,
-        "Id": 275,
+        "UserId": 275,
         "Name": "Clyde Looper",
         "PurchaseHistory": [
             {
@@ -17111,7 +17111,7 @@
     },
     {
         "CashBalance": 778.17,
-        "Id": 276,
+        "UserId": 276,
         "Name": "Allan Moyers",
         "PurchaseHistory": [
             {
@@ -17214,7 +17214,7 @@
     },
     {
         "CashBalance": 571.63,
-        "Id": 277,
+        "UserId": 277,
         "Name": "Robert Forcello",
         "PurchaseHistory": [
             {
@@ -17293,7 +17293,7 @@
     },
     {
         "CashBalance": 539.15,
-        "Id": 278,
+        "UserId": 278,
         "Name": "Amanda Henderson",
         "PurchaseHistory": [
             {
@@ -17372,7 +17372,7 @@
     },
     {
         "CashBalance": 609.16,
-        "Id": 279,
+        "UserId": 279,
         "Name": "Patricia Few",
         "PurchaseHistory": [
             {
@@ -17385,7 +17385,7 @@
     },
     {
         "CashBalance": 825.93,
-        "Id": 280,
+        "UserId": 280,
         "Name": "Elizabeth Featherston",
         "PurchaseHistory": [
             {
@@ -17404,7 +17404,7 @@
     },
     {
         "CashBalance": 481.49,
-        "Id": 281,
+        "UserId": 281,
         "Name": "Gladys Pelletier",
         "PurchaseHistory": [
             {
@@ -17423,7 +17423,7 @@
     },
     {
         "CashBalance": 59.67,
-        "Id": 282,
+        "UserId": 282,
         "Name": "John Depuy",
         "PurchaseHistory": [
             {
@@ -17460,7 +17460,7 @@
     },
     {
         "CashBalance": 402.67,
-        "Id": 283,
+        "UserId": 283,
         "Name": "Marie Royal",
         "PurchaseHistory": [
             {
@@ -17569,7 +17569,7 @@
     },
     {
         "CashBalance": 13.09,
-        "Id": 284,
+        "UserId": 284,
         "Name": "Michael Thomen",
         "PurchaseHistory": [
             {
@@ -17666,7 +17666,7 @@
     },
     {
         "CashBalance": 911.74,
-        "Id": 285,
+        "UserId": 285,
         "Name": "Juanita Nelson",
         "PurchaseHistory": [
             {
@@ -17751,7 +17751,7 @@
     },
     {
         "CashBalance": 350.6,
-        "Id": 286,
+        "UserId": 286,
         "Name": "William Triplett",
         "PurchaseHistory": [
             {
@@ -17764,7 +17764,7 @@
     },
     {
         "CashBalance": 521.2,
-        "Id": 287,
+        "UserId": 287,
         "Name": "Richard Buss",
         "PurchaseHistory": [
             {
@@ -17813,7 +17813,7 @@
     },
     {
         "CashBalance": 317.58,
-        "Id": 288,
+        "UserId": 288,
         "Name": "Richard Savage",
         "PurchaseHistory": [
             {
@@ -17934,7 +17934,7 @@
     },
     {
         "CashBalance": 494.41,
-        "Id": 289,
+        "UserId": 289,
         "Name": "Terri Sylvestre",
         "PurchaseHistory": [
             {
@@ -17971,7 +17971,7 @@
     },
     {
         "CashBalance": 536.84,
-        "Id": 290,
+        "UserId": 290,
         "Name": "Rachel Ryan",
         "PurchaseHistory": [
             {
@@ -18032,7 +18032,7 @@
     },
     {
         "CashBalance": 601.18,
-        "Id": 291,
+        "UserId": 291,
         "Name": "Gerald Gomez",
         "PurchaseHistory": [
             {
@@ -18105,7 +18105,7 @@
     },
     {
         "CashBalance": 183.51,
-        "Id": 292,
+        "UserId": 292,
         "Name": "Doris France",
         "PurchaseHistory": [
             {
@@ -18160,7 +18160,7 @@
     },
     {
         "CashBalance": 27.29,
-        "Id": 293,
+        "UserId": 293,
         "Name": "Joseph Almand",
         "PurchaseHistory": [
             {
@@ -18251,13 +18251,13 @@
     },
     {
         "CashBalance": 174.6,
-        "Id": 294,
+        "UserId": 294,
         "Name": "Gerald Hedrick",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 476.89,
-        "Id": 295,
+        "UserId": 295,
         "Name": "Otis Sanchirico",
         "PurchaseHistory": [
             {
@@ -18312,7 +18312,7 @@
     },
     {
         "CashBalance": 834.14,
-        "Id": 296,
+        "UserId": 296,
         "Name": "Amber Wright",
         "PurchaseHistory": [
             {
@@ -18433,7 +18433,7 @@
     },
     {
         "CashBalance": 405.82,
-        "Id": 297,
+        "UserId": 297,
         "Name": "Briana Caulder",
         "PurchaseHistory": [
             {
@@ -18482,7 +18482,7 @@
     },
     {
         "CashBalance": 624.69,
-        "Id": 298,
+        "UserId": 298,
         "Name": "Pauline Blair",
         "PurchaseHistory": [
             {
@@ -18549,7 +18549,7 @@
     },
     {
         "CashBalance": 354.52,
-        "Id": 299,
+        "UserId": 299,
         "Name": "John Lopez",
         "PurchaseHistory": [
             {
@@ -18610,7 +18610,7 @@
     },
     {
         "CashBalance": 159.22,
-        "Id": 300,
+        "UserId": 300,
         "Name": "Robert Dietz",
         "PurchaseHistory": [
             {
@@ -18707,7 +18707,7 @@
     },
     {
         "CashBalance": 51.35,
-        "Id": 301,
+        "UserId": 301,
         "Name": "Grover Pittman",
         "PurchaseHistory": [
             {
@@ -18744,7 +18744,7 @@
     },
     {
         "CashBalance": 119.43,
-        "Id": 302,
+        "UserId": 302,
         "Name": "Yolanda Williams",
         "PurchaseHistory": [
             {
@@ -18775,7 +18775,7 @@
     },
     {
         "CashBalance": 464.65,
-        "Id": 303,
+        "UserId": 303,
         "Name": "Adam Mudd",
         "PurchaseHistory": [
             {
@@ -18854,7 +18854,7 @@
     },
     {
         "CashBalance": 484.14,
-        "Id": 304,
+        "UserId": 304,
         "Name": "Monty Dietzler",
         "PurchaseHistory": [
             {
@@ -18909,7 +18909,7 @@
     },
     {
         "CashBalance": 285.59,
-        "Id": 305,
+        "UserId": 305,
         "Name": "Archie Pothier",
         "PurchaseHistory": [
             {
@@ -18952,7 +18952,7 @@
     },
     {
         "CashBalance": 990.31,
-        "Id": 306,
+        "UserId": 306,
         "Name": "Martha Paneto",
         "PurchaseHistory": [
             {
@@ -19037,7 +19037,7 @@
     },
     {
         "CashBalance": 821.52,
-        "Id": 307,
+        "UserId": 307,
         "Name": "Jack Hess",
         "PurchaseHistory": [
             {
@@ -19128,7 +19128,7 @@
     },
     {
         "CashBalance": 552.23,
-        "Id": 308,
+        "UserId": 308,
         "Name": "Charles Petersen",
         "PurchaseHistory": [
             {
@@ -19249,13 +19249,13 @@
     },
     {
         "CashBalance": 306.9,
-        "Id": 309,
+        "UserId": 309,
         "Name": "Jeffery Kulas",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 449.26,
-        "Id": 310,
+        "UserId": 310,
         "Name": "John Dye",
         "PurchaseHistory": [
             {
@@ -19322,7 +19322,7 @@
     },
     {
         "CashBalance": 528.14,
-        "Id": 311,
+        "UserId": 311,
         "Name": "Jerry Liles",
         "PurchaseHistory": [
             {
@@ -19425,7 +19425,7 @@
     },
     {
         "CashBalance": 529.49,
-        "Id": 312,
+        "UserId": 312,
         "Name": "Whitney Wyant",
         "PurchaseHistory": [
             {
@@ -19444,7 +19444,7 @@
     },
     {
         "CashBalance": 971.85,
-        "Id": 313,
+        "UserId": 313,
         "Name": "Helen Legan",
         "PurchaseHistory": [
             {
@@ -19511,7 +19511,7 @@
     },
     {
         "CashBalance": 572.39,
-        "Id": 314,
+        "UserId": 314,
         "Name": "Laura Torres",
         "PurchaseHistory": [
             {
@@ -19626,7 +19626,7 @@
     },
     {
         "CashBalance": 754.35,
-        "Id": 315,
+        "UserId": 315,
         "Name": "Artie Crews",
         "PurchaseHistory": [
             {
@@ -19735,7 +19735,7 @@
     },
     {
         "CashBalance": 579.67,
-        "Id": 316,
+        "UserId": 316,
         "Name": "Morton Sexton",
         "PurchaseHistory": [
             {
@@ -19790,7 +19790,7 @@
     },
     {
         "CashBalance": 890.6,
-        "Id": 317,
+        "UserId": 317,
         "Name": "Irene Davis",
         "PurchaseHistory": [
             {
@@ -19887,7 +19887,7 @@
     },
     {
         "CashBalance": 970.64,
-        "Id": 318,
+        "UserId": 318,
         "Name": "Katherine Mahler",
         "PurchaseHistory": [
             {
@@ -19984,7 +19984,7 @@
     },
     {
         "CashBalance": 82.48,
-        "Id": 319,
+        "UserId": 319,
         "Name": "Essie King",
         "PurchaseHistory": [
             {
@@ -20057,7 +20057,7 @@
     },
     {
         "CashBalance": 456.59,
-        "Id": 320,
+        "UserId": 320,
         "Name": "Maria Frazier",
         "PurchaseHistory": [
             {
@@ -20088,7 +20088,7 @@
     },
     {
         "CashBalance": 346.63,
-        "Id": 321,
+        "UserId": 321,
         "Name": "Paul Gee",
         "PurchaseHistory": [
             {
@@ -20203,7 +20203,7 @@
     },
     {
         "CashBalance": 873.88,
-        "Id": 322,
+        "UserId": 322,
         "Name": "Carl Flores",
         "PurchaseHistory": [
             {
@@ -20324,7 +20324,7 @@
     },
     {
         "CashBalance": 343.02,
-        "Id": 323,
+        "UserId": 323,
         "Name": "Ronnie Muse",
         "PurchaseHistory": [
             {
@@ -20421,7 +20421,7 @@
     },
     {
         "CashBalance": 189.18,
-        "Id": 324,
+        "UserId": 324,
         "Name": "Joseph Zuniga",
         "PurchaseHistory": [
             {
@@ -20542,7 +20542,7 @@
     },
     {
         "CashBalance": 972.77,
-        "Id": 325,
+        "UserId": 325,
         "Name": "Vincent Pierson",
         "PurchaseHistory": [
             {
@@ -20615,7 +20615,7 @@
     },
     {
         "CashBalance": 177.76,
-        "Id": 326,
+        "UserId": 326,
         "Name": "Ryan Courson",
         "PurchaseHistory": [
             {
@@ -20628,7 +20628,7 @@
     },
     {
         "CashBalance": 316.5,
-        "Id": 327,
+        "UserId": 327,
         "Name": "Virginia Hoxie",
         "PurchaseHistory": [
             {
@@ -20677,7 +20677,7 @@
     },
     {
         "CashBalance": 923.12,
-        "Id": 328,
+        "UserId": 328,
         "Name": "Elizabeth Urias",
         "PurchaseHistory": [
             {
@@ -20696,7 +20696,7 @@
     },
     {
         "CashBalance": 796.86,
-        "Id": 329,
+        "UserId": 329,
         "Name": "Adrian Henderson",
         "PurchaseHistory": [
             {
@@ -20745,7 +20745,7 @@
     },
     {
         "CashBalance": 92.59,
-        "Id": 330,
+        "UserId": 330,
         "Name": "Leon Bush",
         "PurchaseHistory": [
             {
@@ -20854,7 +20854,7 @@
     },
     {
         "CashBalance": 320.7,
-        "Id": 331,
+        "UserId": 331,
         "Name": "Elizabeth Gillispie",
         "PurchaseHistory": [
             {
@@ -20969,7 +20969,7 @@
     },
     {
         "CashBalance": 725.04,
-        "Id": 332,
+        "UserId": 332,
         "Name": "Nicolasa Vasquez",
         "PurchaseHistory": [
             {
@@ -21084,7 +21084,7 @@
     },
     {
         "CashBalance": 208.6,
-        "Id": 333,
+        "UserId": 333,
         "Name": "Jenny Wickstrom",
         "PurchaseHistory": [
             {
@@ -21199,7 +21199,7 @@
     },
     {
         "CashBalance": 455.37,
-        "Id": 334,
+        "UserId": 334,
         "Name": "Patrick Rimson",
         "PurchaseHistory": [
             {
@@ -21320,7 +21320,7 @@
     },
     {
         "CashBalance": 649.32,
-        "Id": 335,
+        "UserId": 335,
         "Name": "Myrtle Ware",
         "PurchaseHistory": [
             {
@@ -21351,7 +21351,7 @@
     },
     {
         "CashBalance": 357.6,
-        "Id": 336,
+        "UserId": 336,
         "Name": "Ernest Castro",
         "PurchaseHistory": [
             {
@@ -21370,7 +21370,7 @@
     },
     {
         "CashBalance": 929.01,
-        "Id": 337,
+        "UserId": 337,
         "Name": "Reynaldo Sturges",
         "PurchaseHistory": [
             {
@@ -21413,7 +21413,7 @@
     },
     {
         "CashBalance": 905.19,
-        "Id": 338,
+        "UserId": 338,
         "Name": "Maria Brooks",
         "PurchaseHistory": [
             {
@@ -21534,7 +21534,7 @@
     },
     {
         "CashBalance": 409.44,
-        "Id": 339,
+        "UserId": 339,
         "Name": "Isabel Valenzuela",
         "PurchaseHistory": [
             {
@@ -21643,7 +21643,7 @@
     },
     {
         "CashBalance": 487.36,
-        "Id": 340,
+        "UserId": 340,
         "Name": "Jammie Thao",
         "PurchaseHistory": [
             {
@@ -21668,7 +21668,7 @@
     },
     {
         "CashBalance": 72.08,
-        "Id": 341,
+        "UserId": 341,
         "Name": "Theresa Miller",
         "PurchaseHistory": [
             {
@@ -21741,7 +21741,7 @@
     },
     {
         "CashBalance": 447.67,
-        "Id": 342,
+        "UserId": 342,
         "Name": "David Serrano",
         "PurchaseHistory": [
             {
@@ -21838,7 +21838,7 @@
     },
     {
         "CashBalance": 852.03,
-        "Id": 343,
+        "UserId": 343,
         "Name": "Juan Gallagher",
         "PurchaseHistory": [
             {
@@ -21911,7 +21911,7 @@
     },
     {
         "CashBalance": 857.34,
-        "Id": 344,
+        "UserId": 344,
         "Name": "Francisco Thorton",
         "PurchaseHistory": [
             {
@@ -21930,7 +21930,7 @@
     },
     {
         "CashBalance": 140.53,
-        "Id": 345,
+        "UserId": 345,
         "Name": "Katrina Evans",
         "PurchaseHistory": [
             {
@@ -22009,7 +22009,7 @@
     },
     {
         "CashBalance": 20.07,
-        "Id": 346,
+        "UserId": 346,
         "Name": "Chester Reed",
         "PurchaseHistory": [
             {
@@ -22094,7 +22094,7 @@
     },
     {
         "CashBalance": 472.35,
-        "Id": 347,
+        "UserId": 347,
         "Name": "Allison Patrick",
         "PurchaseHistory": [
             {
@@ -22191,7 +22191,7 @@
     },
     {
         "CashBalance": 318.64,
-        "Id": 348,
+        "UserId": 348,
         "Name": "Julian Dudley",
         "PurchaseHistory": [
             {
@@ -22204,7 +22204,7 @@
     },
     {
         "CashBalance": 397.87,
-        "Id": 349,
+        "UserId": 349,
         "Name": "Steven Roman",
         "PurchaseHistory": [
             {
@@ -22229,7 +22229,7 @@
     },
     {
         "CashBalance": 328.0,
-        "Id": 350,
+        "UserId": 350,
         "Name": "Joy Greene",
         "PurchaseHistory": [
             {
@@ -22266,7 +22266,7 @@
     },
     {
         "CashBalance": 318.31,
-        "Id": 351,
+        "UserId": 351,
         "Name": "Juana Polk",
         "PurchaseHistory": [
             {
@@ -22327,7 +22327,7 @@
     },
     {
         "CashBalance": 122.13,
-        "Id": 352,
+        "UserId": 352,
         "Name": "Stanley Tracey",
         "PurchaseHistory": [
             {
@@ -22376,7 +22376,7 @@
     },
     {
         "CashBalance": 351.72,
-        "Id": 353,
+        "UserId": 353,
         "Name": "Karin Young",
         "PurchaseHistory": [
             {
@@ -22449,7 +22449,7 @@
     },
     {
         "CashBalance": 499.54,
-        "Id": 354,
+        "UserId": 354,
         "Name": "May Kilburn",
         "PurchaseHistory": [
             {
@@ -22474,7 +22474,7 @@
     },
     {
         "CashBalance": 337.47,
-        "Id": 355,
+        "UserId": 355,
         "Name": "Robin Alford",
         "PurchaseHistory": [
             {
@@ -22493,7 +22493,7 @@
     },
     {
         "CashBalance": 176.85,
-        "Id": 356,
+        "UserId": 356,
         "Name": "William Mccarthy",
         "PurchaseHistory": [
             {
@@ -22602,7 +22602,7 @@
     },
     {
         "CashBalance": 737.03,
-        "Id": 357,
+        "UserId": 357,
         "Name": "Jose Belanger",
         "PurchaseHistory": [
             {
@@ -22657,7 +22657,7 @@
     },
     {
         "CashBalance": 39.22,
-        "Id": 358,
+        "UserId": 358,
         "Name": "Hui Hall",
         "PurchaseHistory": [
             {
@@ -22754,7 +22754,7 @@
     },
     {
         "CashBalance": 939.53,
-        "Id": 359,
+        "UserId": 359,
         "Name": "Mavis Salazar",
         "PurchaseHistory": [
             {
@@ -22785,7 +22785,7 @@
     },
     {
         "CashBalance": 513.26,
-        "Id": 360,
+        "UserId": 360,
         "Name": "Flora Randell",
         "PurchaseHistory": [
             {
@@ -22858,7 +22858,7 @@
     },
     {
         "CashBalance": 367.11,
-        "Id": 361,
+        "UserId": 361,
         "Name": "Sam Roja",
         "PurchaseHistory": [
             {
@@ -22931,7 +22931,7 @@
     },
     {
         "CashBalance": 679.91,
-        "Id": 362,
+        "UserId": 362,
         "Name": "Paul Nelson",
         "PurchaseHistory": [
             {
@@ -22944,7 +22944,7 @@
     },
     {
         "CashBalance": 110.02,
-        "Id": 363,
+        "UserId": 363,
         "Name": "Antonio Witherspoon",
         "PurchaseHistory": [
             {
@@ -22981,7 +22981,7 @@
     },
     {
         "CashBalance": 100.41,
-        "Id": 364,
+        "UserId": 364,
         "Name": "Rhoda Moskowitz",
         "PurchaseHistory": [
             {
@@ -23102,7 +23102,7 @@
     },
     {
         "CashBalance": 590.05,
-        "Id": 365,
+        "UserId": 365,
         "Name": "Philip Jacobson",
         "PurchaseHistory": [
             {
@@ -23139,7 +23139,7 @@
     },
     {
         "CashBalance": 93.34,
-        "Id": 366,
+        "UserId": 366,
         "Name": "Benjamin Fieldson",
         "PurchaseHistory": [
             {
@@ -23260,7 +23260,7 @@
     },
     {
         "CashBalance": 868.44,
-        "Id": 367,
+        "UserId": 367,
         "Name": "Betty Beaton",
         "PurchaseHistory": [
             {
@@ -23285,7 +23285,7 @@
     },
     {
         "CashBalance": 339.47,
-        "Id": 368,
+        "UserId": 368,
         "Name": "Dale Peppard",
         "PurchaseHistory": [
             {
@@ -23388,7 +23388,7 @@
     },
     {
         "CashBalance": 877.58,
-        "Id": 369,
+        "UserId": 369,
         "Name": "Kenneth Ronn",
         "PurchaseHistory": [
             {
@@ -23449,7 +23449,7 @@
     },
     {
         "CashBalance": 764.8,
-        "Id": 370,
+        "UserId": 370,
         "Name": "Keith Rainey",
         "PurchaseHistory": [
             {
@@ -23498,7 +23498,7 @@
     },
     {
         "CashBalance": 990.95,
-        "Id": 371,
+        "UserId": 371,
         "Name": "Luz Joseph",
         "PurchaseHistory": [
             {
@@ -23541,7 +23541,7 @@
     },
     {
         "CashBalance": 193.37,
-        "Id": 372,
+        "UserId": 372,
         "Name": "Brian Clemens",
         "PurchaseHistory": [
             {
@@ -23662,7 +23662,7 @@
     },
     {
         "CashBalance": 898.99,
-        "Id": 373,
+        "UserId": 373,
         "Name": "Denise Loper",
         "PurchaseHistory": [
             {
@@ -23681,7 +23681,7 @@
     },
     {
         "CashBalance": 394.12,
-        "Id": 374,
+        "UserId": 374,
         "Name": "Dan Gonzales",
         "PurchaseHistory": [
             {
@@ -23718,7 +23718,7 @@
     },
     {
         "CashBalance": 473.48,
-        "Id": 375,
+        "UserId": 375,
         "Name": "Diane Blanton",
         "PurchaseHistory": [
             {
@@ -23731,7 +23731,7 @@
     },
     {
         "CashBalance": 460.45,
-        "Id": 376,
+        "UserId": 376,
         "Name": "Evan Youmans",
         "PurchaseHistory": [
             {
@@ -23816,7 +23816,7 @@
     },
     {
         "CashBalance": 781.98,
-        "Id": 377,
+        "UserId": 377,
         "Name": "Mary Thomas",
         "PurchaseHistory": [
             {
@@ -23859,7 +23859,7 @@
     },
     {
         "CashBalance": 38.18,
-        "Id": 378,
+        "UserId": 378,
         "Name": "Michael Lehtonen",
         "PurchaseHistory": [
             {
@@ -23878,7 +23878,7 @@
     },
     {
         "CashBalance": 466.26,
-        "Id": 379,
+        "UserId": 379,
         "Name": "Ramonita Palmer",
         "PurchaseHistory": [
             {
@@ -23999,7 +23999,7 @@
     },
     {
         "CashBalance": 532.56,
-        "Id": 380,
+        "UserId": 380,
         "Name": "Marion Cooper",
         "PurchaseHistory": [
             {
@@ -24066,7 +24066,7 @@
     },
     {
         "CashBalance": 402.17,
-        "Id": 381,
+        "UserId": 381,
         "Name": "Helen Sundberg",
         "PurchaseHistory": [
             {
@@ -24187,7 +24187,7 @@
     },
     {
         "CashBalance": 715.95,
-        "Id": 382,
+        "UserId": 382,
         "Name": "Jennifer Basich",
         "PurchaseHistory": [
             {
@@ -24236,7 +24236,7 @@
     },
     {
         "CashBalance": 899.04,
-        "Id": 383,
+        "UserId": 383,
         "Name": "Linda Bray",
         "PurchaseHistory": [
             {
@@ -24255,7 +24255,7 @@
     },
     {
         "CashBalance": 885.6,
-        "Id": 384,
+        "UserId": 384,
         "Name": "Isabel Lawrence",
         "PurchaseHistory": [
             {
@@ -24370,7 +24370,7 @@
     },
     {
         "CashBalance": 169.25,
-        "Id": 385,
+        "UserId": 385,
         "Name": "Bruce Conway",
         "PurchaseHistory": [
             {
@@ -24461,7 +24461,7 @@
     },
     {
         "CashBalance": 23.61,
-        "Id": 386,
+        "UserId": 386,
         "Name": "Judith Murray",
         "PurchaseHistory": [
             {
@@ -24480,7 +24480,7 @@
     },
     {
         "CashBalance": 775.66,
-        "Id": 387,
+        "UserId": 387,
         "Name": "Jeremy Mims",
         "PurchaseHistory": [
             {
@@ -24517,7 +24517,7 @@
     },
     {
         "CashBalance": 37.69,
-        "Id": 388,
+        "UserId": 388,
         "Name": "Rachel Adamson",
         "PurchaseHistory": [
             {
@@ -24590,7 +24590,7 @@
     },
     {
         "CashBalance": 774.37,
-        "Id": 389,
+        "UserId": 389,
         "Name": "Lucila Cleveland",
         "PurchaseHistory": [
             {
@@ -24681,7 +24681,7 @@
     },
     {
         "CashBalance": 781.21,
-        "Id": 390,
+        "UserId": 390,
         "Name": "Allen Blumenfeld",
         "PurchaseHistory": [
             {
@@ -24802,7 +24802,7 @@
     },
     {
         "CashBalance": 266.25,
-        "Id": 391,
+        "UserId": 391,
         "Name": "Lottie Villegas",
         "PurchaseHistory": [
             {
@@ -24887,7 +24887,7 @@
     },
     {
         "CashBalance": 816.67,
-        "Id": 392,
+        "UserId": 392,
         "Name": "Milton Kaufman",
         "PurchaseHistory": [
             {
@@ -24900,7 +24900,7 @@
     },
     {
         "CashBalance": 965.98,
-        "Id": 393,
+        "UserId": 393,
         "Name": "James Tucker",
         "PurchaseHistory": [
             {
@@ -24943,7 +24943,7 @@
     },
     {
         "CashBalance": 738.98,
-        "Id": 394,
+        "UserId": 394,
         "Name": "Regina Brennan",
         "PurchaseHistory": [
             {
@@ -25034,7 +25034,7 @@
     },
     {
         "CashBalance": 85.58,
-        "Id": 395,
+        "UserId": 395,
         "Name": "Elsie Estwick",
         "PurchaseHistory": [
             {
@@ -25113,7 +25113,7 @@
     },
     {
         "CashBalance": 750.11,
-        "Id": 396,
+        "UserId": 396,
         "Name": "Phillip Hopkins",
         "PurchaseHistory": [
             {
@@ -25216,7 +25216,7 @@
     },
     {
         "CashBalance": 965.44,
-        "Id": 397,
+        "UserId": 397,
         "Name": "Kimberly Conway",
         "PurchaseHistory": [
             {
@@ -25271,7 +25271,7 @@
     },
     {
         "CashBalance": 121.23,
-        "Id": 398,
+        "UserId": 398,
         "Name": "Sheila Izatt",
         "PurchaseHistory": [
             {
@@ -25350,7 +25350,7 @@
     },
     {
         "CashBalance": 374.5,
-        "Id": 399,
+        "UserId": 399,
         "Name": "Joshua Marrs",
         "PurchaseHistory": [
             {
@@ -25369,7 +25369,7 @@
     },
     {
         "CashBalance": 362.66,
-        "Id": 400,
+        "UserId": 400,
         "Name": "Christopher Erickson",
         "PurchaseHistory": [
             {
@@ -25448,7 +25448,7 @@
     },
     {
         "CashBalance": 904.56,
-        "Id": 401,
+        "UserId": 401,
         "Name": "Angelica Nieto",
         "PurchaseHistory": [
             {
@@ -25527,7 +25527,7 @@
     },
     {
         "CashBalance": 836.83,
-        "Id": 402,
+        "UserId": 402,
         "Name": "Leslie Vahey",
         "PurchaseHistory": [
             {
@@ -25636,7 +25636,7 @@
     },
     {
         "CashBalance": 809.33,
-        "Id": 403,
+        "UserId": 403,
         "Name": "Thomas Thompson",
         "PurchaseHistory": [
             {
@@ -25715,7 +25715,7 @@
     },
     {
         "CashBalance": 317.21,
-        "Id": 404,
+        "UserId": 404,
         "Name": "Stephen May",
         "PurchaseHistory": [
             {
@@ -25734,7 +25734,7 @@
     },
     {
         "CashBalance": 300.38,
-        "Id": 405,
+        "UserId": 405,
         "Name": "Richard Box",
         "PurchaseHistory": [
             {
@@ -25795,7 +25795,7 @@
     },
     {
         "CashBalance": 35.05,
-        "Id": 406,
+        "UserId": 406,
         "Name": "Wendy Campbell",
         "PurchaseHistory": [
             {
@@ -25886,7 +25886,7 @@
     },
     {
         "CashBalance": 32.69,
-        "Id": 407,
+        "UserId": 407,
         "Name": "Rosetta Hartford",
         "PurchaseHistory": [
             {
@@ -25995,7 +25995,7 @@
     },
     {
         "CashBalance": 640.81,
-        "Id": 408,
+        "UserId": 408,
         "Name": "David Martinez",
         "PurchaseHistory": [
             {
@@ -26116,7 +26116,7 @@
     },
     {
         "CashBalance": 641.12,
-        "Id": 409,
+        "UserId": 409,
         "Name": "Joanne Presley",
         "PurchaseHistory": [
             {
@@ -26135,7 +26135,7 @@
     },
     {
         "CashBalance": 728.68,
-        "Id": 410,
+        "UserId": 410,
         "Name": "Vicky Madden",
         "PurchaseHistory": [
             {
@@ -26232,7 +26232,7 @@
     },
     {
         "CashBalance": 967.49,
-        "Id": 411,
+        "UserId": 411,
         "Name": "Kimberly Huber",
         "PurchaseHistory": [
             {
@@ -26245,7 +26245,7 @@
     },
     {
         "CashBalance": 220.88,
-        "Id": 412,
+        "UserId": 412,
         "Name": "Harold Jones",
         "PurchaseHistory": [
             {
@@ -26294,7 +26294,7 @@
     },
     {
         "CashBalance": 378.08,
-        "Id": 413,
+        "UserId": 413,
         "Name": "George Faley",
         "PurchaseHistory": [
             {
@@ -26349,7 +26349,7 @@
     },
     {
         "CashBalance": 340.88,
-        "Id": 414,
+        "UserId": 414,
         "Name": "Tessie Carhart",
         "PurchaseHistory": [
             {
@@ -26386,7 +26386,7 @@
     },
     {
         "CashBalance": 906.99,
-        "Id": 415,
+        "UserId": 415,
         "Name": "Cory Cha",
         "PurchaseHistory": [
             {
@@ -26399,7 +26399,7 @@
     },
     {
         "CashBalance": 76.06,
-        "Id": 416,
+        "UserId": 416,
         "Name": "Amanda Mann",
         "PurchaseHistory": [
             {
@@ -26460,7 +26460,7 @@
     },
     {
         "CashBalance": 201.74,
-        "Id": 417,
+        "UserId": 417,
         "Name": "Joseph Pedro",
         "PurchaseHistory": [
             {
@@ -26509,7 +26509,7 @@
     },
     {
         "CashBalance": 134.12,
-        "Id": 418,
+        "UserId": 418,
         "Name": "Mary Reel",
         "PurchaseHistory": [
             {
@@ -26606,7 +26606,7 @@
     },
     {
         "CashBalance": 622.67,
-        "Id": 419,
+        "UserId": 419,
         "Name": "Ida Haveman",
         "PurchaseHistory": [
             {
@@ -26625,7 +26625,7 @@
     },
     {
         "CashBalance": 317.16,
-        "Id": 420,
+        "UserId": 420,
         "Name": "Charlie Farabaugh",
         "PurchaseHistory": [
             {
@@ -26680,7 +26680,7 @@
     },
     {
         "CashBalance": 596.13,
-        "Id": 421,
+        "UserId": 421,
         "Name": "James Henry",
         "PurchaseHistory": [
             {
@@ -26711,7 +26711,7 @@
     },
     {
         "CashBalance": 927.57,
-        "Id": 422,
+        "UserId": 422,
         "Name": "Randall Grams",
         "PurchaseHistory": [
             {
@@ -26772,13 +26772,13 @@
     },
     {
         "CashBalance": 867.69,
-        "Id": 423,
+        "UserId": 423,
         "Name": "Donnie Liddle",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 268.44,
-        "Id": 424,
+        "UserId": 424,
         "Name": "John Harrison",
         "PurchaseHistory": [
             {
@@ -26899,7 +26899,7 @@
     },
     {
         "CashBalance": 203.12,
-        "Id": 425,
+        "UserId": 425,
         "Name": "Harvey Stubbs",
         "PurchaseHistory": [
             {
@@ -26942,7 +26942,7 @@
     },
     {
         "CashBalance": 325.95,
-        "Id": 426,
+        "UserId": 426,
         "Name": "Dede Mcgovern",
         "PurchaseHistory": [
             {
@@ -26967,7 +26967,7 @@
     },
     {
         "CashBalance": 381.37,
-        "Id": 427,
+        "UserId": 427,
         "Name": "Rose Robertson",
         "PurchaseHistory": [
             {
@@ -27046,7 +27046,7 @@
     },
     {
         "CashBalance": 824.26,
-        "Id": 428,
+        "UserId": 428,
         "Name": "Danny Brunson",
         "PurchaseHistory": [
             {
@@ -27107,13 +27107,13 @@
     },
     {
         "CashBalance": 113.34,
-        "Id": 429,
+        "UserId": 429,
         "Name": "Rick Green",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 455.58,
-        "Id": 430,
+        "UserId": 430,
         "Name": "Mike Hutcherson",
         "PurchaseHistory": [
             {
@@ -27228,7 +27228,7 @@
     },
     {
         "CashBalance": 212.23,
-        "Id": 431,
+        "UserId": 431,
         "Name": "Deborah Bishop",
         "PurchaseHistory": [
             {
@@ -27313,7 +27313,7 @@
     },
     {
         "CashBalance": 376.72,
-        "Id": 432,
+        "UserId": 432,
         "Name": "Shawn Mathis",
         "PurchaseHistory": [
             {
@@ -27386,7 +27386,7 @@
     },
     {
         "CashBalance": 942.68,
-        "Id": 433,
+        "UserId": 433,
         "Name": "Christina Tyler",
         "PurchaseHistory": [
             {
@@ -27417,7 +27417,7 @@
     },
     {
         "CashBalance": 487.15,
-        "Id": 434,
+        "UserId": 434,
         "Name": "Caroline Wu",
         "PurchaseHistory": [
             {
@@ -27490,7 +27490,7 @@
     },
     {
         "CashBalance": 239.61,
-        "Id": 435,
+        "UserId": 435,
         "Name": "Ora Taylor",
         "PurchaseHistory": [
             {
@@ -27539,7 +27539,7 @@
     },
     {
         "CashBalance": 629.95,
-        "Id": 436,
+        "UserId": 436,
         "Name": "Henry Jensen",
         "PurchaseHistory": [
             {
@@ -27630,7 +27630,7 @@
     },
     {
         "CashBalance": 356.83,
-        "Id": 437,
+        "UserId": 437,
         "Name": "Helen Marcello",
         "PurchaseHistory": [
             {
@@ -27643,13 +27643,13 @@
     },
     {
         "CashBalance": 347.98,
-        "Id": 438,
+        "UserId": 438,
         "Name": "Karen Shook",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 294.89,
-        "Id": 439,
+        "UserId": 439,
         "Name": "Mona Arena",
         "PurchaseHistory": [
             {
@@ -27734,7 +27734,7 @@
     },
     {
         "CashBalance": 241.72,
-        "Id": 440,
+        "UserId": 440,
         "Name": "Sheryl Johnson",
         "PurchaseHistory": [
             {
@@ -27759,7 +27759,7 @@
     },
     {
         "CashBalance": 372.8,
-        "Id": 441,
+        "UserId": 441,
         "Name": "Jill Chen",
         "PurchaseHistory": [
             {
@@ -27778,7 +27778,7 @@
     },
     {
         "CashBalance": 123.22,
-        "Id": 442,
+        "UserId": 442,
         "Name": "Virginia Frith",
         "PurchaseHistory": [
             {
@@ -27797,7 +27797,7 @@
     },
     {
         "CashBalance": 217.3,
-        "Id": 443,
+        "UserId": 443,
         "Name": "Raul Odonnell",
         "PurchaseHistory": [
             {
@@ -27858,7 +27858,7 @@
     },
     {
         "CashBalance": 873.21,
-        "Id": 444,
+        "UserId": 444,
         "Name": "Johanna Surratt",
         "PurchaseHistory": [
             {
@@ -27877,7 +27877,7 @@
     },
     {
         "CashBalance": 372.49,
-        "Id": 445,
+        "UserId": 445,
         "Name": "Matthew Brewer",
         "PurchaseHistory": [
             {
@@ -27950,7 +27950,7 @@
     },
     {
         "CashBalance": 520.21,
-        "Id": 446,
+        "UserId": 446,
         "Name": "Lula Mccullough",
         "PurchaseHistory": [
             {
@@ -28053,7 +28053,7 @@
     },
     {
         "CashBalance": 270.08,
-        "Id": 447,
+        "UserId": 447,
         "Name": "Elba Robinson",
         "PurchaseHistory": [
             {
@@ -28138,7 +28138,7 @@
     },
     {
         "CashBalance": 533.11,
-        "Id": 448,
+        "UserId": 448,
         "Name": "Margaret Fonder",
         "PurchaseHistory": [
             {
@@ -28151,7 +28151,7 @@
     },
     {
         "CashBalance": 911.13,
-        "Id": 449,
+        "UserId": 449,
         "Name": "Carl Beaushaw",
         "PurchaseHistory": [
             {
@@ -28212,7 +28212,7 @@
     },
     {
         "CashBalance": 730.79,
-        "Id": 450,
+        "UserId": 450,
         "Name": "Roland Fredrickson",
         "PurchaseHistory": [
             {
@@ -28225,7 +28225,7 @@
     },
     {
         "CashBalance": 516.31,
-        "Id": 451,
+        "UserId": 451,
         "Name": "Robert Douds",
         "PurchaseHistory": [
             {
@@ -28346,7 +28346,7 @@
     },
     {
         "CashBalance": 313.5,
-        "Id": 452,
+        "UserId": 452,
         "Name": "Lisa Cha",
         "PurchaseHistory": [
             {
@@ -28389,7 +28389,7 @@
     },
     {
         "CashBalance": 473.28,
-        "Id": 453,
+        "UserId": 453,
         "Name": "Robin Egan",
         "PurchaseHistory": [
             {
@@ -28498,13 +28498,13 @@
     },
     {
         "CashBalance": 294.16,
-        "Id": 454,
+        "UserId": 454,
         "Name": "Jorge Terry",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 49.28,
-        "Id": 455,
+        "UserId": 455,
         "Name": "James Wills",
         "PurchaseHistory": [
             {
@@ -28589,7 +28589,7 @@
     },
     {
         "CashBalance": 533.97,
-        "Id": 456,
+        "UserId": 456,
         "Name": "Nichole Linder",
         "PurchaseHistory": [
             {
@@ -28608,7 +28608,7 @@
     },
     {
         "CashBalance": 412.55,
-        "Id": 457,
+        "UserId": 457,
         "Name": "Sara Davison",
         "PurchaseHistory": [
             {
@@ -28687,7 +28687,7 @@
     },
     {
         "CashBalance": 912.69,
-        "Id": 458,
+        "UserId": 458,
         "Name": "Ashly Jimenez",
         "PurchaseHistory": [
             {
@@ -28766,7 +28766,7 @@
     },
     {
         "CashBalance": 92.7,
-        "Id": 459,
+        "UserId": 459,
         "Name": "John Althoff",
         "PurchaseHistory": [
             {
@@ -28779,7 +28779,7 @@
     },
     {
         "CashBalance": 723.97,
-        "Id": 460,
+        "UserId": 460,
         "Name": "Jesus Elmore",
         "PurchaseHistory": [
             {
@@ -28792,7 +28792,7 @@
     },
     {
         "CashBalance": 952.78,
-        "Id": 461,
+        "UserId": 461,
         "Name": "Ramon Hawkins",
         "PurchaseHistory": [
             {
@@ -28901,7 +28901,7 @@
     },
     {
         "CashBalance": 571.46,
-        "Id": 462,
+        "UserId": 462,
         "Name": "Henry Harling",
         "PurchaseHistory": [
             {
@@ -28914,7 +28914,7 @@
     },
     {
         "CashBalance": 179.15,
-        "Id": 463,
+        "UserId": 463,
         "Name": "James Edwards",
         "PurchaseHistory": [
             {
@@ -28933,7 +28933,7 @@
     },
     {
         "CashBalance": 7.0,
-        "Id": 464,
+        "UserId": 464,
         "Name": "Deborah Mckay",
         "PurchaseHistory": [
             {
@@ -29048,7 +29048,7 @@
     },
     {
         "CashBalance": 887.24,
-        "Id": 465,
+        "UserId": 465,
         "Name": "Jeff Williams",
         "PurchaseHistory": [
             {
@@ -29079,7 +29079,7 @@
     },
     {
         "CashBalance": 611.51,
-        "Id": 466,
+        "UserId": 466,
         "Name": "Jeffrey Donovan",
         "PurchaseHistory": [
             {
@@ -29152,7 +29152,7 @@
     },
     {
         "CashBalance": 306.39,
-        "Id": 467,
+        "UserId": 467,
         "Name": "Bonnie Sumpter",
         "PurchaseHistory": [
             {
@@ -29267,7 +29267,7 @@
     },
     {
         "CashBalance": 814.33,
-        "Id": 468,
+        "UserId": 468,
         "Name": "Serena Heft",
         "PurchaseHistory": [
             {
@@ -29292,7 +29292,7 @@
     },
     {
         "CashBalance": 128.64,
-        "Id": 469,
+        "UserId": 469,
         "Name": "Brian Wicks",
         "PurchaseHistory": [
             {
@@ -29371,7 +29371,7 @@
     },
     {
         "CashBalance": 918.29,
-        "Id": 470,
+        "UserId": 470,
         "Name": "Annette Trujillo",
         "PurchaseHistory": [
             {
@@ -29402,7 +29402,7 @@
     },
     {
         "CashBalance": 494.53,
-        "Id": 471,
+        "UserId": 471,
         "Name": "James Ball",
         "PurchaseHistory": [
             {
@@ -29415,7 +29415,7 @@
     },
     {
         "CashBalance": 353.3,
-        "Id": 472,
+        "UserId": 472,
         "Name": "Sharon Foote",
         "PurchaseHistory": [
             {
@@ -29506,7 +29506,7 @@
     },
     {
         "CashBalance": 728.17,
-        "Id": 473,
+        "UserId": 473,
         "Name": "Roland Rickards",
         "PurchaseHistory": [
             {
@@ -29579,7 +29579,7 @@
     },
     {
         "CashBalance": 233.48,
-        "Id": 474,
+        "UserId": 474,
         "Name": "Michael Toney",
         "PurchaseHistory": [
             {
@@ -29694,7 +29694,7 @@
     },
     {
         "CashBalance": 383.4,
-        "Id": 475,
+        "UserId": 475,
         "Name": "Dan Mosser",
         "PurchaseHistory": [
             {
@@ -29803,7 +29803,7 @@
     },
     {
         "CashBalance": 23.94,
-        "Id": 476,
+        "UserId": 476,
         "Name": "Kerry Dudziak",
         "PurchaseHistory": [
             {
@@ -29846,7 +29846,7 @@
     },
     {
         "CashBalance": 999.5,
-        "Id": 477,
+        "UserId": 477,
         "Name": "Roy Davis",
         "PurchaseHistory": [
             {
@@ -29961,7 +29961,7 @@
     },
     {
         "CashBalance": 624.16,
-        "Id": 478,
+        "UserId": 478,
         "Name": "Ross Sparks",
         "PurchaseHistory": [
             {
@@ -30052,7 +30052,7 @@
     },
     {
         "CashBalance": 203.81,
-        "Id": 479,
+        "UserId": 479,
         "Name": "Nancy Jones",
         "PurchaseHistory": [
             {
@@ -30149,7 +30149,7 @@
     },
     {
         "CashBalance": 177.62,
-        "Id": 480,
+        "UserId": 480,
         "Name": "Marion Williams",
         "PurchaseHistory": [
             {
@@ -30162,7 +30162,7 @@
     },
     {
         "CashBalance": 291.74,
-        "Id": 481,
+        "UserId": 481,
         "Name": "Tarsha Anderson",
         "PurchaseHistory": [
             {
@@ -30283,7 +30283,7 @@
     },
     {
         "CashBalance": 523.25,
-        "Id": 482,
+        "UserId": 482,
         "Name": "Goldie Zipfel",
         "PurchaseHistory": [
             {
@@ -30380,7 +30380,7 @@
     },
     {
         "CashBalance": 586.12,
-        "Id": 483,
+        "UserId": 483,
         "Name": "Tera Baylock",
         "PurchaseHistory": [
             {
@@ -30423,7 +30423,7 @@
     },
     {
         "CashBalance": 934.3,
-        "Id": 484,
+        "UserId": 484,
         "Name": "David Jessen",
         "PurchaseHistory": [
             {
@@ -30466,7 +30466,7 @@
     },
     {
         "CashBalance": 776.22,
-        "Id": 485,
+        "UserId": 485,
         "Name": "Carl Weber",
         "PurchaseHistory": [
             {
@@ -30551,7 +30551,7 @@
     },
     {
         "CashBalance": 899.09,
-        "Id": 486,
+        "UserId": 486,
         "Name": "Brian Boyd",
         "PurchaseHistory": [
             {
@@ -30630,7 +30630,7 @@
     },
     {
         "CashBalance": 705.54,
-        "Id": 487,
+        "UserId": 487,
         "Name": "Matthew Aubry",
         "PurchaseHistory": [
             {
@@ -30691,7 +30691,7 @@
     },
     {
         "CashBalance": 245.48,
-        "Id": 488,
+        "UserId": 488,
         "Name": "Virginia Rosado",
         "PurchaseHistory": [
             {
@@ -30704,7 +30704,7 @@
     },
     {
         "CashBalance": 876.46,
-        "Id": 489,
+        "UserId": 489,
         "Name": "Sherri Chilson",
         "PurchaseHistory": [
             {
@@ -30765,7 +30765,7 @@
     },
     {
         "CashBalance": 981.76,
-        "Id": 490,
+        "UserId": 490,
         "Name": "John Potter",
         "PurchaseHistory": [
             {
@@ -30868,7 +30868,7 @@
     },
     {
         "CashBalance": 541.06,
-        "Id": 491,
+        "UserId": 491,
         "Name": "Amanda Cockerill",
         "PurchaseHistory": [
             {
@@ -30971,7 +30971,7 @@
     },
     {
         "CashBalance": 744.26,
-        "Id": 492,
+        "UserId": 492,
         "Name": "John Drahota",
         "PurchaseHistory": [
             {
@@ -31020,7 +31020,7 @@
     },
     {
         "CashBalance": 870.47,
-        "Id": 493,
+        "UserId": 493,
         "Name": "Maxine Brown",
         "PurchaseHistory": [
             {
@@ -31123,7 +31123,7 @@
     },
     {
         "CashBalance": 44.89,
-        "Id": 494,
+        "UserId": 494,
         "Name": "Rosalind Anderson",
         "PurchaseHistory": [
             {
@@ -31154,7 +31154,7 @@
     },
     {
         "CashBalance": 447.43,
-        "Id": 495,
+        "UserId": 495,
         "Name": "John Bogan",
         "PurchaseHistory": [
             {
@@ -31269,7 +31269,7 @@
     },
     {
         "CashBalance": 984.04,
-        "Id": 496,
+        "UserId": 496,
         "Name": "Rafael Sanders",
         "PurchaseHistory": [
             {
@@ -31336,7 +31336,7 @@
     },
     {
         "CashBalance": 417.75,
-        "Id": 497,
+        "UserId": 497,
         "Name": "David Kendall",
         "PurchaseHistory": [
             {
@@ -31385,7 +31385,7 @@
     },
     {
         "CashBalance": 684.72,
-        "Id": 498,
+        "UserId": 498,
         "Name": "James Westfall",
         "PurchaseHistory": [
             {
@@ -31440,7 +31440,7 @@
     },
     {
         "CashBalance": 327.9,
-        "Id": 499,
+        "UserId": 499,
         "Name": "Angela Lackey",
         "PurchaseHistory": [
             {
@@ -31465,7 +31465,7 @@
     },
     {
         "CashBalance": 403.56,
-        "Id": 500,
+        "UserId": 500,
         "Name": "Lisa Ramirez",
         "PurchaseHistory": [
             {
@@ -31496,7 +31496,7 @@
     },
     {
         "CashBalance": 96.4,
-        "Id": 501,
+        "UserId": 501,
         "Name": "Ruth Davidson",
         "PurchaseHistory": [
             {
@@ -31569,13 +31569,13 @@
     },
     {
         "CashBalance": 317.44,
-        "Id": 502,
+        "UserId": 502,
         "Name": "Meredith Bartko",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 55.69,
-        "Id": 503,
+        "UserId": 503,
         "Name": "Richard White",
         "PurchaseHistory": [
             {
@@ -31666,7 +31666,7 @@
     },
     {
         "CashBalance": 492.27,
-        "Id": 504,
+        "UserId": 504,
         "Name": "Matthew Green",
         "PurchaseHistory": [
             {
@@ -31727,7 +31727,7 @@
     },
     {
         "CashBalance": 199.61,
-        "Id": 505,
+        "UserId": 505,
         "Name": "Alicia Rann",
         "PurchaseHistory": [
             {
@@ -31842,7 +31842,7 @@
     },
     {
         "CashBalance": 339.75,
-        "Id": 506,
+        "UserId": 506,
         "Name": "Susan James",
         "PurchaseHistory": [
             {
@@ -31963,7 +31963,7 @@
     },
     {
         "CashBalance": 805.35,
-        "Id": 507,
+        "UserId": 507,
         "Name": "Eric Brown",
         "PurchaseHistory": [
             {
@@ -32066,7 +32066,7 @@
     },
     {
         "CashBalance": 254.32,
-        "Id": 508,
+        "UserId": 508,
         "Name": "Doris Mcdowell",
         "PurchaseHistory": [
             {
@@ -32079,13 +32079,13 @@
     },
     {
         "CashBalance": 809.65,
-        "Id": 509,
+        "UserId": 509,
         "Name": "Dennis Workman",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 769.68,
-        "Id": 510,
+        "UserId": 510,
         "Name": "Robert Graham",
         "PurchaseHistory": [
             {
@@ -32158,7 +32158,7 @@
     },
     {
         "CashBalance": 539.96,
-        "Id": 511,
+        "UserId": 511,
         "Name": "Tammy Johnson",
         "PurchaseHistory": [
             {
@@ -32249,7 +32249,7 @@
     },
     {
         "CashBalance": 681.98,
-        "Id": 512,
+        "UserId": 512,
         "Name": "Cody Castillo",
         "PurchaseHistory": [
             {
@@ -32262,7 +32262,7 @@
     },
     {
         "CashBalance": 526.33,
-        "Id": 513,
+        "UserId": 513,
         "Name": "Anthony Bratcher",
         "PurchaseHistory": [
             {
@@ -32287,7 +32287,7 @@
     },
     {
         "CashBalance": 433.43,
-        "Id": 514,
+        "UserId": 514,
         "Name": "Julius Whittle",
         "PurchaseHistory": [
             {
@@ -32390,7 +32390,7 @@
     },
     {
         "CashBalance": 556.24,
-        "Id": 515,
+        "UserId": 515,
         "Name": "Donny Smith",
         "PurchaseHistory": [
             {
@@ -32439,7 +32439,7 @@
     },
     {
         "CashBalance": 696.38,
-        "Id": 516,
+        "UserId": 516,
         "Name": "Mattie Saulnier",
         "PurchaseHistory": [
             {
@@ -32560,7 +32560,7 @@
     },
     {
         "CashBalance": 617.25,
-        "Id": 517,
+        "UserId": 517,
         "Name": "Michael Benton",
         "PurchaseHistory": [
             {
@@ -32597,7 +32597,7 @@
     },
     {
         "CashBalance": 634.74,
-        "Id": 518,
+        "UserId": 518,
         "Name": "Tammy Obrien",
         "PurchaseHistory": [
             {
@@ -32718,7 +32718,7 @@
     },
     {
         "CashBalance": 502.26,
-        "Id": 519,
+        "UserId": 519,
         "Name": "Joseph Shipman",
         "PurchaseHistory": [
             {
@@ -32821,13 +32821,13 @@
     },
     {
         "CashBalance": 152.66,
-        "Id": 520,
+        "UserId": 520,
         "Name": "Jeannette Felker",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 991.87,
-        "Id": 521,
+        "UserId": 521,
         "Name": "Rachel Cox",
         "PurchaseHistory": [
             {
@@ -32936,7 +32936,7 @@
     },
     {
         "CashBalance": 675.66,
-        "Id": 522,
+        "UserId": 522,
         "Name": "Joe Sublett",
         "PurchaseHistory": [
             {
@@ -32985,7 +32985,7 @@
     },
     {
         "CashBalance": 819.79,
-        "Id": 523,
+        "UserId": 523,
         "Name": "Harry Colon",
         "PurchaseHistory": [
             {
@@ -33022,7 +33022,7 @@
     },
     {
         "CashBalance": 500.31,
-        "Id": 524,
+        "UserId": 524,
         "Name": "John Smith",
         "PurchaseHistory": [
             {
@@ -33137,7 +33137,7 @@
     },
     {
         "CashBalance": 168.0,
-        "Id": 525,
+        "UserId": 525,
         "Name": "Cindy Case",
         "PurchaseHistory": [
             {
@@ -33168,7 +33168,7 @@
     },
     {
         "CashBalance": 568.23,
-        "Id": 526,
+        "UserId": 526,
         "Name": "Clifton Mccoy",
         "PurchaseHistory": [
             {
@@ -33205,7 +33205,7 @@
     },
     {
         "CashBalance": 308.31,
-        "Id": 527,
+        "UserId": 527,
         "Name": "Essie Frazier",
         "PurchaseHistory": [
             {
@@ -33296,7 +33296,7 @@
     },
     {
         "CashBalance": 773.77,
-        "Id": 528,
+        "UserId": 528,
         "Name": "Scott Owen",
         "PurchaseHistory": [
             {
@@ -33399,7 +33399,7 @@
     },
     {
         "CashBalance": 345.81,
-        "Id": 529,
+        "UserId": 529,
         "Name": "Brent Austin",
         "PurchaseHistory": [
             {
@@ -33454,7 +33454,7 @@
     },
     {
         "CashBalance": 142.19,
-        "Id": 530,
+        "UserId": 530,
         "Name": "Timothy Guzowski",
         "PurchaseHistory": [
             {
@@ -33527,7 +33527,7 @@
     },
     {
         "CashBalance": 470.9,
-        "Id": 531,
+        "UserId": 531,
         "Name": "Isidra Sieja",
         "PurchaseHistory": [
             {
@@ -33552,7 +33552,7 @@
     },
     {
         "CashBalance": 682.63,
-        "Id": 532,
+        "UserId": 532,
         "Name": "Robert Ellwanger",
         "PurchaseHistory": [
             {
@@ -33673,7 +33673,7 @@
     },
     {
         "CashBalance": 65.01,
-        "Id": 533,
+        "UserId": 533,
         "Name": "Jeffrey Crawford",
         "PurchaseHistory": [
             {
@@ -33752,7 +33752,7 @@
     },
     {
         "CashBalance": 505.26,
-        "Id": 534,
+        "UserId": 534,
         "Name": "Phil Rusher",
         "PurchaseHistory": [
             {
@@ -33861,7 +33861,7 @@
     },
     {
         "CashBalance": 657.47,
-        "Id": 535,
+        "UserId": 535,
         "Name": "Judith Heon",
         "PurchaseHistory": [
             {
@@ -33922,7 +33922,7 @@
     },
     {
         "CashBalance": 380.08,
-        "Id": 536,
+        "UserId": 536,
         "Name": "Pamela Walker",
         "PurchaseHistory": [
             {
@@ -34019,7 +34019,7 @@
     },
     {
         "CashBalance": 185.26,
-        "Id": 537,
+        "UserId": 537,
         "Name": "James Cox",
         "PurchaseHistory": [
             {
@@ -34032,7 +34032,7 @@
     },
     {
         "CashBalance": 67.14,
-        "Id": 538,
+        "UserId": 538,
         "Name": "Gilbert Satterwhite",
         "PurchaseHistory": [
             {
@@ -34045,7 +34045,7 @@
     },
     {
         "CashBalance": 49.44,
-        "Id": 539,
+        "UserId": 539,
         "Name": "Timothy Arredondo",
         "PurchaseHistory": [
             {
@@ -34112,7 +34112,7 @@
     },
     {
         "CashBalance": 161.56,
-        "Id": 540,
+        "UserId": 540,
         "Name": "Charlotte Tremblay",
         "PurchaseHistory": [
             {
@@ -34203,7 +34203,7 @@
     },
     {
         "CashBalance": 770.83,
-        "Id": 541,
+        "UserId": 541,
         "Name": "Pearl Deluca",
         "PurchaseHistory": [
             {
@@ -34270,7 +34270,7 @@
     },
     {
         "CashBalance": 206.74,
-        "Id": 542,
+        "UserId": 542,
         "Name": "Charles Mcdonald",
         "PurchaseHistory": [
             {
@@ -34349,7 +34349,7 @@
     },
     {
         "CashBalance": 830.86,
-        "Id": 543,
+        "UserId": 543,
         "Name": "Thomas Keith",
         "PurchaseHistory": [
             {
@@ -34422,7 +34422,7 @@
     },
     {
         "CashBalance": 676.6,
-        "Id": 544,
+        "UserId": 544,
         "Name": "Richard Garguilo",
         "PurchaseHistory": [
             {
@@ -34513,7 +34513,7 @@
     },
     {
         "CashBalance": 543.34,
-        "Id": 545,
+        "UserId": 545,
         "Name": "Heidi Hammonds",
         "PurchaseHistory": [
             {
@@ -34556,13 +34556,13 @@
     },
     {
         "CashBalance": 928.64,
-        "Id": 546,
+        "UserId": 546,
         "Name": "Eugene Ferrell",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 57.29,
-        "Id": 547,
+        "UserId": 547,
         "Name": "Eliza Okeeffe",
         "PurchaseHistory": [
             {
@@ -34623,7 +34623,7 @@
     },
     {
         "CashBalance": 463.1,
-        "Id": 548,
+        "UserId": 548,
         "Name": "Richard Williams",
         "PurchaseHistory": [
             {
@@ -34648,7 +34648,7 @@
     },
     {
         "CashBalance": 654.2,
-        "Id": 549,
+        "UserId": 549,
         "Name": "Paul Connolly",
         "PurchaseHistory": [
             {
@@ -34733,7 +34733,7 @@
     },
     {
         "CashBalance": 559.19,
-        "Id": 550,
+        "UserId": 550,
         "Name": "Eugene Rael",
         "PurchaseHistory": [
             {
@@ -34824,7 +34824,7 @@
     },
     {
         "CashBalance": 611.13,
-        "Id": 551,
+        "UserId": 551,
         "Name": "Gabriel Knight",
         "PurchaseHistory": [
             {
@@ -34873,7 +34873,7 @@
     },
     {
         "CashBalance": 14.11,
-        "Id": 552,
+        "UserId": 552,
         "Name": "Ryan Otto",
         "PurchaseHistory": [
             {
@@ -34916,7 +34916,7 @@
     },
     {
         "CashBalance": 457.39,
-        "Id": 553,
+        "UserId": 553,
         "Name": "Mark Jenkins",
         "PurchaseHistory": [
             {
@@ -34947,7 +34947,7 @@
     },
     {
         "CashBalance": 293.88,
-        "Id": 554,
+        "UserId": 554,
         "Name": "Edwin Urbaniak",
         "PurchaseHistory": [
             {
@@ -35050,7 +35050,7 @@
     },
     {
         "CashBalance": 417.59,
-        "Id": 555,
+        "UserId": 555,
         "Name": "Eric Cleckner",
         "PurchaseHistory": [
             {
@@ -35135,7 +35135,7 @@
     },
     {
         "CashBalance": 467.66,
-        "Id": 556,
+        "UserId": 556,
         "Name": "Robert Harris",
         "PurchaseHistory": [
             {
@@ -35160,7 +35160,7 @@
     },
     {
         "CashBalance": 758.56,
-        "Id": 557,
+        "UserId": 557,
         "Name": "James Torres",
         "PurchaseHistory": [
             {
@@ -35263,7 +35263,7 @@
     },
     {
         "CashBalance": 808.24,
-        "Id": 558,
+        "UserId": 558,
         "Name": "Elizabeth Bowerman",
         "PurchaseHistory": [
             {
@@ -35330,7 +35330,7 @@
     },
     {
         "CashBalance": 768.7,
-        "Id": 559,
+        "UserId": 559,
         "Name": "Jeff Werth",
         "PurchaseHistory": [
             {
@@ -35451,7 +35451,7 @@
     },
     {
         "CashBalance": 264.05,
-        "Id": 560,
+        "UserId": 560,
         "Name": "Joseph Taylor",
         "PurchaseHistory": [
             {
@@ -35554,7 +35554,7 @@
     },
     {
         "CashBalance": 967.19,
-        "Id": 561,
+        "UserId": 561,
         "Name": "Betty Zinner",
         "PurchaseHistory": [
             {
@@ -35651,7 +35651,7 @@
     },
     {
         "CashBalance": 8.8,
-        "Id": 562,
+        "UserId": 562,
         "Name": "Kerry Moore",
         "PurchaseHistory": [
             {
@@ -35742,7 +35742,7 @@
     },
     {
         "CashBalance": 523.96,
-        "Id": 563,
+        "UserId": 563,
         "Name": "Julie Scott",
         "PurchaseHistory": [
             {
@@ -35803,7 +35803,7 @@
     },
     {
         "CashBalance": 983.26,
-        "Id": 564,
+        "UserId": 564,
         "Name": "Matthew Cannella",
         "PurchaseHistory": [
             {
@@ -35816,7 +35816,7 @@
     },
     {
         "CashBalance": 669.17,
-        "Id": 565,
+        "UserId": 565,
         "Name": "David Reid",
         "PurchaseHistory": [
             {
@@ -35895,7 +35895,7 @@
     },
     {
         "CashBalance": 890.63,
-        "Id": 566,
+        "UserId": 566,
         "Name": "Earl Young",
         "PurchaseHistory": [
             {
@@ -35974,7 +35974,7 @@
     },
     {
         "CashBalance": 175.56,
-        "Id": 567,
+        "UserId": 567,
         "Name": "Patricia Victory",
         "PurchaseHistory": [
             {
@@ -36053,7 +36053,7 @@
     },
     {
         "CashBalance": 837.03,
-        "Id": 568,
+        "UserId": 568,
         "Name": "Robert Butorac",
         "PurchaseHistory": [
             {
@@ -36066,7 +36066,7 @@
     },
     {
         "CashBalance": 22.18,
-        "Id": 569,
+        "UserId": 569,
         "Name": "Daniel Frierson",
         "PurchaseHistory": [
             {
@@ -36139,7 +36139,7 @@
     },
     {
         "CashBalance": 586.85,
-        "Id": 570,
+        "UserId": 570,
         "Name": "George Metheney",
         "PurchaseHistory": [
             {
@@ -36170,7 +36170,7 @@
     },
     {
         "CashBalance": 29.26,
-        "Id": 571,
+        "UserId": 571,
         "Name": "Ruth Wallace",
         "PurchaseHistory": [
             {
@@ -36189,7 +36189,7 @@
     },
     {
         "CashBalance": 251.46,
-        "Id": 572,
+        "UserId": 572,
         "Name": "Rex Armon",
         "PurchaseHistory": [
             {
@@ -36298,7 +36298,7 @@
     },
     {
         "CashBalance": 46.51,
-        "Id": 573,
+        "UserId": 573,
         "Name": "Bertha Okeefe",
         "PurchaseHistory": [
             {
@@ -36341,7 +36341,7 @@
     },
     {
         "CashBalance": 10.05,
-        "Id": 574,
+        "UserId": 574,
         "Name": "Juan Varela",
         "PurchaseHistory": [
             {
@@ -36414,13 +36414,13 @@
     },
     {
         "CashBalance": 514.05,
-        "Id": 575,
+        "UserId": 575,
         "Name": "Willie Clark",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 168.65,
-        "Id": 576,
+        "UserId": 576,
         "Name": "Eleanor Pendleton",
         "PurchaseHistory": [
             {
@@ -36463,7 +36463,7 @@
     },
     {
         "CashBalance": 327.44,
-        "Id": 577,
+        "UserId": 577,
         "Name": "Melvin Carson",
         "PurchaseHistory": [
             {
@@ -36512,7 +36512,7 @@
     },
     {
         "CashBalance": 962.25,
-        "Id": 578,
+        "UserId": 578,
         "Name": "Cindy Grey",
         "PurchaseHistory": [
             {
@@ -36531,7 +36531,7 @@
     },
     {
         "CashBalance": 135.47,
-        "Id": 579,
+        "UserId": 579,
         "Name": "Richard Channey",
         "PurchaseHistory": [
             {
@@ -36586,7 +36586,7 @@
     },
     {
         "CashBalance": 781.53,
-        "Id": 580,
+        "UserId": 580,
         "Name": "Janice Worley",
         "PurchaseHistory": [
             {
@@ -36599,7 +36599,7 @@
     },
     {
         "CashBalance": 425.6,
-        "Id": 581,
+        "UserId": 581,
         "Name": "Alicia Sanchez",
         "PurchaseHistory": [
             {
@@ -36612,7 +36612,7 @@
     },
     {
         "CashBalance": 187.71,
-        "Id": 582,
+        "UserId": 582,
         "Name": "Roger Mitchell",
         "PurchaseHistory": [
             {
@@ -36625,7 +36625,7 @@
     },
     {
         "CashBalance": 508.1,
-        "Id": 583,
+        "UserId": 583,
         "Name": "Patrick Mahar",
         "PurchaseHistory": [
             {
@@ -36698,7 +36698,7 @@
     },
     {
         "CashBalance": 250.45,
-        "Id": 584,
+        "UserId": 584,
         "Name": "Joseph Rodriguez",
         "PurchaseHistory": [
             {
@@ -36765,7 +36765,7 @@
     },
     {
         "CashBalance": 571.56,
-        "Id": 585,
+        "UserId": 585,
         "Name": "Yolanda Decker",
         "PurchaseHistory": [
             {
@@ -36862,7 +36862,7 @@
     },
     {
         "CashBalance": 516.18,
-        "Id": 586,
+        "UserId": 586,
         "Name": "Angela Black",
         "PurchaseHistory": [
             {
@@ -36905,7 +36905,7 @@
     },
     {
         "CashBalance": 152.6,
-        "Id": 587,
+        "UserId": 587,
         "Name": "Walter Lillie",
         "PurchaseHistory": [
             {
@@ -37026,7 +37026,7 @@
     },
     {
         "CashBalance": 995.57,
-        "Id": 588,
+        "UserId": 588,
         "Name": "Willie Wylie",
         "PurchaseHistory": [
             {
@@ -37075,7 +37075,7 @@
     },
     {
         "CashBalance": 265.43,
-        "Id": 589,
+        "UserId": 589,
         "Name": "John Howell",
         "PurchaseHistory": [
             {
@@ -37088,7 +37088,7 @@
     },
     {
         "CashBalance": 669.41,
-        "Id": 590,
+        "UserId": 590,
         "Name": "Cynthia Atkins",
         "PurchaseHistory": [
             {
@@ -37125,7 +37125,7 @@
     },
     {
         "CashBalance": 770.06,
-        "Id": 591,
+        "UserId": 591,
         "Name": "Sarah Parenteau",
         "PurchaseHistory": [
             {
@@ -37198,7 +37198,7 @@
     },
     {
         "CashBalance": 239.21,
-        "Id": 592,
+        "UserId": 592,
         "Name": "Maria Jones",
         "PurchaseHistory": [
             {
@@ -37211,7 +37211,7 @@
     },
     {
         "CashBalance": 331.29,
-        "Id": 593,
+        "UserId": 593,
         "Name": "Paulette Jackson",
         "PurchaseHistory": [
             {
@@ -37314,7 +37314,7 @@
     },
     {
         "CashBalance": 716.14,
-        "Id": 594,
+        "UserId": 594,
         "Name": "William Smith",
         "PurchaseHistory": [
             {
@@ -37369,7 +37369,7 @@
     },
     {
         "CashBalance": 436.01,
-        "Id": 595,
+        "UserId": 595,
         "Name": "Betty Spada",
         "PurchaseHistory": [
             {
@@ -37406,7 +37406,7 @@
     },
     {
         "CashBalance": 801.44,
-        "Id": 596,
+        "UserId": 596,
         "Name": "Francine Reece",
         "PurchaseHistory": [
             {
@@ -37515,7 +37515,7 @@
     },
     {
         "CashBalance": 82.27,
-        "Id": 597,
+        "UserId": 597,
         "Name": "Gretchen Stephen",
         "PurchaseHistory": [
             {
@@ -37558,7 +37558,7 @@
     },
     {
         "CashBalance": 55.87,
-        "Id": 598,
+        "UserId": 598,
         "Name": "Jessica Blais",
         "PurchaseHistory": [
             {
@@ -37583,7 +37583,7 @@
     },
     {
         "CashBalance": 952.19,
-        "Id": 599,
+        "UserId": 599,
         "Name": "Reinaldo Washington",
         "PurchaseHistory": [
             {
@@ -37704,7 +37704,7 @@
     },
     {
         "CashBalance": 42.89,
-        "Id": 600,
+        "UserId": 600,
         "Name": "Jeff Williams",
         "PurchaseHistory": [
             {
@@ -37741,7 +37741,7 @@
     },
     {
         "CashBalance": 503.84,
-        "Id": 601,
+        "UserId": 601,
         "Name": "James Cross",
         "PurchaseHistory": [
             {
@@ -37796,7 +37796,7 @@
     },
     {
         "CashBalance": 965.6,
-        "Id": 602,
+        "UserId": 602,
         "Name": "Joyce Hall",
         "PurchaseHistory": [
             {
@@ -37821,7 +37821,7 @@
     },
     {
         "CashBalance": 988.65,
-        "Id": 603,
+        "UserId": 603,
         "Name": "Nancy Waller",
         "PurchaseHistory": [
             {
@@ -37876,7 +37876,7 @@
     },
     {
         "CashBalance": 155.81,
-        "Id": 604,
+        "UserId": 604,
         "Name": "Hal Wilder",
         "PurchaseHistory": [
             {
@@ -37895,7 +37895,7 @@
     },
     {
         "CashBalance": 512.54,
-        "Id": 605,
+        "UserId": 605,
         "Name": "Andre Robbins",
         "PurchaseHistory": [
             {
@@ -37968,7 +37968,7 @@
     },
     {
         "CashBalance": 851.44,
-        "Id": 606,
+        "UserId": 606,
         "Name": "Jeannine Brown",
         "PurchaseHistory": [
             {
@@ -38071,7 +38071,7 @@
     },
     {
         "CashBalance": 854.13,
-        "Id": 607,
+        "UserId": 607,
         "Name": "Babette Miller",
         "PurchaseHistory": [
             {
@@ -38186,7 +38186,7 @@
     },
     {
         "CashBalance": 609.69,
-        "Id": 608,
+        "UserId": 608,
         "Name": "Debbie Mendoza",
         "PurchaseHistory": [
             {
@@ -38211,7 +38211,7 @@
     },
     {
         "CashBalance": 165.59,
-        "Id": 609,
+        "UserId": 609,
         "Name": "Ronald Gonzalez",
         "PurchaseHistory": [
             {
@@ -38242,7 +38242,7 @@
     },
     {
         "CashBalance": 413.15,
-        "Id": 610,
+        "UserId": 610,
         "Name": "Beatrice Davis",
         "PurchaseHistory": [
             {
@@ -38327,7 +38327,7 @@
     },
     {
         "CashBalance": 225.54,
-        "Id": 611,
+        "UserId": 611,
         "Name": "Tim Tep",
         "PurchaseHistory": [
             {
@@ -38394,7 +38394,7 @@
     },
     {
         "CashBalance": 659.14,
-        "Id": 612,
+        "UserId": 612,
         "Name": "Christopher Visitacion",
         "PurchaseHistory": [
             {
@@ -38431,7 +38431,7 @@
     },
     {
         "CashBalance": 746.54,
-        "Id": 613,
+        "UserId": 613,
         "Name": "James Weal",
         "PurchaseHistory": [
             {
@@ -38480,7 +38480,7 @@
     },
     {
         "CashBalance": 485.52,
-        "Id": 614,
+        "UserId": 614,
         "Name": "Jay Holzer",
         "PurchaseHistory": [
             {
@@ -38589,7 +38589,7 @@
     },
     {
         "CashBalance": 344.0,
-        "Id": 615,
+        "UserId": 615,
         "Name": "Louetta Lodge",
         "PurchaseHistory": [
             {
@@ -38602,7 +38602,7 @@
     },
     {
         "CashBalance": 311.58,
-        "Id": 616,
+        "UserId": 616,
         "Name": "Ruth Narain",
         "PurchaseHistory": [
             {
@@ -38705,7 +38705,7 @@
     },
     {
         "CashBalance": 334.45,
-        "Id": 617,
+        "UserId": 617,
         "Name": "Anna Gilliam",
         "PurchaseHistory": [
             {
@@ -38790,7 +38790,7 @@
     },
     {
         "CashBalance": 362.31,
-        "Id": 618,
+        "UserId": 618,
         "Name": "Debbie Giles",
         "PurchaseHistory": [
             {
@@ -38833,7 +38833,7 @@
     },
     {
         "CashBalance": 44.78,
-        "Id": 619,
+        "UserId": 619,
         "Name": "Walter Reid",
         "PurchaseHistory": [
             {
@@ -38888,13 +38888,13 @@
     },
     {
         "CashBalance": 231.14,
-        "Id": 620,
+        "UserId": 620,
         "Name": "James Derose",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 894.35,
-        "Id": 621,
+        "UserId": 621,
         "Name": "Kenneth Kiani",
         "PurchaseHistory": [
             {
@@ -38961,7 +38961,7 @@
     },
     {
         "CashBalance": 63.18,
-        "Id": 622,
+        "UserId": 622,
         "Name": "Robert Ngo",
         "PurchaseHistory": [
             {
@@ -38998,7 +38998,7 @@
     },
     {
         "CashBalance": 825.21,
-        "Id": 623,
+        "UserId": 623,
         "Name": "Thelma Castro",
         "PurchaseHistory": [
             {
@@ -39053,13 +39053,13 @@
     },
     {
         "CashBalance": 508.03,
-        "Id": 624,
+        "UserId": 624,
         "Name": "David Jemerson",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 445.42,
-        "Id": 625,
+        "UserId": 625,
         "Name": "Margaret Brockington",
         "PurchaseHistory": [
             {
@@ -39156,7 +39156,7 @@
     },
     {
         "CashBalance": 93.83,
-        "Id": 626,
+        "UserId": 626,
         "Name": "Antonette Dotson",
         "PurchaseHistory": [
             {
@@ -39217,7 +39217,7 @@
     },
     {
         "CashBalance": 471.05,
-        "Id": 627,
+        "UserId": 627,
         "Name": "James Rutherford",
         "PurchaseHistory": [
             {
@@ -39296,7 +39296,7 @@
     },
     {
         "CashBalance": 491.38,
-        "Id": 628,
+        "UserId": 628,
         "Name": "Josephine Robinson",
         "PurchaseHistory": [
             {
@@ -39369,7 +39369,7 @@
     },
     {
         "CashBalance": 230.47,
-        "Id": 629,
+        "UserId": 629,
         "Name": "David Greenstreet",
         "PurchaseHistory": [
             {
@@ -39466,7 +39466,7 @@
     },
     {
         "CashBalance": 741.21,
-        "Id": 630,
+        "UserId": 630,
         "Name": "Stephen Sanders",
         "PurchaseHistory": [
             {
@@ -39515,7 +39515,7 @@
     },
     {
         "CashBalance": 690.49,
-        "Id": 631,
+        "UserId": 631,
         "Name": "Allan Melville",
         "PurchaseHistory": [
             {
@@ -39594,7 +39594,7 @@
     },
     {
         "CashBalance": 571.93,
-        "Id": 632,
+        "UserId": 632,
         "Name": "Regina Riggie",
         "PurchaseHistory": [
             {
@@ -39667,7 +39667,7 @@
     },
     {
         "CashBalance": 965.63,
-        "Id": 633,
+        "UserId": 633,
         "Name": "Sheena Clark",
         "PurchaseHistory": [
             {
@@ -39746,7 +39746,7 @@
     },
     {
         "CashBalance": 418.55,
-        "Id": 634,
+        "UserId": 634,
         "Name": "Christopher Boggs",
         "PurchaseHistory": [
             {
@@ -39849,13 +39849,13 @@
     },
     {
         "CashBalance": 641.15,
-        "Id": 635,
+        "UserId": 635,
         "Name": "Andrew Watkins",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 435.2,
-        "Id": 636,
+        "UserId": 636,
         "Name": "Rich Long",
         "PurchaseHistory": [
             {
@@ -39886,7 +39886,7 @@
     },
     {
         "CashBalance": 644.72,
-        "Id": 637,
+        "UserId": 637,
         "Name": "James Mckie",
         "PurchaseHistory": [
             {
@@ -39941,7 +39941,7 @@
     },
     {
         "CashBalance": 689.92,
-        "Id": 638,
+        "UserId": 638,
         "Name": "Rose Jones",
         "PurchaseHistory": [
             {
@@ -39954,7 +39954,7 @@
     },
     {
         "CashBalance": 389.28,
-        "Id": 639,
+        "UserId": 639,
         "Name": "Donna Drake",
         "PurchaseHistory": [
             {
@@ -40033,7 +40033,7 @@
     },
     {
         "CashBalance": 347.81,
-        "Id": 640,
+        "UserId": 640,
         "Name": "Agnes Gonzalez",
         "PurchaseHistory": [
             {
@@ -40136,7 +40136,7 @@
     },
     {
         "CashBalance": 409.63,
-        "Id": 641,
+        "UserId": 641,
         "Name": "Kyle Moran",
         "PurchaseHistory": [
             {
@@ -40257,7 +40257,7 @@
     },
     {
         "CashBalance": 261.47,
-        "Id": 642,
+        "UserId": 642,
         "Name": "Kim Fortier",
         "PurchaseHistory": [
             {
@@ -40282,7 +40282,7 @@
     },
     {
         "CashBalance": 883.44,
-        "Id": 643,
+        "UserId": 643,
         "Name": "Wanda Schmidt",
         "PurchaseHistory": [
             {
@@ -40325,7 +40325,7 @@
     },
     {
         "CashBalance": 938.84,
-        "Id": 644,
+        "UserId": 644,
         "Name": "Scott Rice",
         "PurchaseHistory": [
             {
@@ -40362,7 +40362,7 @@
     },
     {
         "CashBalance": 664.88,
-        "Id": 645,
+        "UserId": 645,
         "Name": "Brian Greenwood",
         "PurchaseHistory": [
             {
@@ -40387,7 +40387,7 @@
     },
     {
         "CashBalance": 123.03,
-        "Id": 646,
+        "UserId": 646,
         "Name": "John Eyre",
         "PurchaseHistory": [
             {
@@ -40418,7 +40418,7 @@
     },
     {
         "CashBalance": 264.29,
-        "Id": 647,
+        "UserId": 647,
         "Name": "Richard Hoff",
         "PurchaseHistory": [
             {
@@ -40485,7 +40485,7 @@
     },
     {
         "CashBalance": 795.16,
-        "Id": 648,
+        "UserId": 648,
         "Name": "Len Reese",
         "PurchaseHistory": [
             {
@@ -40570,7 +40570,7 @@
     },
     {
         "CashBalance": 817.32,
-        "Id": 649,
+        "UserId": 649,
         "Name": "Leonor Scott",
         "PurchaseHistory": [
             {
@@ -40637,7 +40637,7 @@
     },
     {
         "CashBalance": 838.93,
-        "Id": 650,
+        "UserId": 650,
         "Name": "Randall Hoyt",
         "PurchaseHistory": [
             {
@@ -40668,13 +40668,13 @@
     },
     {
         "CashBalance": 491.45,
-        "Id": 651,
+        "UserId": 651,
         "Name": "Earl Maberry",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 48.04,
-        "Id": 652,
+        "UserId": 652,
         "Name": "Oscar Cuff",
         "PurchaseHistory": [
             {
@@ -40711,7 +40711,7 @@
     },
     {
         "CashBalance": 799.23,
-        "Id": 653,
+        "UserId": 653,
         "Name": "Laura Wells",
         "PurchaseHistory": [
             {
@@ -40802,7 +40802,7 @@
     },
     {
         "CashBalance": 629.14,
-        "Id": 654,
+        "UserId": 654,
         "Name": "Roger Hughes",
         "PurchaseHistory": [
             {
@@ -40911,7 +40911,7 @@
     },
     {
         "CashBalance": 102.49,
-        "Id": 655,
+        "UserId": 655,
         "Name": "Danielle Wright",
         "PurchaseHistory": [
             {
@@ -40930,7 +40930,7 @@
     },
     {
         "CashBalance": 87.05,
-        "Id": 656,
+        "UserId": 656,
         "Name": "Alberta Luster",
         "PurchaseHistory": [
             {
@@ -41051,7 +41051,7 @@
     },
     {
         "CashBalance": 761.53,
-        "Id": 657,
+        "UserId": 657,
         "Name": "James Dean",
         "PurchaseHistory": [
             {
@@ -41106,7 +41106,7 @@
     },
     {
         "CashBalance": 106.8,
-        "Id": 658,
+        "UserId": 658,
         "Name": "Bernice Sales",
         "PurchaseHistory": [
             {
@@ -41125,13 +41125,13 @@
     },
     {
         "CashBalance": 270.55,
-        "Id": 659,
+        "UserId": 659,
         "Name": "Mary Luu",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 565.95,
-        "Id": 660,
+        "UserId": 660,
         "Name": "Denise Robinson",
         "PurchaseHistory": [
             {
@@ -41198,7 +41198,7 @@
     },
     {
         "CashBalance": 109.99,
-        "Id": 661,
+        "UserId": 661,
         "Name": "Thomas Todd",
         "PurchaseHistory": [
             {
@@ -41307,7 +41307,7 @@
     },
     {
         "CashBalance": 601.57,
-        "Id": 662,
+        "UserId": 662,
         "Name": "Martha Mullen",
         "PurchaseHistory": [
             {
@@ -41344,7 +41344,7 @@
     },
     {
         "CashBalance": 241.29,
-        "Id": 663,
+        "UserId": 663,
         "Name": "Vicki Hogue",
         "PurchaseHistory": [
             {
@@ -41393,7 +41393,7 @@
     },
     {
         "CashBalance": 194.76,
-        "Id": 664,
+        "UserId": 664,
         "Name": "Daniel Simon",
         "PurchaseHistory": [
             {
@@ -41514,7 +41514,7 @@
     },
     {
         "CashBalance": 394.97,
-        "Id": 665,
+        "UserId": 665,
         "Name": "Bobby Ares",
         "PurchaseHistory": [
             {
@@ -41587,7 +41587,7 @@
     },
     {
         "CashBalance": 394.51,
-        "Id": 666,
+        "UserId": 666,
         "Name": "Richard Dale",
         "PurchaseHistory": [
             {
@@ -41606,7 +41606,7 @@
     },
     {
         "CashBalance": 803.64,
-        "Id": 667,
+        "UserId": 667,
         "Name": "Chelsie Moniz",
         "PurchaseHistory": [
             {
@@ -41661,7 +41661,7 @@
     },
     {
         "CashBalance": 673.25,
-        "Id": 668,
+        "UserId": 668,
         "Name": "George Noyes",
         "PurchaseHistory": [
             {
@@ -41782,7 +41782,7 @@
     },
     {
         "CashBalance": 465.98,
-        "Id": 669,
+        "UserId": 669,
         "Name": "Anna Dominguez",
         "PurchaseHistory": [
             {
@@ -41795,7 +41795,7 @@
     },
     {
         "CashBalance": 262.85,
-        "Id": 670,
+        "UserId": 670,
         "Name": "Irene Frame",
         "PurchaseHistory": [
             {
@@ -41886,7 +41886,7 @@
     },
     {
         "CashBalance": 50.25,
-        "Id": 671,
+        "UserId": 671,
         "Name": "Larry Davis",
         "PurchaseHistory": [
             {
@@ -41971,7 +41971,7 @@
     },
     {
         "CashBalance": 467.48,
-        "Id": 672,
+        "UserId": 672,
         "Name": "Fred Gordillo",
         "PurchaseHistory": [
             {
@@ -42050,7 +42050,7 @@
     },
     {
         "CashBalance": 26.57,
-        "Id": 673,
+        "UserId": 673,
         "Name": "Maurita Reando",
         "PurchaseHistory": [
             {
@@ -42159,7 +42159,7 @@
     },
     {
         "CashBalance": 783.91,
-        "Id": 674,
+        "UserId": 674,
         "Name": "Keith Rossi",
         "PurchaseHistory": [
             {
@@ -42262,7 +42262,7 @@
     },
     {
         "CashBalance": 40.61,
-        "Id": 675,
+        "UserId": 675,
         "Name": "Paul Wells",
         "PurchaseHistory": [
             {
@@ -42335,7 +42335,7 @@
     },
     {
         "CashBalance": 47.71,
-        "Id": 676,
+        "UserId": 676,
         "Name": "Gloria Salas",
         "PurchaseHistory": [
             {
@@ -42444,7 +42444,7 @@
     },
     {
         "CashBalance": 448.67,
-        "Id": 677,
+        "UserId": 677,
         "Name": "Lillie Beckham",
         "PurchaseHistory": [
             {
@@ -42487,7 +42487,7 @@
     },
     {
         "CashBalance": 865.73,
-        "Id": 678,
+        "UserId": 678,
         "Name": "Gussie Mercado",
         "PurchaseHistory": [
             {
@@ -42584,7 +42584,7 @@
     },
     {
         "CashBalance": 112.28,
-        "Id": 679,
+        "UserId": 679,
         "Name": "Mary Jones",
         "PurchaseHistory": [
             {
@@ -42681,7 +42681,7 @@
     },
     {
         "CashBalance": 368.09,
-        "Id": 680,
+        "UserId": 680,
         "Name": "William Armstrong",
         "PurchaseHistory": [
             {
@@ -42748,7 +42748,7 @@
     },
     {
         "CashBalance": 297.83,
-        "Id": 681,
+        "UserId": 681,
         "Name": "Charles Roberson",
         "PurchaseHistory": [
             {
@@ -42827,7 +42827,7 @@
     },
     {
         "CashBalance": 130.72,
-        "Id": 682,
+        "UserId": 682,
         "Name": "Dessie Arellano",
         "PurchaseHistory": [
             {
@@ -42894,7 +42894,7 @@
     },
     {
         "CashBalance": 450.75,
-        "Id": 683,
+        "UserId": 683,
         "Name": "Jean Anderson",
         "PurchaseHistory": [
             {
@@ -42955,7 +42955,7 @@
     },
     {
         "CashBalance": 521.81,
-        "Id": 684,
+        "UserId": 684,
         "Name": "Malcolm Hastings",
         "PurchaseHistory": [
             {
@@ -42980,7 +42980,7 @@
     },
     {
         "CashBalance": 826.22,
-        "Id": 685,
+        "UserId": 685,
         "Name": "Joseph Boggs",
         "PurchaseHistory": [
             {
@@ -43083,13 +43083,13 @@
     },
     {
         "CashBalance": 313.0,
-        "Id": 686,
+        "UserId": 686,
         "Name": "Mamie Bullock",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 998.89,
-        "Id": 687,
+        "UserId": 687,
         "Name": "Marlene Melvin",
         "PurchaseHistory": [
             {
@@ -43186,7 +43186,7 @@
     },
     {
         "CashBalance": 729.03,
-        "Id": 688,
+        "UserId": 688,
         "Name": "Gordon Hanson",
         "PurchaseHistory": [
             {
@@ -43211,7 +43211,7 @@
     },
     {
         "CashBalance": 289.98,
-        "Id": 689,
+        "UserId": 689,
         "Name": "Ronald Cook",
         "PurchaseHistory": [
             {
@@ -43224,7 +43224,7 @@
     },
     {
         "CashBalance": 592.15,
-        "Id": 690,
+        "UserId": 690,
         "Name": "Faye Crowe",
         "PurchaseHistory": [
             {
@@ -43321,7 +43321,7 @@
     },
     {
         "CashBalance": 898.58,
-        "Id": 691,
+        "UserId": 691,
         "Name": "Lisa Davis",
         "PurchaseHistory": [
             {
@@ -43376,7 +43376,7 @@
     },
     {
         "CashBalance": 596.53,
-        "Id": 692,
+        "UserId": 692,
         "Name": "Terry Brown",
         "PurchaseHistory": [
             {
@@ -43485,7 +43485,7 @@
     },
     {
         "CashBalance": 193.05,
-        "Id": 693,
+        "UserId": 693,
         "Name": "Jeanne Paxton",
         "PurchaseHistory": [
             {
@@ -43516,7 +43516,7 @@
     },
     {
         "CashBalance": 847.84,
-        "Id": 694,
+        "UserId": 694,
         "Name": "Mark Lineberry",
         "PurchaseHistory": [
             {
@@ -43571,7 +43571,7 @@
     },
     {
         "CashBalance": 634.39,
-        "Id": 695,
+        "UserId": 695,
         "Name": "Katrina Bradley",
         "PurchaseHistory": [
             {
@@ -43614,7 +43614,7 @@
     },
     {
         "CashBalance": 633.55,
-        "Id": 696,
+        "UserId": 696,
         "Name": "Lance Massman",
         "PurchaseHistory": [
             {
@@ -43639,7 +43639,7 @@
     },
     {
         "CashBalance": 251.86,
-        "Id": 697,
+        "UserId": 697,
         "Name": "John Johnson",
         "PurchaseHistory": [
             {
@@ -43718,7 +43718,7 @@
     },
     {
         "CashBalance": 54.35,
-        "Id": 698,
+        "UserId": 698,
         "Name": "Adrian Green",
         "PurchaseHistory": [
             {
@@ -43827,7 +43827,7 @@
     },
     {
         "CashBalance": 520.23,
-        "Id": 699,
+        "UserId": 699,
         "Name": "Brooke Kelly",
         "PurchaseHistory": [
             {
@@ -43876,7 +43876,7 @@
     },
     {
         "CashBalance": 251.86,
-        "Id": 700,
+        "UserId": 700,
         "Name": "Loretta Rutledge",
         "PurchaseHistory": [
             {
@@ -43901,7 +43901,7 @@
     },
     {
         "CashBalance": 788.29,
-        "Id": 701,
+        "UserId": 701,
         "Name": "Vincent Caldeira",
         "PurchaseHistory": [
             {
@@ -43950,7 +43950,7 @@
     },
     {
         "CashBalance": 745.26,
-        "Id": 702,
+        "UserId": 702,
         "Name": "Eric Alcorn",
         "PurchaseHistory": [
             {
@@ -44029,7 +44029,7 @@
     },
     {
         "CashBalance": 523.45,
-        "Id": 703,
+        "UserId": 703,
         "Name": "Peter Edwards",
         "PurchaseHistory": [
             {
@@ -44108,7 +44108,7 @@
     },
     {
         "CashBalance": 834.94,
-        "Id": 704,
+        "UserId": 704,
         "Name": "Elizabeth Halfhill",
         "PurchaseHistory": [
             {
@@ -44223,7 +44223,7 @@
     },
     {
         "CashBalance": 450.33,
-        "Id": 705,
+        "UserId": 705,
         "Name": "Claude Muncy",
         "PurchaseHistory": [
             {
@@ -44248,7 +44248,7 @@
     },
     {
         "CashBalance": 493.08,
-        "Id": 706,
+        "UserId": 706,
         "Name": "Valerie Whelan",
         "PurchaseHistory": [
             {
@@ -44333,7 +44333,7 @@
     },
     {
         "CashBalance": 883.64,
-        "Id": 707,
+        "UserId": 707,
         "Name": "Frances Shipman",
         "PurchaseHistory": [
             {
@@ -44364,7 +44364,7 @@
     },
     {
         "CashBalance": 177.41,
-        "Id": 708,
+        "UserId": 708,
         "Name": "Rose Dembitzer",
         "PurchaseHistory": [
             {
@@ -44431,7 +44431,7 @@
     },
     {
         "CashBalance": 9.39,
-        "Id": 709,
+        "UserId": 709,
         "Name": "John Gott",
         "PurchaseHistory": [
             {
@@ -44510,7 +44510,7 @@
     },
     {
         "CashBalance": 416.91,
-        "Id": 710,
+        "UserId": 710,
         "Name": "Kathryn Collins",
         "PurchaseHistory": [
             {
@@ -44601,7 +44601,7 @@
     },
     {
         "CashBalance": 167.67,
-        "Id": 711,
+        "UserId": 711,
         "Name": "Corrine Patterson",
         "PurchaseHistory": [
             {
@@ -44656,7 +44656,7 @@
     },
     {
         "CashBalance": 219.2,
-        "Id": 712,
+        "UserId": 712,
         "Name": "Sharon Hart",
         "PurchaseHistory": [
             {
@@ -44753,7 +44753,7 @@
     },
     {
         "CashBalance": 51.14,
-        "Id": 713,
+        "UserId": 713,
         "Name": "Robert Hernandez",
         "PurchaseHistory": [
             {
@@ -44844,7 +44844,7 @@
     },
     {
         "CashBalance": 94.55,
-        "Id": 714,
+        "UserId": 714,
         "Name": "Maurice Keithley",
         "PurchaseHistory": [
             {
@@ -44875,7 +44875,7 @@
     },
     {
         "CashBalance": 25.75,
-        "Id": 715,
+        "UserId": 715,
         "Name": "Josephine Kuzma",
         "PurchaseHistory": [
             {
@@ -44918,7 +44918,7 @@
     },
     {
         "CashBalance": 724.18,
-        "Id": 716,
+        "UserId": 716,
         "Name": "Julie Guest",
         "PurchaseHistory": [
             {
@@ -44943,7 +44943,7 @@
     },
     {
         "CashBalance": 512.63,
-        "Id": 717,
+        "UserId": 717,
         "Name": "Donald Abbott",
         "PurchaseHistory": [
             {
@@ -45004,7 +45004,7 @@
     },
     {
         "CashBalance": 466.43,
-        "Id": 718,
+        "UserId": 718,
         "Name": "Gregory Rousey",
         "PurchaseHistory": [
             {
@@ -45017,7 +45017,7 @@
     },
     {
         "CashBalance": 221.81,
-        "Id": 719,
+        "UserId": 719,
         "Name": "Drew Scerra",
         "PurchaseHistory": [
             {
@@ -45096,7 +45096,7 @@
     },
     {
         "CashBalance": 803.81,
-        "Id": 720,
+        "UserId": 720,
         "Name": "Billy Harrelson",
         "PurchaseHistory": [
             {
@@ -45133,7 +45133,7 @@
     },
     {
         "CashBalance": 385.48,
-        "Id": 721,
+        "UserId": 721,
         "Name": "Ernest Mcmullin",
         "PurchaseHistory": [
             {
@@ -45248,7 +45248,7 @@
     },
     {
         "CashBalance": 867.89,
-        "Id": 722,
+        "UserId": 722,
         "Name": "James Lux",
         "PurchaseHistory": [
             {
@@ -45285,7 +45285,7 @@
     },
     {
         "CashBalance": 127.71,
-        "Id": 723,
+        "UserId": 723,
         "Name": "Randy Smith",
         "PurchaseHistory": [
             {
@@ -45400,7 +45400,7 @@
     },
     {
         "CashBalance": 89.75,
-        "Id": 724,
+        "UserId": 724,
         "Name": "Roger Lawrence",
         "PurchaseHistory": [
             {
@@ -45473,7 +45473,7 @@
     },
     {
         "CashBalance": 217.39,
-        "Id": 725,
+        "UserId": 725,
         "Name": "Harold Bennett",
         "PurchaseHistory": [
             {
@@ -45486,7 +45486,7 @@
     },
     {
         "CashBalance": 221.35,
-        "Id": 726,
+        "UserId": 726,
         "Name": "Ethel Fields",
         "PurchaseHistory": [
             {
@@ -45523,7 +45523,7 @@
     },
     {
         "CashBalance": 468.04,
-        "Id": 727,
+        "UserId": 727,
         "Name": "Dorothy Donnelson",
         "PurchaseHistory": [
             {
@@ -45614,7 +45614,7 @@
     },
     {
         "CashBalance": 226.9,
-        "Id": 728,
+        "UserId": 728,
         "Name": "Adeline Whipps",
         "PurchaseHistory": [
             {
@@ -45651,7 +45651,7 @@
     },
     {
         "CashBalance": 276.42,
-        "Id": 729,
+        "UserId": 729,
         "Name": "Gerald Willard",
         "PurchaseHistory": [
             {
@@ -45700,7 +45700,7 @@
     },
     {
         "CashBalance": 245.54,
-        "Id": 730,
+        "UserId": 730,
         "Name": "Kena Trinkle",
         "PurchaseHistory": [
             {
@@ -45719,7 +45719,7 @@
     },
     {
         "CashBalance": 267.4,
-        "Id": 731,
+        "UserId": 731,
         "Name": "Robert Houck",
         "PurchaseHistory": [
             {
@@ -45774,7 +45774,7 @@
     },
     {
         "CashBalance": 41.74,
-        "Id": 732,
+        "UserId": 732,
         "Name": "Mark Betterman",
         "PurchaseHistory": [
             {
@@ -45895,7 +45895,7 @@
     },
     {
         "CashBalance": 989.59,
-        "Id": 733,
+        "UserId": 733,
         "Name": "Judith Madrigal",
         "PurchaseHistory": [
             {
@@ -45950,7 +45950,7 @@
     },
     {
         "CashBalance": 847.72,
-        "Id": 734,
+        "UserId": 734,
         "Name": "Dorothy Ferrara",
         "PurchaseHistory": [
             {
@@ -45981,7 +45981,7 @@
     },
     {
         "CashBalance": 771.97,
-        "Id": 735,
+        "UserId": 735,
         "Name": "Casey Fields",
         "PurchaseHistory": [
             {
@@ -46096,7 +46096,7 @@
     },
     {
         "CashBalance": 432.68,
-        "Id": 736,
+        "UserId": 736,
         "Name": "Diane Pannenbacker",
         "PurchaseHistory": [
             {
@@ -46211,7 +46211,7 @@
     },
     {
         "CashBalance": 367.95,
-        "Id": 737,
+        "UserId": 737,
         "Name": "Cora Quillen",
         "PurchaseHistory": [
             {
@@ -46284,7 +46284,7 @@
     },
     {
         "CashBalance": 442.69,
-        "Id": 738,
+        "UserId": 738,
         "Name": "Joseph Lawler",
         "PurchaseHistory": [
             {
@@ -46297,7 +46297,7 @@
     },
     {
         "CashBalance": 239.01,
-        "Id": 739,
+        "UserId": 739,
         "Name": "Roy Mcnease",
         "PurchaseHistory": [
             {
@@ -46400,7 +46400,7 @@
     },
     {
         "CashBalance": 110.88,
-        "Id": 740,
+        "UserId": 740,
         "Name": "Cynthia Carroll",
         "PurchaseHistory": [
             {
@@ -46479,7 +46479,7 @@
     },
     {
         "CashBalance": 544.19,
-        "Id": 741,
+        "UserId": 741,
         "Name": "Denise Frazier",
         "PurchaseHistory": [
             {
@@ -46528,7 +46528,7 @@
     },
     {
         "CashBalance": 762.71,
-        "Id": 742,
+        "UserId": 742,
         "Name": "Suzanne Arredondo",
         "PurchaseHistory": [
             {
@@ -46637,7 +46637,7 @@
     },
     {
         "CashBalance": 950.8,
-        "Id": 743,
+        "UserId": 743,
         "Name": "Sergio King",
         "PurchaseHistory": [
             {
@@ -46710,7 +46710,7 @@
     },
     {
         "CashBalance": 501.41,
-        "Id": 744,
+        "UserId": 744,
         "Name": "Charles Rivera",
         "PurchaseHistory": [
             {
@@ -46741,7 +46741,7 @@
     },
     {
         "CashBalance": 622.14,
-        "Id": 745,
+        "UserId": 745,
         "Name": "Nancy Wilson",
         "PurchaseHistory": [
             {
@@ -46838,7 +46838,7 @@
     },
     {
         "CashBalance": 403.4,
-        "Id": 746,
+        "UserId": 746,
         "Name": "Christine Johnston",
         "PurchaseHistory": [
             {
@@ -46947,7 +46947,7 @@
     },
     {
         "CashBalance": 812.47,
-        "Id": 747,
+        "UserId": 747,
         "Name": "Linda Church",
         "PurchaseHistory": [
             {
@@ -47062,7 +47062,7 @@
     },
     {
         "CashBalance": 671.23,
-        "Id": 748,
+        "UserId": 748,
         "Name": "Mike Cruz",
         "PurchaseHistory": [
             {
@@ -47081,7 +47081,7 @@
     },
     {
         "CashBalance": 719.35,
-        "Id": 749,
+        "UserId": 749,
         "Name": "Steven Ing",
         "PurchaseHistory": [
             {
@@ -47172,7 +47172,7 @@
     },
     {
         "CashBalance": 897.73,
-        "Id": 750,
+        "UserId": 750,
         "Name": "Ashley Gonzales",
         "PurchaseHistory": [
             {
@@ -47215,7 +47215,7 @@
     },
     {
         "CashBalance": 738.33,
-        "Id": 751,
+        "UserId": 751,
         "Name": "Kathy Beal",
         "PurchaseHistory": [
             {
@@ -47294,7 +47294,7 @@
     },
     {
         "CashBalance": 533.02,
-        "Id": 752,
+        "UserId": 752,
         "Name": "Winifred Winebarger",
         "PurchaseHistory": [
             {
@@ -47379,7 +47379,7 @@
     },
     {
         "CashBalance": 674.69,
-        "Id": 753,
+        "UserId": 753,
         "Name": "David Neal",
         "PurchaseHistory": [
             {
@@ -47422,7 +47422,7 @@
     },
     {
         "CashBalance": 438.29,
-        "Id": 754,
+        "UserId": 754,
         "Name": "Terry Franklin",
         "PurchaseHistory": [
             {
@@ -47519,7 +47519,7 @@
     },
     {
         "CashBalance": 304.28,
-        "Id": 755,
+        "UserId": 755,
         "Name": "Dorothy Field",
         "PurchaseHistory": [
             {
@@ -47628,7 +47628,7 @@
     },
     {
         "CashBalance": 900.83,
-        "Id": 756,
+        "UserId": 756,
         "Name": "James Givens",
         "PurchaseHistory": [
             {
@@ -47719,7 +47719,7 @@
     },
     {
         "CashBalance": 267.65,
-        "Id": 757,
+        "UserId": 757,
         "Name": "David Lat",
         "PurchaseHistory": [
             {
@@ -47798,7 +47798,7 @@
     },
     {
         "CashBalance": 10.06,
-        "Id": 758,
+        "UserId": 758,
         "Name": "Cira Gibson",
         "PurchaseHistory": [
             {
@@ -47829,13 +47829,13 @@
     },
     {
         "CashBalance": 615.4,
-        "Id": 759,
+        "UserId": 759,
         "Name": "Lois Johnston",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 394.54,
-        "Id": 760,
+        "UserId": 760,
         "Name": "Christopher Noggler",
         "PurchaseHistory": [
             {
@@ -47872,7 +47872,7 @@
     },
     {
         "CashBalance": 534.33,
-        "Id": 761,
+        "UserId": 761,
         "Name": "Garrett Turner",
         "PurchaseHistory": [
             {
@@ -47987,7 +47987,7 @@
     },
     {
         "CashBalance": 538.64,
-        "Id": 762,
+        "UserId": 762,
         "Name": "Michelle Wissinger",
         "PurchaseHistory": [
             {
@@ -48084,7 +48084,7 @@
     },
     {
         "CashBalance": 855.28,
-        "Id": 763,
+        "UserId": 763,
         "Name": "Gerald Greene",
         "PurchaseHistory": [
             {
@@ -48103,7 +48103,7 @@
     },
     {
         "CashBalance": 459.52,
-        "Id": 764,
+        "UserId": 764,
         "Name": "Kevin Ratliff",
         "PurchaseHistory": [
             {
@@ -48158,7 +48158,7 @@
     },
     {
         "CashBalance": 310.7,
-        "Id": 765,
+        "UserId": 765,
         "Name": "Manuela Long",
         "PurchaseHistory": [
             {
@@ -48243,7 +48243,7 @@
     },
     {
         "CashBalance": 67.2,
-        "Id": 766,
+        "UserId": 766,
         "Name": "Arthur Wallace",
         "PurchaseHistory": [
             {
@@ -48322,7 +48322,7 @@
     },
     {
         "CashBalance": 579.35,
-        "Id": 767,
+        "UserId": 767,
         "Name": "Robert Sapp",
         "PurchaseHistory": [
             {
@@ -48335,7 +48335,7 @@
     },
     {
         "CashBalance": 670.27,
-        "Id": 768,
+        "UserId": 768,
         "Name": "Marc Holman",
         "PurchaseHistory": [
             {
@@ -48396,7 +48396,7 @@
     },
     {
         "CashBalance": 47.4,
-        "Id": 769,
+        "UserId": 769,
         "Name": "Gloria Scholer",
         "PurchaseHistory": [
             {
@@ -48421,7 +48421,7 @@
     },
     {
         "CashBalance": 97.39,
-        "Id": 770,
+        "UserId": 770,
         "Name": "Jane Cyr",
         "PurchaseHistory": [
             {
@@ -48440,7 +48440,7 @@
     },
     {
         "CashBalance": 68.82,
-        "Id": 771,
+        "UserId": 771,
         "Name": "Linda Frazier",
         "PurchaseHistory": [
             {
@@ -48525,7 +48525,7 @@
     },
     {
         "CashBalance": 361.17,
-        "Id": 772,
+        "UserId": 772,
         "Name": "Christine Harris",
         "PurchaseHistory": [
             {
@@ -48634,7 +48634,7 @@
     },
     {
         "CashBalance": 784.98,
-        "Id": 773,
+        "UserId": 773,
         "Name": "Mary Ortega",
         "PurchaseHistory": [
             {
@@ -48755,7 +48755,7 @@
     },
     {
         "CashBalance": 441.08,
-        "Id": 774,
+        "UserId": 774,
         "Name": "Scott Hollis",
         "PurchaseHistory": [
             {
@@ -48780,7 +48780,7 @@
     },
     {
         "CashBalance": 474.23,
-        "Id": 775,
+        "UserId": 775,
         "Name": "Donald Rhodes",
         "PurchaseHistory": [
             {
@@ -48889,7 +48889,7 @@
     },
     {
         "CashBalance": 202.15,
-        "Id": 776,
+        "UserId": 776,
         "Name": "Sean Paxton",
         "PurchaseHistory": [
             {
@@ -48908,7 +48908,7 @@
     },
     {
         "CashBalance": 361.42,
-        "Id": 777,
+        "UserId": 777,
         "Name": "Margaret Scovill",
         "PurchaseHistory": [
             {
@@ -49029,7 +49029,7 @@
     },
     {
         "CashBalance": 249.15,
-        "Id": 778,
+        "UserId": 778,
         "Name": "Sean Layne",
         "PurchaseHistory": [
             {
@@ -49084,7 +49084,7 @@
     },
     {
         "CashBalance": 869.97,
-        "Id": 779,
+        "UserId": 779,
         "Name": "Louis Brumback",
         "PurchaseHistory": [
             {
@@ -49205,7 +49205,7 @@
     },
     {
         "CashBalance": 951.99,
-        "Id": 780,
+        "UserId": 780,
         "Name": "Nettie Gonzales",
         "PurchaseHistory": [
             {
@@ -49224,7 +49224,7 @@
     },
     {
         "CashBalance": 393.14,
-        "Id": 781,
+        "UserId": 781,
         "Name": "James Mendoza",
         "PurchaseHistory": [
             {
@@ -49279,7 +49279,7 @@
     },
     {
         "CashBalance": 528.61,
-        "Id": 782,
+        "UserId": 782,
         "Name": "Calvin Monreal",
         "PurchaseHistory": [
             {
@@ -49370,7 +49370,7 @@
     },
     {
         "CashBalance": 786.15,
-        "Id": 783,
+        "UserId": 783,
         "Name": "James Blanton",
         "PurchaseHistory": [
             {
@@ -49473,7 +49473,7 @@
     },
     {
         "CashBalance": 935.24,
-        "Id": 784,
+        "UserId": 784,
         "Name": "Christopher Scott",
         "PurchaseHistory": [
             {
@@ -49522,7 +49522,7 @@
     },
     {
         "CashBalance": 216.64,
-        "Id": 785,
+        "UserId": 785,
         "Name": "Donald White",
         "PurchaseHistory": [
             {
@@ -49541,7 +49541,7 @@
     },
     {
         "CashBalance": 850.96,
-        "Id": 786,
+        "UserId": 786,
         "Name": "Geraldine Grant",
         "PurchaseHistory": [
             {
@@ -49572,7 +49572,7 @@
     },
     {
         "CashBalance": 695.24,
-        "Id": 787,
+        "UserId": 787,
         "Name": "Carol Garcia",
         "PurchaseHistory": [
             {
@@ -49675,7 +49675,7 @@
     },
     {
         "CashBalance": 674.95,
-        "Id": 788,
+        "UserId": 788,
         "Name": "Wanda Rose",
         "PurchaseHistory": [
             {
@@ -49772,7 +49772,7 @@
     },
     {
         "CashBalance": 119.63,
-        "Id": 789,
+        "UserId": 789,
         "Name": "Norman Ramirez",
         "PurchaseHistory": [
             {
@@ -49893,7 +49893,7 @@
     },
     {
         "CashBalance": 168.15,
-        "Id": 790,
+        "UserId": 790,
         "Name": "Lorraine Quear",
         "PurchaseHistory": [
             {
@@ -50008,7 +50008,7 @@
     },
     {
         "CashBalance": 864.18,
-        "Id": 791,
+        "UserId": 791,
         "Name": "Larry White",
         "PurchaseHistory": [
             {
@@ -50087,7 +50087,7 @@
     },
     {
         "CashBalance": 922.8,
-        "Id": 792,
+        "UserId": 792,
         "Name": "Sarah Zimmerman",
         "PurchaseHistory": [
             {
@@ -50178,7 +50178,7 @@
     },
     {
         "CashBalance": 270.86,
-        "Id": 793,
+        "UserId": 793,
         "Name": "Laura Blain",
         "PurchaseHistory": [
             {
@@ -50215,7 +50215,7 @@
     },
     {
         "CashBalance": 697.41,
-        "Id": 794,
+        "UserId": 794,
         "Name": "James Woolridge",
         "PurchaseHistory": [
             {
@@ -50234,7 +50234,7 @@
     },
     {
         "CashBalance": 798.3,
-        "Id": 795,
+        "UserId": 795,
         "Name": "Jessica Christian",
         "PurchaseHistory": [
             {
@@ -50331,7 +50331,7 @@
     },
     {
         "CashBalance": 251.7,
-        "Id": 796,
+        "UserId": 796,
         "Name": "Dana Scruggs",
         "PurchaseHistory": [
             {
@@ -50452,7 +50452,7 @@
     },
     {
         "CashBalance": 329.2,
-        "Id": 797,
+        "UserId": 797,
         "Name": "Ira Green",
         "PurchaseHistory": [
             {
@@ -50567,7 +50567,7 @@
     },
     {
         "CashBalance": 181.32,
-        "Id": 798,
+        "UserId": 798,
         "Name": "Francis Carter",
         "PurchaseHistory": [
             {
@@ -50646,7 +50646,7 @@
     },
     {
         "CashBalance": 675.6,
-        "Id": 799,
+        "UserId": 799,
         "Name": "Carolyn Cerda",
         "PurchaseHistory": [
             {
@@ -50689,13 +50689,13 @@
     },
     {
         "CashBalance": 817.02,
-        "Id": 800,
+        "UserId": 800,
         "Name": "Antonio Beeson",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 481.62,
-        "Id": 801,
+        "UserId": 801,
         "Name": "Brian Moon",
         "PurchaseHistory": [
             {
@@ -50720,7 +50720,7 @@
     },
     {
         "CashBalance": 96.72,
-        "Id": 802,
+        "UserId": 802,
         "Name": "Bernice Lopez",
         "PurchaseHistory": [
             {
@@ -50793,13 +50793,13 @@
     },
     {
         "CashBalance": 255.97,
-        "Id": 803,
+        "UserId": 803,
         "Name": "Linda Lee",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 701.2,
-        "Id": 804,
+        "UserId": 804,
         "Name": "Dennis Dawson",
         "PurchaseHistory": [
             {
@@ -50812,7 +50812,7 @@
     },
     {
         "CashBalance": 947.64,
-        "Id": 805,
+        "UserId": 805,
         "Name": "Deborah Hartle",
         "PurchaseHistory": [
             {
@@ -50927,7 +50927,7 @@
     },
     {
         "CashBalance": 432.52,
-        "Id": 806,
+        "UserId": 806,
         "Name": "Jim Gunnell",
         "PurchaseHistory": [
             {
@@ -51036,7 +51036,7 @@
     },
     {
         "CashBalance": 846.55,
-        "Id": 807,
+        "UserId": 807,
         "Name": "Frances White",
         "PurchaseHistory": [
             {
@@ -51151,7 +51151,7 @@
     },
     {
         "CashBalance": 342.82,
-        "Id": 808,
+        "UserId": 808,
         "Name": "Michael Strickland",
         "PurchaseHistory": [
             {
@@ -51182,7 +51182,7 @@
     },
     {
         "CashBalance": 154.19,
-        "Id": 809,
+        "UserId": 809,
         "Name": "Anthony Williams",
         "PurchaseHistory": [
             {
@@ -51255,7 +51255,7 @@
     },
     {
         "CashBalance": 415.02,
-        "Id": 810,
+        "UserId": 810,
         "Name": "Jessie Richard",
         "PurchaseHistory": [
             {
@@ -51322,7 +51322,7 @@
     },
     {
         "CashBalance": 988.91,
-        "Id": 811,
+        "UserId": 811,
         "Name": "Freddie Bates",
         "PurchaseHistory": [
             {
@@ -51389,7 +51389,7 @@
     },
     {
         "CashBalance": 269.91,
-        "Id": 812,
+        "UserId": 812,
         "Name": "Edward Tes",
         "PurchaseHistory": [
             {
@@ -51468,7 +51468,7 @@
     },
     {
         "CashBalance": 107.91,
-        "Id": 813,
+        "UserId": 813,
         "Name": "Stacey Duran",
         "PurchaseHistory": [
             {
@@ -51517,7 +51517,7 @@
     },
     {
         "CashBalance": 250.96,
-        "Id": 814,
+        "UserId": 814,
         "Name": "Henry Palma",
         "PurchaseHistory": [
             {
@@ -51530,7 +51530,7 @@
     },
     {
         "CashBalance": 592.08,
-        "Id": 815,
+        "UserId": 815,
         "Name": "Amy Carter",
         "PurchaseHistory": [
             {
@@ -51573,7 +51573,7 @@
     },
     {
         "CashBalance": 799.05,
-        "Id": 816,
+        "UserId": 816,
         "Name": "Geoffrey Minnick",
         "PurchaseHistory": [
             {
@@ -51664,7 +51664,7 @@
     },
     {
         "CashBalance": 480.69,
-        "Id": 817,
+        "UserId": 817,
         "Name": "Brooke Potter",
         "PurchaseHistory": [
             {
@@ -51689,7 +51689,7 @@
     },
     {
         "CashBalance": 245.71,
-        "Id": 818,
+        "UserId": 818,
         "Name": "Michael Amaker",
         "PurchaseHistory": [
             {
@@ -51786,7 +51786,7 @@
     },
     {
         "CashBalance": 891.04,
-        "Id": 819,
+        "UserId": 819,
         "Name": "Morgan Swanson",
         "PurchaseHistory": [
             {
@@ -51823,7 +51823,7 @@
     },
     {
         "CashBalance": 564.43,
-        "Id": 820,
+        "UserId": 820,
         "Name": "Linda Barton",
         "PurchaseHistory": [
             {
@@ -51848,7 +51848,7 @@
     },
     {
         "CashBalance": 830.61,
-        "Id": 821,
+        "UserId": 821,
         "Name": "Edward Patron",
         "PurchaseHistory": [
             {
@@ -51921,7 +51921,7 @@
     },
     {
         "CashBalance": 781.23,
-        "Id": 822,
+        "UserId": 822,
         "Name": "Paula Luckner",
         "PurchaseHistory": [
             {
@@ -51958,7 +51958,7 @@
     },
     {
         "CashBalance": 601.74,
-        "Id": 823,
+        "UserId": 823,
         "Name": "Crystal Doud",
         "PurchaseHistory": [
             {
@@ -52001,7 +52001,7 @@
     },
     {
         "CashBalance": 976.17,
-        "Id": 824,
+        "UserId": 824,
         "Name": "Marie Tillman",
         "PurchaseHistory": [
             {
@@ -52086,7 +52086,7 @@
     },
     {
         "CashBalance": 319.88,
-        "Id": 825,
+        "UserId": 825,
         "Name": "Rodney Salas",
         "PurchaseHistory": [
             {
@@ -52099,7 +52099,7 @@
     },
     {
         "CashBalance": 381.92,
-        "Id": 826,
+        "UserId": 826,
         "Name": "Jeff Nabors",
         "PurchaseHistory": [
             {
@@ -52142,7 +52142,7 @@
     },
     {
         "CashBalance": 902.05,
-        "Id": 827,
+        "UserId": 827,
         "Name": "Rosa Nyquist",
         "PurchaseHistory": [
             {
@@ -52209,7 +52209,7 @@
     },
     {
         "CashBalance": 984.94,
-        "Id": 828,
+        "UserId": 828,
         "Name": "Doris Weiss",
         "PurchaseHistory": [
             {
@@ -52264,7 +52264,7 @@
     },
     {
         "CashBalance": 786.07,
-        "Id": 829,
+        "UserId": 829,
         "Name": "Christine Hansen",
         "PurchaseHistory": [
             {
@@ -52349,7 +52349,7 @@
     },
     {
         "CashBalance": 149.89,
-        "Id": 830,
+        "UserId": 830,
         "Name": "Carolyn Davis",
         "PurchaseHistory": [
             {
@@ -52410,13 +52410,13 @@
     },
     {
         "CashBalance": 197.91,
-        "Id": 831,
+        "UserId": 831,
         "Name": "Ruth Jones",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 35.81,
-        "Id": 832,
+        "UserId": 832,
         "Name": "Mandi Holcombe",
         "PurchaseHistory": [
             {
@@ -52519,7 +52519,7 @@
     },
     {
         "CashBalance": 570.64,
-        "Id": 833,
+        "UserId": 833,
         "Name": "Stephanie Prechtl",
         "PurchaseHistory": [
             {
@@ -52634,7 +52634,7 @@
     },
     {
         "CashBalance": 214.95,
-        "Id": 834,
+        "UserId": 834,
         "Name": "Laura Moore",
         "PurchaseHistory": [
             {
@@ -52701,7 +52701,7 @@
     },
     {
         "CashBalance": 971.29,
-        "Id": 835,
+        "UserId": 835,
         "Name": "Catherine Alix",
         "PurchaseHistory": [
             {
@@ -52756,7 +52756,7 @@
     },
     {
         "CashBalance": 946.47,
-        "Id": 836,
+        "UserId": 836,
         "Name": "Melissa Fenton",
         "PurchaseHistory": [
             {
@@ -52805,7 +52805,7 @@
     },
     {
         "CashBalance": 983.57,
-        "Id": 837,
+        "UserId": 837,
         "Name": "Graciela Cartwright",
         "PurchaseHistory": [
             {
@@ -52902,7 +52902,7 @@
     },
     {
         "CashBalance": 120.57,
-        "Id": 838,
+        "UserId": 838,
         "Name": "Trula Rucker",
         "PurchaseHistory": [
             {
@@ -52921,7 +52921,7 @@
     },
     {
         "CashBalance": 485.31,
-        "Id": 839,
+        "UserId": 839,
         "Name": "Norma Adams",
         "PurchaseHistory": [
             {
@@ -53024,7 +53024,7 @@
     },
     {
         "CashBalance": 351.7,
-        "Id": 840,
+        "UserId": 840,
         "Name": "Rick Cotton",
         "PurchaseHistory": [
             {
@@ -53085,7 +53085,7 @@
     },
     {
         "CashBalance": 657.19,
-        "Id": 841,
+        "UserId": 841,
         "Name": "Alan Dalton",
         "PurchaseHistory": [
             {
@@ -53176,13 +53176,13 @@
     },
     {
         "CashBalance": 26.89,
-        "Id": 842,
+        "UserId": 842,
         "Name": "Laura Rick",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 317.51,
-        "Id": 843,
+        "UserId": 843,
         "Name": "Antonio Barrocas",
         "PurchaseHistory": [
             {
@@ -53207,7 +53207,7 @@
     },
     {
         "CashBalance": 5.63,
-        "Id": 844,
+        "UserId": 844,
         "Name": "Maxine Baumler",
         "PurchaseHistory": [
             {
@@ -53316,7 +53316,7 @@
     },
     {
         "CashBalance": 781.02,
-        "Id": 845,
+        "UserId": 845,
         "Name": "Judy Wheeler",
         "PurchaseHistory": [
             {
@@ -53425,7 +53425,7 @@
     },
     {
         "CashBalance": 838.53,
-        "Id": 846,
+        "UserId": 846,
         "Name": "Donnie Gibson",
         "PurchaseHistory": [
             {
@@ -53456,7 +53456,7 @@
     },
     {
         "CashBalance": 548.44,
-        "Id": 847,
+        "UserId": 847,
         "Name": "Joshua Wetzel",
         "PurchaseHistory": [
             {
@@ -53571,7 +53571,7 @@
     },
     {
         "CashBalance": 722.34,
-        "Id": 848,
+        "UserId": 848,
         "Name": "Erma London",
         "PurchaseHistory": [
             {
@@ -53632,7 +53632,7 @@
     },
     {
         "CashBalance": 935.83,
-        "Id": 849,
+        "UserId": 849,
         "Name": "Karen Castro",
         "PurchaseHistory": [
             {
@@ -53675,7 +53675,7 @@
     },
     {
         "CashBalance": 316.42,
-        "Id": 850,
+        "UserId": 850,
         "Name": "Lynda Fagan",
         "PurchaseHistory": [
             {
@@ -53712,7 +53712,7 @@
     },
     {
         "CashBalance": 644.18,
-        "Id": 851,
+        "UserId": 851,
         "Name": "David Harper",
         "PurchaseHistory": [
             {
@@ -53815,7 +53815,7 @@
     },
     {
         "CashBalance": 48.24,
-        "Id": 852,
+        "UserId": 852,
         "Name": "Jan Martin",
         "PurchaseHistory": [
             {
@@ -53870,7 +53870,7 @@
     },
     {
         "CashBalance": 61.99,
-        "Id": 853,
+        "UserId": 853,
         "Name": "Sheila Johnson",
         "PurchaseHistory": [
             {
@@ -53979,7 +53979,7 @@
     },
     {
         "CashBalance": 788.61,
-        "Id": 854,
+        "UserId": 854,
         "Name": "Bertie Dodd",
         "PurchaseHistory": [
             {
@@ -54058,7 +54058,7 @@
     },
     {
         "CashBalance": 54.9,
-        "Id": 855,
+        "UserId": 855,
         "Name": "Jesus Hefty",
         "PurchaseHistory": [
             {
@@ -54149,7 +54149,7 @@
     },
     {
         "CashBalance": 571.01,
-        "Id": 856,
+        "UserId": 856,
         "Name": "Dolores Ponds",
         "PurchaseHistory": [
             {
@@ -54264,7 +54264,7 @@
     },
     {
         "CashBalance": 791.96,
-        "Id": 857,
+        "UserId": 857,
         "Name": "Elaine Rogers",
         "PurchaseHistory": [
             {
@@ -54277,7 +54277,7 @@
     },
     {
         "CashBalance": 916.8,
-        "Id": 858,
+        "UserId": 858,
         "Name": "Paul Gettinger",
         "PurchaseHistory": [
             {
@@ -54398,7 +54398,7 @@
     },
     {
         "CashBalance": 578.83,
-        "Id": 859,
+        "UserId": 859,
         "Name": "Paul Sharkey",
         "PurchaseHistory": [
             {
@@ -54519,7 +54519,7 @@
     },
     {
         "CashBalance": 751.56,
-        "Id": 860,
+        "UserId": 860,
         "Name": "Robert Chevas",
         "PurchaseHistory": [
             {
@@ -54544,7 +54544,7 @@
     },
     {
         "CashBalance": 925.02,
-        "Id": 861,
+        "UserId": 861,
         "Name": "Susan Evans",
         "PurchaseHistory": [
             {
@@ -54563,7 +54563,7 @@
     },
     {
         "CashBalance": 665.54,
-        "Id": 862,
+        "UserId": 862,
         "Name": "Margaret Smith",
         "PurchaseHistory": [
             {
@@ -54576,7 +54576,7 @@
     },
     {
         "CashBalance": 505.22,
-        "Id": 863,
+        "UserId": 863,
         "Name": "Gilbert Rechtzigel",
         "PurchaseHistory": [
             {
@@ -54679,7 +54679,7 @@
     },
     {
         "CashBalance": 17.68,
-        "Id": 864,
+        "UserId": 864,
         "Name": "Anthony Abbe",
         "PurchaseHistory": [
             {
@@ -54728,7 +54728,7 @@
     },
     {
         "CashBalance": 339.85,
-        "Id": 865,
+        "UserId": 865,
         "Name": "Belinda Engelhart",
         "PurchaseHistory": [
             {
@@ -54813,7 +54813,7 @@
     },
     {
         "CashBalance": 453.37,
-        "Id": 866,
+        "UserId": 866,
         "Name": "Denise Longie",
         "PurchaseHistory": [
             {
@@ -54862,7 +54862,7 @@
     },
     {
         "CashBalance": 339.26,
-        "Id": 867,
+        "UserId": 867,
         "Name": "Sara Norvell",
         "PurchaseHistory": [
             {
@@ -54911,7 +54911,7 @@
     },
     {
         "CashBalance": 403.69,
-        "Id": 868,
+        "UserId": 868,
         "Name": "Winston Cunningham",
         "PurchaseHistory": [
             {
@@ -54924,7 +54924,7 @@
     },
     {
         "CashBalance": 436.58,
-        "Id": 869,
+        "UserId": 869,
         "Name": "Harry Packard",
         "PurchaseHistory": [
             {
@@ -55033,7 +55033,7 @@
     },
     {
         "CashBalance": 273.23,
-        "Id": 870,
+        "UserId": 870,
         "Name": "Kelly Ibarra",
         "PurchaseHistory": [
             {
@@ -55076,7 +55076,7 @@
     },
     {
         "CashBalance": 826.23,
-        "Id": 871,
+        "UserId": 871,
         "Name": "Joseph Billingsley",
         "PurchaseHistory": [
             {
@@ -55179,7 +55179,7 @@
     },
     {
         "CashBalance": 974.78,
-        "Id": 872,
+        "UserId": 872,
         "Name": "Edward Addington",
         "PurchaseHistory": [
             {
@@ -55234,7 +55234,7 @@
     },
     {
         "CashBalance": 916.94,
-        "Id": 873,
+        "UserId": 873,
         "Name": "Elizabeth Mccoy",
         "PurchaseHistory": [
             {
@@ -55343,7 +55343,7 @@
     },
     {
         "CashBalance": 472.62,
-        "Id": 874,
+        "UserId": 874,
         "Name": "James Lee",
         "PurchaseHistory": [
             {
@@ -55416,7 +55416,7 @@
     },
     {
         "CashBalance": 978.07,
-        "Id": 875,
+        "UserId": 875,
         "Name": "Lee Brooks",
         "PurchaseHistory": [
             {
@@ -55495,7 +55495,7 @@
     },
     {
         "CashBalance": 252.94,
-        "Id": 876,
+        "UserId": 876,
         "Name": "Ben Santana",
         "PurchaseHistory": [
             {
@@ -55538,7 +55538,7 @@
     },
     {
         "CashBalance": 953.5,
-        "Id": 877,
+        "UserId": 877,
         "Name": "Juan Kiernan",
         "PurchaseHistory": [
             {
@@ -55581,13 +55581,13 @@
     },
     {
         "CashBalance": 557.74,
-        "Id": 878,
+        "UserId": 878,
         "Name": "Jimmy Orem",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 252.36,
-        "Id": 879,
+        "UserId": 879,
         "Name": "Mary Cottrill",
         "PurchaseHistory": [
             {
@@ -55702,7 +55702,7 @@
     },
     {
         "CashBalance": 652.52,
-        "Id": 880,
+        "UserId": 880,
         "Name": "Sarah Kennedy",
         "PurchaseHistory": [
             {
@@ -55721,7 +55721,7 @@
     },
     {
         "CashBalance": 169.04,
-        "Id": 881,
+        "UserId": 881,
         "Name": "Cora Ellerbe",
         "PurchaseHistory": [
             {
@@ -55782,7 +55782,7 @@
     },
     {
         "CashBalance": 546.04,
-        "Id": 882,
+        "UserId": 882,
         "Name": "Judy Lamberton",
         "PurchaseHistory": [
             {
@@ -55891,7 +55891,7 @@
     },
     {
         "CashBalance": 169.21,
-        "Id": 883,
+        "UserId": 883,
         "Name": "Jake Manning",
         "PurchaseHistory": [
             {
@@ -55916,7 +55916,7 @@
     },
     {
         "CashBalance": 863.42,
-        "Id": 884,
+        "UserId": 884,
         "Name": "Marion Goode",
         "PurchaseHistory": [
             {
@@ -56001,7 +56001,7 @@
     },
     {
         "CashBalance": 935.05,
-        "Id": 885,
+        "UserId": 885,
         "Name": "Cynthia Wood",
         "PurchaseHistory": [
             {
@@ -56026,7 +56026,7 @@
     },
     {
         "CashBalance": 84.55,
-        "Id": 886,
+        "UserId": 886,
         "Name": "Felicia Kelly",
         "PurchaseHistory": [
             {
@@ -56063,7 +56063,7 @@
     },
     {
         "CashBalance": 725.12,
-        "Id": 887,
+        "UserId": 887,
         "Name": "Deangelo Oconnell",
         "PurchaseHistory": [
             {
@@ -56082,7 +56082,7 @@
     },
     {
         "CashBalance": 354.55,
-        "Id": 888,
+        "UserId": 888,
         "Name": "Willie Lanosga",
         "PurchaseHistory": [
             {
@@ -56137,13 +56137,13 @@
     },
     {
         "CashBalance": 283.46,
-        "Id": 889,
+        "UserId": 889,
         "Name": "Patricia Guitterez",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 300.23,
-        "Id": 890,
+        "UserId": 890,
         "Name": "William Oconnor",
         "PurchaseHistory": [
             {
@@ -56198,13 +56198,13 @@
     },
     {
         "CashBalance": 794.99,
-        "Id": 891,
+        "UserId": 891,
         "Name": "Clay Monaghan",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 263.03,
-        "Id": 892,
+        "UserId": 892,
         "Name": "Marian Cauthon",
         "PurchaseHistory": [
             {
@@ -56319,7 +56319,7 @@
     },
     {
         "CashBalance": 530.15,
-        "Id": 893,
+        "UserId": 893,
         "Name": "Thomas Prunty",
         "PurchaseHistory": [
             {
@@ -56380,7 +56380,7 @@
     },
     {
         "CashBalance": 904.14,
-        "Id": 894,
+        "UserId": 894,
         "Name": "Michael Larry",
         "PurchaseHistory": [
             {
@@ -56417,7 +56417,7 @@
     },
     {
         "CashBalance": 380.26,
-        "Id": 895,
+        "UserId": 895,
         "Name": "Therese Bostrom",
         "PurchaseHistory": [
             {
@@ -56502,7 +56502,7 @@
     },
     {
         "CashBalance": 222.74,
-        "Id": 896,
+        "UserId": 896,
         "Name": "Margaret Coleman",
         "PurchaseHistory": [
             {
@@ -56605,7 +56605,7 @@
     },
     {
         "CashBalance": 923.87,
-        "Id": 897,
+        "UserId": 897,
         "Name": "Edison Silva",
         "PurchaseHistory": [
             {
@@ -56636,7 +56636,7 @@
     },
     {
         "CashBalance": 907.54,
-        "Id": 898,
+        "UserId": 898,
         "Name": "James Perez",
         "PurchaseHistory": [
             {
@@ -56661,7 +56661,7 @@
     },
     {
         "CashBalance": 330.05,
-        "Id": 899,
+        "UserId": 899,
         "Name": "Randy Mitchell",
         "PurchaseHistory": [
             {
@@ -56764,7 +56764,7 @@
     },
     {
         "CashBalance": 922.88,
-        "Id": 900,
+        "UserId": 900,
         "Name": "Kim Harbison",
         "PurchaseHistory": [
             {
@@ -56861,7 +56861,7 @@
     },
     {
         "CashBalance": 780.1,
-        "Id": 901,
+        "UserId": 901,
         "Name": "Rhoda Rock",
         "PurchaseHistory": [
             {
@@ -56886,7 +56886,7 @@
     },
     {
         "CashBalance": 333.01,
-        "Id": 902,
+        "UserId": 902,
         "Name": "Charity Peters",
         "PurchaseHistory": [
             {
@@ -56971,7 +56971,7 @@
     },
     {
         "CashBalance": 328.97,
-        "Id": 903,
+        "UserId": 903,
         "Name": "Amelia Stewart",
         "PurchaseHistory": [
             {
@@ -57080,7 +57080,7 @@
     },
     {
         "CashBalance": 57.15,
-        "Id": 904,
+        "UserId": 904,
         "Name": "Edward Leffert",
         "PurchaseHistory": [
             {
@@ -57183,7 +57183,7 @@
     },
     {
         "CashBalance": 204.68,
-        "Id": 905,
+        "UserId": 905,
         "Name": "Hassan Seay",
         "PurchaseHistory": [
             {
@@ -57196,7 +57196,7 @@
     },
     {
         "CashBalance": 658.82,
-        "Id": 906,
+        "UserId": 906,
         "Name": "Adrienne Staton",
         "PurchaseHistory": [
             {
@@ -57209,7 +57209,7 @@
     },
     {
         "CashBalance": 826.39,
-        "Id": 907,
+        "UserId": 907,
         "Name": "Maxwell Adams",
         "PurchaseHistory": [
             {
@@ -57222,7 +57222,7 @@
     },
     {
         "CashBalance": 222.64,
-        "Id": 908,
+        "UserId": 908,
         "Name": "Andrew Anderson",
         "PurchaseHistory": [
             {
@@ -57313,7 +57313,7 @@
     },
     {
         "CashBalance": 455.66,
-        "Id": 909,
+        "UserId": 909,
         "Name": "Marisol Jackson",
         "PurchaseHistory": [
             {
@@ -57350,13 +57350,13 @@
     },
     {
         "CashBalance": 659.5,
-        "Id": 910,
+        "UserId": 910,
         "Name": "Henry Hayes",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 335.48,
-        "Id": 911,
+        "UserId": 911,
         "Name": "Dennis Walker",
         "PurchaseHistory": [
             {
@@ -57453,7 +57453,7 @@
     },
     {
         "CashBalance": 222.84,
-        "Id": 912,
+        "UserId": 912,
         "Name": "Charles Player",
         "PurchaseHistory": [
             {
@@ -57562,7 +57562,7 @@
     },
     {
         "CashBalance": 710.94,
-        "Id": 913,
+        "UserId": 913,
         "Name": "James Orlando",
         "PurchaseHistory": [
             {
@@ -57677,7 +57677,7 @@
     },
     {
         "CashBalance": 676.41,
-        "Id": 914,
+        "UserId": 914,
         "Name": "Jason Rafter",
         "PurchaseHistory": [
             {
@@ -57756,7 +57756,7 @@
     },
     {
         "CashBalance": 978.95,
-        "Id": 915,
+        "UserId": 915,
         "Name": "Ken Evans",
         "PurchaseHistory": [
             {
@@ -57835,7 +57835,7 @@
     },
     {
         "CashBalance": 70.89,
-        "Id": 916,
+        "UserId": 916,
         "Name": "Maria Carreiro",
         "PurchaseHistory": [
             {
@@ -57860,7 +57860,7 @@
     },
     {
         "CashBalance": 66.18,
-        "Id": 917,
+        "UserId": 917,
         "Name": "Malcolm Garner",
         "PurchaseHistory": [
             {
@@ -57945,7 +57945,7 @@
     },
     {
         "CashBalance": 742.7,
-        "Id": 918,
+        "UserId": 918,
         "Name": "Nanette Trujillo",
         "PurchaseHistory": [
             {
@@ -57988,7 +57988,7 @@
     },
     {
         "CashBalance": 268.65,
-        "Id": 919,
+        "UserId": 919,
         "Name": "Michelle Brown",
         "PurchaseHistory": [
             {
@@ -58049,7 +58049,7 @@
     },
     {
         "CashBalance": 949.0,
-        "Id": 920,
+        "UserId": 920,
         "Name": "Brenda Bellanger",
         "PurchaseHistory": [
             {
@@ -58152,7 +58152,7 @@
     },
     {
         "CashBalance": 406.61,
-        "Id": 921,
+        "UserId": 921,
         "Name": "Richard Jones",
         "PurchaseHistory": [
             {
@@ -58219,7 +58219,7 @@
     },
     {
         "CashBalance": 772.39,
-        "Id": 922,
+        "UserId": 922,
         "Name": "Daniel Gardiner",
         "PurchaseHistory": [
             {
@@ -58280,7 +58280,7 @@
     },
     {
         "CashBalance": 426.05,
-        "Id": 923,
+        "UserId": 923,
         "Name": "Ronald Gurwell",
         "PurchaseHistory": [
             {
@@ -58335,13 +58335,13 @@
     },
     {
         "CashBalance": 980.12,
-        "Id": 924,
+        "UserId": 924,
         "Name": "Elizabeth Benninger",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 223.53,
-        "Id": 925,
+        "UserId": 925,
         "Name": "Raymond Thorell",
         "PurchaseHistory": [
             {
@@ -58432,7 +58432,7 @@
     },
     {
         "CashBalance": 493.57,
-        "Id": 926,
+        "UserId": 926,
         "Name": "Catherine Parnell",
         "PurchaseHistory": [
             {
@@ -58457,7 +58457,7 @@
     },
     {
         "CashBalance": 786.59,
-        "Id": 927,
+        "UserId": 927,
         "Name": "Daniel Mcdaniel",
         "PurchaseHistory": [
             {
@@ -58548,7 +58548,7 @@
     },
     {
         "CashBalance": 998.39,
-        "Id": 928,
+        "UserId": 928,
         "Name": "Laura Osborne",
         "PurchaseHistory": [
             {
@@ -58615,7 +58615,7 @@
     },
     {
         "CashBalance": 581.23,
-        "Id": 929,
+        "UserId": 929,
         "Name": "Jackie Salim",
         "PurchaseHistory": [
             {
@@ -58724,7 +58724,7 @@
     },
     {
         "CashBalance": 215.65,
-        "Id": 930,
+        "UserId": 930,
         "Name": "Royce Wass",
         "PurchaseHistory": [
             {
@@ -58749,7 +58749,7 @@
     },
     {
         "CashBalance": 227.77,
-        "Id": 931,
+        "UserId": 931,
         "Name": "Rhonda Boone",
         "PurchaseHistory": [
             {
@@ -58792,7 +58792,7 @@
     },
     {
         "CashBalance": 517.71,
-        "Id": 932,
+        "UserId": 932,
         "Name": "Virginia Gaines",
         "PurchaseHistory": [
             {
@@ -58835,7 +58835,7 @@
     },
     {
         "CashBalance": 597.58,
-        "Id": 933,
+        "UserId": 933,
         "Name": "John Wade",
         "PurchaseHistory": [
             {
@@ -58854,7 +58854,7 @@
     },
     {
         "CashBalance": 207.58,
-        "Id": 934,
+        "UserId": 934,
         "Name": "Tiffany Gillis",
         "PurchaseHistory": [
             {
@@ -58957,7 +58957,7 @@
     },
     {
         "CashBalance": 999.24,
-        "Id": 935,
+        "UserId": 935,
         "Name": "George Williams",
         "PurchaseHistory": [
             {
@@ -59018,7 +59018,7 @@
     },
     {
         "CashBalance": 922.74,
-        "Id": 936,
+        "UserId": 936,
         "Name": "James Langham",
         "PurchaseHistory": [
             {
@@ -59103,7 +59103,7 @@
     },
     {
         "CashBalance": 706.33,
-        "Id": 937,
+        "UserId": 937,
         "Name": "Cecil Almanza",
         "PurchaseHistory": [
             {
@@ -59170,7 +59170,7 @@
     },
     {
         "CashBalance": 788.8,
-        "Id": 938,
+        "UserId": 938,
         "Name": "Marcus Duty",
         "PurchaseHistory": [
             {
@@ -59207,7 +59207,7 @@
     },
     {
         "CashBalance": 133.1,
-        "Id": 939,
+        "UserId": 939,
         "Name": "Mary Hinojosa",
         "PurchaseHistory": [
             {
@@ -59250,7 +59250,7 @@
     },
     {
         "CashBalance": 348.54,
-        "Id": 940,
+        "UserId": 940,
         "Name": "Grace Gonzales",
         "PurchaseHistory": [
             {
@@ -59281,7 +59281,7 @@
     },
     {
         "CashBalance": 40.0,
-        "Id": 941,
+        "UserId": 941,
         "Name": "Carmine Donaway",
         "PurchaseHistory": [
             {
@@ -59384,7 +59384,7 @@
     },
     {
         "CashBalance": 254.46,
-        "Id": 942,
+        "UserId": 942,
         "Name": "James Bradshaw",
         "PurchaseHistory": [
             {
@@ -59505,7 +59505,7 @@
     },
     {
         "CashBalance": 828.98,
-        "Id": 943,
+        "UserId": 943,
         "Name": "Cynthia Morrison",
         "PurchaseHistory": [
             {
@@ -59530,7 +59530,7 @@
     },
     {
         "CashBalance": 470.08,
-        "Id": 944,
+        "UserId": 944,
         "Name": "Eddie Olson",
         "PurchaseHistory": [
             {
@@ -59597,7 +59597,7 @@
     },
     {
         "CashBalance": 359.18,
-        "Id": 945,
+        "UserId": 945,
         "Name": "Diana Collins",
         "PurchaseHistory": [
             {
@@ -59616,7 +59616,7 @@
     },
     {
         "CashBalance": 209.17,
-        "Id": 946,
+        "UserId": 946,
         "Name": "Ruby Jones",
         "PurchaseHistory": [
             {
@@ -59659,7 +59659,7 @@
     },
     {
         "CashBalance": 45.13,
-        "Id": 947,
+        "UserId": 947,
         "Name": "Valarie Goudeau",
         "PurchaseHistory": [
             {
@@ -59672,7 +59672,7 @@
     },
     {
         "CashBalance": 797.91,
-        "Id": 948,
+        "UserId": 948,
         "Name": "Sherman Douthitt",
         "PurchaseHistory": [
             {
@@ -59745,7 +59745,7 @@
     },
     {
         "CashBalance": 71.93,
-        "Id": 949,
+        "UserId": 949,
         "Name": "Francisco Helder",
         "PurchaseHistory": [
             {
@@ -59836,7 +59836,7 @@
     },
     {
         "CashBalance": 925.01,
-        "Id": 950,
+        "UserId": 950,
         "Name": "Benjamin Dettman",
         "PurchaseHistory": [
             {
@@ -59897,7 +59897,7 @@
     },
     {
         "CashBalance": 602.79,
-        "Id": 951,
+        "UserId": 951,
         "Name": "Harold Smith",
         "PurchaseHistory": [
             {
@@ -60000,7 +60000,7 @@
     },
     {
         "CashBalance": 503.68,
-        "Id": 952,
+        "UserId": 952,
         "Name": "Terry Starnes",
         "PurchaseHistory": [
             {
@@ -60073,7 +60073,7 @@
     },
     {
         "CashBalance": 131.78,
-        "Id": 953,
+        "UserId": 953,
         "Name": "Jon Avery",
         "PurchaseHistory": [
             {
@@ -60164,7 +60164,7 @@
     },
     {
         "CashBalance": 654.77,
-        "Id": 954,
+        "UserId": 954,
         "Name": "Teri Rauth",
         "PurchaseHistory": [
             {
@@ -60225,7 +60225,7 @@
     },
     {
         "CashBalance": 715.05,
-        "Id": 955,
+        "UserId": 955,
         "Name": "Otis Harris",
         "PurchaseHistory": [
             {
@@ -60250,7 +60250,7 @@
     },
     {
         "CashBalance": 498.89,
-        "Id": 956,
+        "UserId": 956,
         "Name": "Keith Pearson",
         "PurchaseHistory": [
             {
@@ -60365,7 +60365,7 @@
     },
     {
         "CashBalance": 649.33,
-        "Id": 957,
+        "UserId": 957,
         "Name": "Joanne Ellis",
         "PurchaseHistory": [
             {
@@ -60468,7 +60468,7 @@
     },
     {
         "CashBalance": 101.59,
-        "Id": 958,
+        "UserId": 958,
         "Name": "Mavis Panzarino",
         "PurchaseHistory": [
             {
@@ -60559,7 +60559,7 @@
     },
     {
         "CashBalance": 936.06,
-        "Id": 959,
+        "UserId": 959,
         "Name": "John Norton",
         "PurchaseHistory": [
             {
@@ -60638,7 +60638,7 @@
     },
     {
         "CashBalance": 33.05,
-        "Id": 960,
+        "UserId": 960,
         "Name": "Toni Jones",
         "PurchaseHistory": [
             {
@@ -60657,7 +60657,7 @@
     },
     {
         "CashBalance": 499.4,
-        "Id": 961,
+        "UserId": 961,
         "Name": "Sheryl Kahn",
         "PurchaseHistory": [
             {
@@ -60712,7 +60712,7 @@
     },
     {
         "CashBalance": 158.21,
-        "Id": 962,
+        "UserId": 962,
         "Name": "Sabrina Summa",
         "PurchaseHistory": [
             {
@@ -60773,13 +60773,13 @@
     },
     {
         "CashBalance": 692.91,
-        "Id": 963,
+        "UserId": 963,
         "Name": "Karen Norton",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 636.21,
-        "Id": 964,
+        "UserId": 964,
         "Name": "Jewell Davis",
         "PurchaseHistory": [
             {
@@ -60822,7 +60822,7 @@
     },
     {
         "CashBalance": 370.01,
-        "Id": 965,
+        "UserId": 965,
         "Name": "Stephen Doyle",
         "PurchaseHistory": [
             {
@@ -60835,7 +60835,7 @@
     },
     {
         "CashBalance": 392.84,
-        "Id": 966,
+        "UserId": 966,
         "Name": "Bennie Longacre",
         "PurchaseHistory": [
             {
@@ -60854,7 +60854,7 @@
     },
     {
         "CashBalance": 609.55,
-        "Id": 967,
+        "UserId": 967,
         "Name": "Linda Bynum",
         "PurchaseHistory": [
             {
@@ -60897,7 +60897,7 @@
     },
     {
         "CashBalance": 740.26,
-        "Id": 968,
+        "UserId": 968,
         "Name": "John Weaver",
         "PurchaseHistory": [
             {
@@ -60916,7 +60916,7 @@
     },
     {
         "CashBalance": 694.14,
-        "Id": 969,
+        "UserId": 969,
         "Name": "Marcel Martinez",
         "PurchaseHistory": [
             {
@@ -60947,7 +60947,7 @@
     },
     {
         "CashBalance": 181.42,
-        "Id": 970,
+        "UserId": 970,
         "Name": "Connie Ping",
         "PurchaseHistory": [
             {
@@ -61044,7 +61044,7 @@
     },
     {
         "CashBalance": 391.19,
-        "Id": 971,
+        "UserId": 971,
         "Name": "Gregory Lewis",
         "PurchaseHistory": [
             {
@@ -61153,7 +61153,7 @@
     },
     {
         "CashBalance": 700.97,
-        "Id": 972,
+        "UserId": 972,
         "Name": "Anne Hare",
         "PurchaseHistory": [
             {
@@ -61190,7 +61190,7 @@
     },
     {
         "CashBalance": 129.48,
-        "Id": 973,
+        "UserId": 973,
         "Name": "John Jalbert",
         "PurchaseHistory": [
             {
@@ -61215,7 +61215,7 @@
     },
     {
         "CashBalance": 121.69,
-        "Id": 974,
+        "UserId": 974,
         "Name": "John Haddix",
         "PurchaseHistory": [
             {
@@ -61258,7 +61258,7 @@
     },
     {
         "CashBalance": 353.57,
-        "Id": 975,
+        "UserId": 975,
         "Name": "Curtis Burnett",
         "PurchaseHistory": [
             {
@@ -61313,7 +61313,7 @@
     },
     {
         "CashBalance": 695.69,
-        "Id": 976,
+        "UserId": 976,
         "Name": "Fred Romero",
         "PurchaseHistory": [
             {
@@ -61326,7 +61326,7 @@
     },
     {
         "CashBalance": 434.81,
-        "Id": 977,
+        "UserId": 977,
         "Name": "Edmund Reeves",
         "PurchaseHistory": [
             {
@@ -61417,7 +61417,7 @@
     },
     {
         "CashBalance": 782.68,
-        "Id": 978,
+        "UserId": 978,
         "Name": "Evette Huseby",
         "PurchaseHistory": [
             {
@@ -61502,13 +61502,13 @@
     },
     {
         "CashBalance": 151.88,
-        "Id": 979,
+        "UserId": 979,
         "Name": "Michael Jones",
         "PurchaseHistory": []
     },
     {
         "CashBalance": 76.27,
-        "Id": 980,
+        "UserId": 980,
         "Name": "Samuel Andersen",
         "PurchaseHistory": [
             {
@@ -61575,7 +61575,7 @@
     },
     {
         "CashBalance": 414.92,
-        "Id": 981,
+        "UserId": 981,
         "Name": "Mervin Ainsworth",
         "PurchaseHistory": [
             {
@@ -61594,7 +61594,7 @@
     },
     {
         "CashBalance": 939.09,
-        "Id": 982,
+        "UserId": 982,
         "Name": "Michael Lynch",
         "PurchaseHistory": [
             {
@@ -61709,7 +61709,7 @@
     },
     {
         "CashBalance": 621.69,
-        "Id": 983,
+        "UserId": 983,
         "Name": "David Kolter",
         "PurchaseHistory": [
             {
@@ -61770,7 +61770,7 @@
     },
     {
         "CashBalance": 911.22,
-        "Id": 984,
+        "UserId": 984,
         "Name": "Jerry Sisneros",
         "PurchaseHistory": [
             {
@@ -61873,7 +61873,7 @@
     },
     {
         "CashBalance": 102.97,
-        "Id": 985,
+        "UserId": 985,
         "Name": "Virginia Howell",
         "PurchaseHistory": [
             {
@@ -61916,7 +61916,7 @@
     },
     {
         "CashBalance": 678.72,
-        "Id": 986,
+        "UserId": 986,
         "Name": "Curt Witty",
         "PurchaseHistory": [
             {
@@ -61941,7 +61941,7 @@
     },
     {
         "CashBalance": 279.3,
-        "Id": 987,
+        "UserId": 987,
         "Name": "Lorene Gomez",
         "PurchaseHistory": [
             {
@@ -61972,7 +61972,7 @@
     },
     {
         "CashBalance": 898.25,
-        "Id": 988,
+        "UserId": 988,
         "Name": "Katherine Bautista",
         "PurchaseHistory": [
             {
@@ -62057,7 +62057,7 @@
     },
     {
         "CashBalance": 351.17,
-        "Id": 989,
+        "UserId": 989,
         "Name": "Terrie Shannon",
         "PurchaseHistory": [
             {
@@ -62100,7 +62100,7 @@
     },
     {
         "CashBalance": 823.83,
-        "Id": 990,
+        "UserId": 990,
         "Name": "Anthony Bradford",
         "PurchaseHistory": [
             {
@@ -62113,7 +62113,7 @@
     },
     {
         "CashBalance": 43.69,
-        "Id": 991,
+        "UserId": 991,
         "Name": "Hae Bollinger",
         "PurchaseHistory": [
             {
@@ -62138,7 +62138,7 @@
     },
     {
         "CashBalance": 812.87,
-        "Id": 992,
+        "UserId": 992,
         "Name": "Rosetta Lee",
         "PurchaseHistory": [
             {
@@ -62223,7 +62223,7 @@
     },
     {
         "CashBalance": 658.76,
-        "Id": 993,
+        "UserId": 993,
         "Name": "Richard Clark",
         "PurchaseHistory": [
             {
@@ -62320,7 +62320,7 @@
     },
     {
         "CashBalance": 325.55,
-        "Id": 994,
+        "UserId": 994,
         "Name": "Michael Carlino",
         "PurchaseHistory": [
             {
@@ -62369,7 +62369,7 @@
     },
     {
         "CashBalance": 265.07,
-        "Id": 995,
+        "UserId": 995,
         "Name": "Louise Pulliam",
         "PurchaseHistory": [
             {
@@ -62436,7 +62436,7 @@
     },
     {
         "CashBalance": 957.72,
-        "Id": 996,
+        "UserId": 996,
         "Name": "Walter Johnson",
         "PurchaseHistory": [
             {
@@ -62509,7 +62509,7 @@
     },
     {
         "CashBalance": 202.89,
-        "Id": 997,
+        "UserId": 997,
         "Name": "Daryl Dartez",
         "PurchaseHistory": [
             {
@@ -62600,7 +62600,7 @@
     },
     {
         "CashBalance": 916.48,
-        "Id": 998,
+        "UserId": 998,
         "Name": "Christian Doyle",
         "PurchaseHistory": [
             {
@@ -62715,7 +62715,7 @@
     },
     {
         "CashBalance": 356.82,
-        "Id": 999,
+        "UserId": 999,
         "Name": "Samuel Rodrigues",
         "PurchaseHistory": [
             {

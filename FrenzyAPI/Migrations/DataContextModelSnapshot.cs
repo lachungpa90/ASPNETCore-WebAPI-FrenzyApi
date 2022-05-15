@@ -3,16 +3,14 @@ using System;
 using FrenzyAPI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace FrenzyAPI.Data.Migrations
+namespace FrenzyAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220514144014_UpdatedEntity1")]
-    partial class UpdatedEntity1
+    partial class DataContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,7 +28,7 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("REAL");
 
-                    b.Property<int>("RestaurantId")
+                    b.Property<int?>("RestaurantId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
@@ -97,11 +95,8 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<double>("CashBalance")
                         .HasColumnType("REAL");
 
-                    b.Property<int>("Name")
-                        .HasColumnType("INTEGER");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
@@ -110,13 +105,9 @@ namespace FrenzyAPI.Data.Migrations
 
             modelBuilder.Entity("Models.Menu", b =>
                 {
-                    b.HasOne("Models.Restaurant", "Restaurant")
+                    b.HasOne("Models.Restaurant", null)
                         .WithMany("Menu")
-                        .HasForeignKey("RestaurantId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Restaurant");
+                        .HasForeignKey("RestaurantId");
                 });
 
             modelBuilder.Entity("Models.PurchaseHistory", b =>

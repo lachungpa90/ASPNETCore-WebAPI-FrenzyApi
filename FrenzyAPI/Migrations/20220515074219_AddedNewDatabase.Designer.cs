@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace FrenzyAPI.Data.Migrations
+namespace FrenzyAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220514093502_UserAdded")]
-    partial class UserAdded
+    [Migration("20220515074219_AddedNewDatabase")]
+    partial class AddedNewDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -30,7 +30,7 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("REAL");
 
-                    b.Property<int>("RestaurantId")
+                    b.Property<int?>("RestaurantId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
@@ -58,12 +58,12 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<DateTime>("TransactionDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("UserId")
+                    b.Property<int?>("UsersId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId");
+                    b.HasIndex("UsersId");
 
                     b.ToTable("PurchaseHistory");
                 });
@@ -97,8 +97,8 @@ namespace FrenzyAPI.Data.Migrations
                     b.Property<double>("CashBalance")
                         .HasColumnType("REAL");
 
-                    b.Property<int>("Name")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
@@ -107,24 +107,16 @@ namespace FrenzyAPI.Data.Migrations
 
             modelBuilder.Entity("Models.Menu", b =>
                 {
-                    b.HasOne("Models.Restaurant", "Restaurant")
+                    b.HasOne("Models.Restaurant", null)
                         .WithMany("Menu")
-                        .HasForeignKey("RestaurantId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Restaurant");
+                        .HasForeignKey("RestaurantId");
                 });
 
             modelBuilder.Entity("Models.PurchaseHistory", b =>
                 {
-                    b.HasOne("Models.Users", "User")
+                    b.HasOne("Models.Users", null)
                         .WithMany("PurchaseHistory")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
+                        .HasForeignKey("UsersId");
                 });
 
             modelBuilder.Entity("Models.Restaurant", b =>

@@ -1,4 +1,5 @@
 ﻿using Models;
+using Models.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,7 +9,7 @@ namespace Contract
 {
     public interface IRequestHandler
     {
-        Task<List<Restaurant>> GetResturants();
+        Task<List<Restaurant>> GetResturants(RestaurantParams restaurantParams);
         Task<List<User>> GetUsers();
     }
 }

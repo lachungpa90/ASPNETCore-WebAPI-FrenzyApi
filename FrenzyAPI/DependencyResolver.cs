@@ -1,4 +1,5 @@
 ﻿using Contract;
+using FrenzyAPI.Helper;
 using FrenzyAPI.Repository;
 using FrenzyAPI.ServiceCore;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +23,7 @@ namespace FrenzyAPI
             services.AddScoped<IRequestHandler, RequestHandler>();
             services.AddScoped<IResturantRepository, ResturantRepository>();
             services.AddScoped<IUsersRepository, UsersRepository>();
+            services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
             return services;
         }
     }

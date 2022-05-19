@@ -18,10 +18,7 @@ namespace FrenzyAPI.Repository
         }
         public async Task<IEnumerable<Restaurant>>GetResturantsAsync()
         {
-            return await _context.Restaurants
-                .Include(x => x.OpeningHours)
-                .Include(y => y.Menu)
-                .ToListAsync();
+            return await _context.Restaurants.Include(x => x.OpeningHours).ToListAsync();               
         }
     }
 }

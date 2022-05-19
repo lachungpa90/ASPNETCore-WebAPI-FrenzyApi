@@ -16,7 +16,7 @@ namespace FrenzyAPI.Controllers
             _handler = handler;
         }
         [HttpGet]
-        public async Task<ActionResult<List<Users>>> GetUsers()
+        public async Task<ActionResult<List<User>>> GetUsers()
         {
             var users = await _handler.GetUsers();
             if (users is null)

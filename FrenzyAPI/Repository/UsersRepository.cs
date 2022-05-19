@@ -16,9 +16,11 @@ namespace FrenzyAPI.Repository
             _context = context;
 
         }
-        public async Task<IEnumerable<Users>> GetUsersAsync()
+        public async Task<IEnumerable<User>> GetUsersAsync()
         {
-            return await _context.Users.ToListAsync();
+            return await _context.Users
+                .Include(x => x.PurchaseHistory)
+                .ToListAsync();
         }
     }
 }

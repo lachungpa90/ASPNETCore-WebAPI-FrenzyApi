@@ -13,6 +13,6 @@ namespace FrenzyAPI
             
         }
         public DbSet<Restaurant> Restaurants { get; set; }
-        public DbSet<Users> Users { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

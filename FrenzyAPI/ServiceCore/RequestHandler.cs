@@ -24,7 +24,7 @@ namespace FrenzyAPI.ServiceCore
                 return null;
             return result.ToList();
         }
-        public async Task<List<Users>> GetUsers()
+        public async Task<List<User>> GetUsers()
         {
             var result = await _user.GetUsersAsync();
             if (result == null)

@@ -8,6 +8,6 @@ namespace Contract
 {
     public interface IUsersRepository
     {
-        Task<IEnumerable<Users>> GetUsersAsync();
+        Task<IEnumerable<User>> GetUsersAsync();
     }
 }

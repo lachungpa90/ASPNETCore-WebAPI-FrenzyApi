@@ -9,6 +9,6 @@ namespace Contract
     public interface IRequestHandler
     {
         Task<List<Restaurant>> GetResturants();
-        Task<List<Users>> GetUsers();
+        Task<List<User>> GetUsers();
     }
 }

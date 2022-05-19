@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FrenzyAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220515074219_AddedNewDatabase")]
-    partial class AddedNewDatabase
+    [Migration("20220517153937_changesInDatabase")]
+    partial class changesInDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -40,6 +40,31 @@ namespace FrenzyAPI.Migrations
                     b.ToTable("Menu");
                 });
 
+            modelBuilder.Entity("Models.OpeningHour", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("ClosingTime")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Days")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("OpeningTime")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("RestaurantId")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RestaurantId");
+
+                    b.ToTable("OpeningHour");
+                });
+
             modelBuilder.Entity("Models.PurchaseHistory", b =>
                 {
                     b.Property<int>("Id")
@@ -58,12 +83,12 @@ namespace FrenzyAPI.Migrations
                     b.Property<DateTime>("TransactionDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<int?>("UsersId")
+                    b.Property<int?>("UserId")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UsersId");
+                    b.HasIndex("UserId");
 
                     b.ToTable("PurchaseHistory");
                 });
@@ -77,9 +102,6 @@ namespace FrenzyAPI.Migrations
                     b.Property<double>("CashBalance")
                         .HasColumnType("REAL");
 
-                    b.Property<string>("OpeningHours")
-                        .HasColumnType("TEXT");
-
                     b.Property<string>("RestaurantName")
                         .HasColumnType("TEXT");
 
@@ -88,7 +110,7 @@ namespace FrenzyAPI.Migrations
                     b.ToTable("Restaurants");
                 });
 
-            modelBuilder.Entity("Models.Users", b =>
+            modelBuilder.Entity("Models.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -112,19 +134,32 @@ namespace FrenzyAPI.Migrations
                         .HasForeignKey("RestaurantId");
                 });
 
+            modelBuilder.Entity("Models.OpeningHour", b =>
+                {
+                    b.HasOne("Models.Restaurant", "Restaurant")
+                        .WithMany("OpeningHours")
+                        .HasForeignKey("RestaurantId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Restaurant");
+                });
+
             modelBuilder.Entity("Models.PurchaseHistory", b =>
                 {
-                    b.HasOne("Models.Users", null)
+                    b.HasOne("Models.User", null)
                         .WithMany("PurchaseHistory")
-                        .HasForeignKey("UsersId");
+                        .HasForeignKey("UserId");
                 });
 
             modelBuilder.Entity("Models.Restaurant", b =>
                 {
                     b.Navigation("Menu");
+
+                    b.Navigation("OpeningHours");
                 });
 
-            modelBuilder.Entity("Models.Users", b =>
+            modelBuilder.Entity("Models.User", b =>
                 {
                     b.Navigation("PurchaseHistory");
                 });

@@ -9,7 +9,9 @@ namespace Contract
 {
     public interface IRequestHandler
     {
-        Task<List<Restaurant>> GetResturants(RestaurantParams restaurantParams);
+        Task<List<RestaurantDto>> GetResturants(RestaurantParams restaurantParams);
         Task<List<User>> GetUsers();
+        Task<RestaurantDto> GetRestaurant(string name);
+        Task<List<MenuDto>> GetDishes(string dishName);
     }
 }

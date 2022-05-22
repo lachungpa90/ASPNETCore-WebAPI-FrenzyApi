@@ -77,7 +77,7 @@ namespace FrenzyAPI
                     AddHours(x, days, oT, cT);
                 }
                 count++;
-                openingHour.Days = string.Join(',', days);
+                openingHour.Days = string.Join(',', days).Trim();
                 openingHour.OpeningTime = string.Join(',', oT);
                 openingHour.ClosingTime = string.Join(',', cT);
                 op.Add(openingHour);
@@ -96,15 +96,19 @@ namespace FrenzyAPI
             if(c.Length==8)
             {
                 day.Add(c[2]);
-                openingTime.Add(c[3] +" "+ c[4]);
-                ClosingTime.Add(c[6] + " " + c[7]);
+                openingTime.Add(ConvertInto24hrsFormat(c[3] +" "+ c[4]));
+                ClosingTime.Add(ConvertInto24hrsFormat(c[6] + " " + c[7]));
             }
             else
             {
-                openingTime.Add(c[1] + " " + c[2]);
-                ClosingTime.Add(c[4] + " " + c[5]);
+                openingTime.Add(ConvertInto24hrsFormat(c[1] + " " + c[2]));
+                ClosingTime.Add(ConvertInto24hrsFormat(c[4] + " " + c[5]));
             }
 
+        }
+        private static string ConvertInto24hrsFormat(string input)
+        {
+            return DateTime.Parse(input).ToString("HH:mm");
         }
     }
 }

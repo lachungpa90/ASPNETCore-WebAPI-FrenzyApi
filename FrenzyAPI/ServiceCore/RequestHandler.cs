@@ -2,6 +2,7 @@
 using Contract;
 using Models;
 using Models.DTOs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -89,6 +90,30 @@ namespace FrenzyAPI.ServiceCore
             }            
             return restaurantsNames.OrderBy(x=>x).ToList();
         }
+        public async Task<User>GetUserById(int id)
+        {
+            return await _user.GetUserById(id);
+        }
+        public async Task<PurchaseResponse> PurchaseDish(PurchaseRequest request)
+        {
+            var response = new PurchaseResponse();
+
+            var user = await  _user.GetUserById(request.UserId);
+            var restaurant = await _resturant.GetRestaurantAsync(request.RestaurantName);
+            if (user == null || restaurant == null)
+                return response;
+            var dish = restaurant.Menu.SingleOrDefault(x => x.DishName == request.DishName);
+            if (dish.Price > user.CashBalance)
+            {
+                response.ErrorMessage = "User dont have sufficient balance to place an order" ;
+                return response;
+            }
+            PopulateResponse(response, user, restaurant, dish, request);
+            UpdatePurchaseHistory(response,request.UserId);
+            UpdateUser(user, response);
+            UpdateRestaurant(response, restaurant);
+            return response;
+        }       
         private void PopulateRestaurantsName(Restaurant ress, List<string> restaurantsNames, double startPrice, double endPrice)
         {
             if (ress != null)
@@ -101,5 +126,40 @@ namespace FrenzyAPI.ServiceCore
                 });
             }
         }
+        private void UpdateRestaurant(PurchaseResponse response, Restaurant restaurant)
+        {
+            restaurant.CashBalance = response.RestaurantCashBalance;
+            _resturant.Update(restaurant);
+            _resturant.SaveAllAsync();
+            response.IsSucceed = true;
+        }
+        private void UpdateUser(User user, PurchaseResponse response)
+        {
+            user.CashBalance = response.UserCashBalance;
+            _user.Update(user);
+            _user.SaveAllAsync();
+        }
+        private void PopulateResponse(PurchaseResponse response, User user, Restaurant restaurant,Menu dish, PurchaseRequest request)
+        {
+            response.UserName = user.Name;//to be updated
+            response.UserCashBalance = Math.Round(user.CashBalance - dish.Price, 2);
+            response.TransactionDate = DateTime.Now;
+            response.TransactionAmount = dish.Price;
+            response.RestaurantName = restaurant.RestaurantName;
+            response.RestaurantCashBalance =Math.Round(restaurant.CashBalance + dish.Price, 2);//need to be updated
+            response.DishName = request.DishName;
+        }
+        private void UpdatePurchaseHistory(PurchaseResponse response, int id)
+        {
+            var purchaseHistory = new PurchaseHistory
+            {
+                DishName = response.DishName,
+                RestaurantName = response.RestaurantName,
+                TransactionAmount = response.TransactionAmount,
+                TransactionDate = response.TransactionDate
+            };
+            _user.AddPurchaseHistory(id, purchaseHistory);          
+        }
     }
+
 }

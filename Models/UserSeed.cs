@@ -7,7 +7,6 @@ namespace Models
 {
    public class UserSeed
     {
-        [JsonIgnore]
         public int Id { get; set; }
         public string Name { get; set; }
         public ICollection<PurchaseHistory> PurchaseHistory { get; set; }

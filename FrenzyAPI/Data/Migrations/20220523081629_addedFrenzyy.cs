@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace FrenzyAPI.Migrations
+namespace FrenzyAPI.Data.Migrations
 {
-    public partial class changesInDatabase : Migration
+    public partial class addedFrenzyy : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -26,7 +26,7 @@ namespace FrenzyAPI.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("Sqlite:Autoincrement", false),
                     Name = table.Column<string>(type: "TEXT", nullable: true),
                     CashBalance = table.Column<double>(type: "REAL", nullable: false)
                 },

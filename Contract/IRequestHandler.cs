@@ -14,5 +14,7 @@ namespace Contract
         Task<RestaurantDto> GetRestaurant(string name);
         Task<List<MenuDto>> GetDishes(string dishName);
         Task<List<string>> GetTopRestaurants(string query, double startPrice, double endPrice, int noOfDishes);
+        Task<PurchaseResponse> PurchaseDish(PurchaseRequest request);
+        Task<User> GetUserById(int id);
     }
 }

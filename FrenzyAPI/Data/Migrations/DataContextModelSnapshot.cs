@@ -3,16 +3,14 @@ using System;
 using FrenzyAPI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace FrenzyAPI.Migrations
+namespace FrenzyAPI.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220517153937_changesInDatabase")]
-    partial class changesInDatabase
+    partial class DataContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

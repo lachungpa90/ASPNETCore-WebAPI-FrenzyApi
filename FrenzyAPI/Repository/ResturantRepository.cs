@@ -20,12 +20,21 @@ namespace FrenzyAPI.Repository
         }
         public async Task<Restaurant>GetRestaurantAsync(string name)
         {
-           return await _context.Restaurants.SingleOrDefaultAsync(x => x.RestaurantName == name);
+           return await _context.Restaurants.Include(r=>r.Menu).SingleOrDefaultAsync(x => x.RestaurantName == name);
         }
 
         public async Task<IEnumerable<Menu>> GetDishes()
         {
            return await _context.Restaurants.Include(x => x.Menu).SelectMany(y => y.Menu).Distinct().ToListAsync();
+        }
+        public void Update(Restaurant restaurant)
+        {
+            _context.Entry(restaurant).State = EntityState.Modified;
+        }
+
+        public async Task<bool> SaveAllAsync()
+        {
+            return await _context.SaveChangesAsync() > 0;
         }
     }
 }

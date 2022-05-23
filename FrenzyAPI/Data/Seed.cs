@@ -39,6 +39,7 @@ namespace FrenzyAPI
             foreach (var dto in usersDto)
             {
                 var user = new User();
+                user.Id = dto.Id;
                 user.CashBalance = dto.CashBalance;
                 user.Name = dto.Name;
                 user.PurchaseHistory = dto.PurchaseHistory;

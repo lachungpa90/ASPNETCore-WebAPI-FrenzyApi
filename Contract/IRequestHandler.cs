@@ -13,5 +13,6 @@ namespace Contract
         Task<List<User>> GetUsers();
         Task<RestaurantDto> GetRestaurant(string name);
         Task<List<MenuDto>> GetDishes(string dishName);
+        Task<List<string>> GetTopRestaurants(string query, double startPrice, double endPrice, int noOfDishes);
     }
 }

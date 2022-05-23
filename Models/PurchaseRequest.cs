@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Models
 {
-   public class PurchaseRequest
+    public class PurchaseRequest
     {
         [Required]
         public int UserId { get; set; }

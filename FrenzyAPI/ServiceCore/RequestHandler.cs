@@ -101,7 +101,10 @@ namespace FrenzyAPI.ServiceCore
             var user = await  _user.GetUserById(request.UserId);
             var restaurant = await _resturant.GetRestaurantAsync(request.RestaurantName);
             if (user == null || restaurant == null)
+            {
+                response.ErrorMessage = "No Data Found";
                 return response;
+            }
             var dish = restaurant.Menu.SingleOrDefault(x => x.DishName == request.DishName);
             if (dish.Price > user.CashBalance)
             {

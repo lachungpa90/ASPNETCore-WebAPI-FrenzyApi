@@ -6,6 +6,7 @@ using Models;
 using Models.DTOs;
 using Moq;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace FrenzyApi.Test.ServiceCoreTest
 {
@@ -45,6 +46,23 @@ namespace FrenzyApi.Test.ServiceCoreTest
         {
             var result = _handler.GetUsers();
             Assert.IsNotNull(result);
+        }
+        [TestMethod]
+        public void WhenGetUsersWithNullCalled()
+        {
+            _userData = null;
+            _user.Setup(x => x.GetUsersAsync()).ReturnsAsync(_userData);
+            var result = _handler.GetUsers();
+            Assert.IsNull(result.Result);
+        }
+
+        [TestMethod]
+        public void WhenGetDishesCalled()
+        {
+            var menu = _restaurantdata.SelectMany(x => x.Menu);
+            _restaurant.Setup(x => x.GetDishes()).ReturnsAsync(menu);
+            var result = _handler.GetDishes("coffee").GetAwaiter().GetResult();
+            Assert.IsTrue(result == null);
         }
     }
 }

@@ -1,37 +1,65 @@
 [
   {
-    "restaurantName": "Quattro - Four Seasons Hotel - Houston",
-    "openingHours": [
+    "CashBalance": 4483.84,
+    "Menu": [
       {
-        "days": "Tues",
-        "openingTime": "08:15",
-        "closingTime": "23:30"
+        "DishName": "Postum cereal coffee",
+        "Price": 13.88
       },
       {
-        "days": "Weds,Fri",
-        "openingTime": "07:15",
-        "closingTime": "18:00"
+        "DishName": "GAI TOM KA: CHICKEN IN COCONUT CREAM SOUP WITH LIME JUICE GALANGA AND CHILI",
+        "Price": 10.64
       },
       {
-        "days": "Sat",
-        "openingTime": "11:30",
-        "closingTime": "17:00"
+        "DishName": "Coffee Cocktail (Port Wine",
+        "Price": 12.45
       },
       {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "17:30"
+        "DishName": "La Romaine Braisée au Fond de Veau",
+        "Price": 10.59
       },
       {
-        "days": "Mon,Thurs",
-        "openingTime": "14:30",
-        "closingTime": "17:15"
+        "DishName": "DRY LIGHT IMPORTED WINE",
+        "Price": 13.5
+      },
+      {
+        "DishName": "Broiled Pompano",
+        "Price": 13.5
+      },
+      {
+        "DishName": "Dean Yale School of Medicine",
+        "Price": 12.56
+      },
+      {
+        "DishName": "Place here Stamp",
+        "Price": 12.38
+      },
+      {
+        "DishName": "1908 Berncasteler",
+        "Price": 11.64
+      },
+      {
+        "DishName": "Hummersuppe Filetsteak Nelson",
+        "Price": 10.51
+      },
+      {
+        "DishName": "Hominy",
+        "Price": 10.2
+      },
+      {
+        "DishName": "Baltimore terrapin",
+        "Price": 14.0
+      },
+      {
+        "DishName": "Lettuce and Tomato Salads",
+        "Price": 11.79
+      },
+      {
+        "DishName": "Sweet Virginia Pickles",
+        "Price": 10.15
       }
     ],
-    "cashBalance": 1010.93
-  },
-  {
-    "restaurantName": "Michael Forbes Bar & Grille",
+    "RestaurantName": "'Ulu Ocean Grill and Sushi Lounge",
     "openingHours": [
       {
         "days": "Mon,Tues",
@@ -58,1041 +86,87 @@
         "openingTime": "15:45",
         "closingTime": "18:15"
       }
-    ],
-    "cashBalance": 3700.7
+    ]
   },
   {
-    "restaurantName": "Mark's American Cuisine",
-    "openingHours": [
+    "CashBalance": 4882.81,
+    "Menu": [
       {
-        "days": "Sun - Mon,Fri",
-        "openingTime": "15:45",
-        "closingTime": "18:30"
+        "DishName": "Sweetbreads",
+        "Price": 13.57
       },
       {
-        "days": "Tues,Weds",
-        "openingTime": "07:00",
-        "closingTime": "00:45"
+        "DishName": "Old pepper bourbon",
+        "Price": 10.15
       },
       {
-        "days": "Thurs",
-        "openingTime": "07:45",
-        "closingTime": "23:45"
+        "DishName": "Whiskey Cocktails",
+        "Price": 10.25
       },
       {
-        "days": "Sat",
-        "openingTime": "15:00",
-        "closingTime": "20:00"
+        "DishName": "Filets de poularde",
+        "Price": 11.15
+      },
+      {
+        "DishName": "Baked Weakfish with Boiled Potatoes",
+        "Price": 10.25
+      },
+      {
+        "DishName": "Ox=tail Ragout with Vegetables",
+        "Price": 10.35
+      },
+      {
+        "DishName": "1952er Gau Algesheimer Stolzenberg natur",
+        "Price": 12.34
+      },
+      {
+        "DishName": "Caneton à l'Orange",
+        "Price": 11.09
+      },
+      {
+        "DishName": "*COLD-Mayonnaise of Fish Printaniere",
+        "Price": 12.0
+      },
+      {
+        "DishName": "Rum & Raisin Ice Cream",
+        "Price": 13.86
+      },
+      {
+        "DishName": "Fried",
+        "Price": 10.25
+      },
+      {
+        "DishName": "German potato salad",
+        "Price": 10.1
       }
     ],
-    "cashBalance": 4659.15
-  },
-  {
-    "restaurantName": "Merriman's – Waimea – Big Island",
+    "RestaurantName": "024 Grille",
     "openingHours": [
-      {
-        "days": "Mon,Fri",
-        "openingTime": "14:30",
-        "closingTime": "22:00"
-      },
       {
         "days": "Tues",
-        "openingTime": "13:00",
-        "closingTime": "03:15"
-      },
-      {
-        "days": "Weds,Thurs",
-        "openingTime": "15:45",
-        "closingTime": "03:45"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "10:45",
-        "closingTime": "18:30"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "17:45"
-      }
-    ],
-    "cashBalance": 3695.68
-  },
-  {
-    "restaurantName": "Olympia Grill at Pier 21",
-    "openingHours": [
-      {
-        "days": "Mon,Weds",
-        "openingTime": "13:45",
-        "closingTime": "17:30"
-      },
-      {
-        "days": "Thurs,Fri",
-        "openingTime": "07:15",
-        "closingTime": "23:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "12:45",
-        "closingTime": "01:00"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "16:00"
-      }
-    ],
-    "cashBalance": 2704.51
-  },
-  {
-    "restaurantName": "Oceanaire Seafood Room - Denver",
-    "openingHours": [
-      {
-        "days": "Fri",
-        "openingTime": "16:45",
-        "closingTime": "00:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "10:00",
-        "closingTime": "22:30"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "21:30"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "13:15",
-        "closingTime": "23:00"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "12:00",
-        "closingTime": "03:15"
-      },
-      {
-        "days": "Mon,Weds",
-        "openingTime": "09:45",
-        "closingTime": "19:30"
-      }
-    ],
-    "cashBalance": 640.07
-  },
-  {
-    "restaurantName": "Oasis Fried Chicken",
-    "openingHours": [
-      {
-        "days": "Sun,Mon",
-        "openingTime": "15:45",
-        "closingTime": "21:30"
-      },
-      {
-        "days": "Tues,Weds",
-        "openingTime": "10:30",
-        "closingTime": "19:30"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "09:45",
-        "closingTime": "01:30"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "09:00",
-        "closingTime": "16:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "06:15",
-        "closingTime": "16:45"
-      }
-    ],
-    "cashBalance": 4495.13
-  },
-  {
-    "restaurantName": "Mural Room - Grand Teton Lodging Company",
-    "openingHours": [
-      {
-        "days": "Mon",
-        "openingTime": "11:45",
-        "closingTime": "18:15"
-      },
-      {
-        "days": "Tues,Weds",
-        "openingTime": "11:45",
-        "closingTime": "00:00"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "08:00",
-        "closingTime": "10:00"
-      },
-      {
-        "days": "Fri,Sun",
-        "openingTime": "15:45",
-        "closingTime": "22:00"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "09:00",
-        "closingTime": "16:00"
-      }
-    ],
-    "cashBalance": 1651.72
-  },
-  {
-    "restaurantName": "OAKLEYS bistro",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "21:15"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "14:00",
-        "closingTime": "03:45"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "06:00",
-        "closingTime": "09:30"
-      },
-      {
-        "days": "Mon,Sat",
-        "openingTime": "11:30",
-        "closingTime": "14:00"
-      },
-      {
-        "days": "Tues,Fri",
-        "openingTime": "16:45",
-        "closingTime": "21:45"
-      }
-    ],
-    "cashBalance": 2048.45
-  },
-  {
-    "restaurantName": "The Union Kitchen (Bellaire)",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "01:45"
-      },
-      {
-        "days": "Thurs,Sat",
-        "openingTime": "05:00",
-        "closingTime": "11:00"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "12:30",
-        "closingTime": "17:30"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "07:00",
-        "closingTime": "03:30"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "07:30",
-        "closingTime": "09:15"
-      }
-    ],
-    "cashBalance": 3312.44
-  },
-  {
-    "restaurantName": "Woochi Japanese Fusion & Bar",
-    "openingHours": [
-      {
-        "days": "Mon,Tues",
-        "openingTime": "16:30",
-        "closingTime": "18:45"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "05:15",
-        "closingTime": "01:15"
-      },
-      {
-        "days": "Thurs,Fri",
-        "openingTime": "14:15",
-        "closingTime": "02:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "05:00",
-        "closingTime": "01:00"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "16:15"
-      }
-    ],
-    "cashBalance": 295.96
-  },
-  {
-    "restaurantName": "Water Grill",
-    "openingHours": [
-      {
-        "days": "Tues,Thurs",
-        "openingTime": "08:00",
-        "closingTime": "21:15"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "11:45",
-        "closingTime": "15:15"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "13:00",
-        "closingTime": "01:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "06:00",
-        "closingTime": "15:30"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "19:00"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "14:30",
-        "closingTime": "00:15"
-      }
-    ],
-    "cashBalance": 3124.73
-  },
-  {
-    "restaurantName": "State & Allen Kitchen + Bar",
-    "openingHours": [
-      {
-        "days": "Mon",
-        "openingTime": "12:30",
-        "closingTime": "03:30"
-      },
-      {
-        "days": "Tues - Weds,Sat,Sun",
-        "openingTime": "15:45",
-        "closingTime": "19:15"
-      },
-      {
-        "days": "Thurs",
         "openingTime": "08:15",
-        "closingTime": "00:15"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "11:15",
-        "closingTime": "01:45"
-      }
-    ],
-    "cashBalance": 2778.09
-  },
-  {
-    "restaurantName": "Spindletop",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "00:00"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "08:00",
-        "closingTime": "20:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "15:30",
-        "closingTime": "19:30"
-      },
-      {
-        "days": "Tues,Fri",
-        "openingTime": "11:30",
-        "closingTime": "15:15"
-      },
-      {
-        "days": "Mon,Weds",
-        "openingTime": "13:15",
         "closingTime": "23:30"
-      }
-    ],
-    "cashBalance": 1360.24
-  },
-  {
-    "restaurantName": "Spinasse",
-    "openingHours": [
-      {
-        "days": "Weds",
-        "openingTime": "12:00",
-        "closingTime": "01:00"
       },
       {
-        "days": "Mon,Tues",
-        "openingTime": "15:30",
-        "closingTime": "23:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "15:45",
-        "closingTime": "20:15"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "17:30",
-        "closingTime": "03:30"
-      },
-      {
-        "days": "Fri,Sun",
-        "openingTime": "15:45",
-        "closingTime": "19:00"
-      }
-    ],
-    "cashBalance": 2008.0
-  },
-  {
-    "restaurantName": "Cheeky Monk Belgian Beer Cafe",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "00:00"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "12:00",
-        "closingTime": "22:00"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "06:30",
-        "closingTime": "02:45"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "13:45",
-        "closingTime": "22:45"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "14:30",
-        "closingTime": "01:30"
-      },
-      {
-        "days": "Mon,Thurs",
-        "openingTime": "09:00",
-        "closingTime": "02:15"
-      }
-    ],
-    "cashBalance": 2324.88
-  },
-  {
-    "restaurantName": "Buca di Beppo - Southlake",
-    "openingHours": [
-      {
-        "days": "Sun,Tues",
-        "openingTime": "15:45",
-        "closingTime": "02:15"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "10:00",
-        "closingTime": "15:45"
-      },
-      {
-        "days": "Thurs,Fri",
-        "openingTime": "13:30",
-        "closingTime": "01:00"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "14:45",
-        "closingTime": "02:30"
-      }
-    ],
-    "cashBalance": 4445.19
-  },
-  {
-    "restaurantName": "DiGiorgio's Cafe Largo",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "20:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "08:30",
-        "closingTime": "01:45"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "10:00",
-        "closingTime": "14:30"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "14:45",
-        "closingTime": "18:15"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "15:45",
-        "closingTime": "03:15"
-      },
-      {
-        "days": "Mon,Thurs",
-        "openingTime": "16:15",
-        "closingTime": "18:45"
-      }
-    ],
-    "cashBalance": 1708.77
-  },
-  {
-    "restaurantName": "Dodge House Restaurant",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "17:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "15:30",
-        "closingTime": "20:30"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "10:45",
-        "closingTime": "14:15"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "05:45",
-        "closingTime": "08:15"
-      },
-      {
-        "days": "Mon, Weds,Fri",
-        "openingTime": "09:45",
-        "closingTime": "02:30"
-      }
-    ],
-    "cashBalance": 2650.69
-  },
-  {
-    "restaurantName": "Don the Beachcomber - Royal Kona Resort",
-    "openingHours": [
-      {
-        "days": "Sat",
-        "openingTime": "13:45",
-        "closingTime": "18:45"
-      },
-      {
-        "days": "Fri,Sun",
-        "openingTime": "15:45",
-        "closingTime": "21:15"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "12:15",
-        "closingTime": "20:00"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "12:15",
-        "closingTime": "01:15"
-      },
-      {
-        "days": "Mon,Tues",
-        "openingTime": "11:45",
-        "closingTime": "03:45"
-      }
-    ],
-    "cashBalance": 2040.24
-  },
-  {
-    "restaurantName": "Crush - MGM Grand",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "23:15"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "06:15",
-        "closingTime": "02:15"
-      },
-      {
-        "days": "Thurs,Fri",
-        "openingTime": "11:30",
-        "closingTime": "18:30"
-      },
-      {
-        "days": "Tues,Weds",
-        "openingTime": "05:00",
-        "closingTime": "11:15"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "14:45",
-        "closingTime": "21:00"
-      }
-    ],
-    "cashBalance": 4544.07
-  },
-  {
-    "restaurantName": "Atwater on Gore Creek",
-    "openingHours": [
-      {
-        "days": "Sat",
-        "openingTime": "13:15",
-        "closingTime": "22:15"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "11:45",
-        "closingTime": "00:15"
-      },
-      {
-        "days": "Thurs,Sun",
-        "openingTime": "15:45",
-        "closingTime": "20:15"
-      },
-      {
-        "days": "Tues,Weds",
-        "openingTime": "14:00",
+        "days": "Weds,Fri",
+        "openingTime": "07:15",
         "closingTime": "18:00"
       },
       {
-        "days": "Mon",
-        "openingTime": "11:15",
-        "closingTime": "13:30"
-      }
-    ],
-    "cashBalance": 3380.97
-  },
-  {
-    "restaurantName": "Avenue Grill - Denver",
-    "openingHours": [
-      {
-        "days": "Mon - Weds,Fri",
-        "openingTime": "13:30",
-        "closingTime": "14:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "09:15",
-        "closingTime": "16:00"
-      },
-      {
         "days": "Sat",
-        "openingTime": "15:15",
-        "closingTime": "18:30"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "17:30"
-      }
-    ],
-    "cashBalance": 1074.68
-  },
-  {
-    "restaurantName": "Affäre",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "01:30"
-      },
-      {
-        "days": "Weds,Thurs",
-        "openingTime": "08:00",
-        "closingTime": "17:30"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "16:45",
-        "closingTime": "18:15"
-      },
-      {
-        "days": "Mon,Fri",
-        "openingTime": "16:45",
-        "closingTime": "17:45"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "09:30",
-        "closingTime": "14:30"
-      }
-    ],
-    "cashBalance": 2483.92
-  },
-  {
-    "restaurantName": "Black Bear Grill",
-    "openingHours": [
-      {
-        "days": "Tues,Sat",
-        "openingTime": "08:15",
-        "closingTime": "19:15"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "15:15",
-        "closingTime": "23:30"
-      },
-      {
-        "days": "Weds,Sun",
-        "openingTime": "15:45",
-        "closingTime": "23:30"
-      },
-      {
-        "days": "Thurs,Fri",
-        "openingTime": "08:00",
-        "closingTime": "18:45"
-      }
-    ],
-    "cashBalance": 1539.46
-  },
-  {
-    "restaurantName": "Kobe Japanese Steak House Maui",
-    "openingHours": [
-      {
-        "days": "Mon,Thurs",
-        "openingTime": "14:15",
-        "closingTime": "17:15"
-      },
-      {
-        "days": "Tues - Weds,Sun",
-        "openingTime": "15:45",
+        "openingTime": "11:30",
         "closingTime": "17:00"
       },
       {
-        "days": "Fri",
-        "openingTime": "06:30",
-        "closingTime": "09:15"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "10:15",
-        "closingTime": "03:15"
-      }
-    ],
-    "cashBalance": 2622.86
-  },
-  {
-    "restaurantName": "Kachina Southwestern Grill",
-    "openingHours": [
-      {
-        "days": "Mon,Sat",
-        "openingTime": "09:00",
-        "closingTime": "21:15"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "13:00",
-        "closingTime": "23:45"
-      },
-      {
-        "days": "Weds,Thurs",
-        "openingTime": "06:00",
-        "closingTime": "20:30"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "07:00",
-        "closingTime": "00:00"
-      },
-      {
         "days": "Sun",
         "openingTime": "15:45",
-        "closingTime": "01:15"
+        "closingTime": "17:30"
+      },
+      {
+        "days": "Mon,Thurs",
+        "openingTime": "14:30",
+        "closingTime": "17:15"
       }
-    ],
-    "cashBalance": 468.79
-  },
-  {
-    "restaurantName": "Mad for Chicken",
-    "openingHours": [
-      {
-        "days": "Fri",
-        "openingTime": "15:00",
-        "closingTime": "00:00"
-      },
-      {
-        "days": "Mon - Tues,Thurs",
-        "openingTime": "15:30",
-        "closingTime": "19:00"
-      },
-      {
-        "days": "Weds,Sat,Sun",
-        "openingTime": "15:45",
-        "closingTime": "03:15"
-      }
-    ],
-    "cashBalance": 2888.0
-  },
-  {
-    "restaurantName": "Lago del Pino",
-    "openingHours": [
-      {
-        "days": "Mon - Weds,Sat",
-        "openingTime": "11:30",
-        "closingTime": "15:30"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "17:15",
-        "closingTime": "21:30"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "08:00",
-        "closingTime": "22:00"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "22:45"
-      }
-    ],
-    "cashBalance": 1046.82
-  },
-  {
-    "restaurantName": "Fu Lin Seafood Chinese Restaurant",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "20:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "15:15",
-        "closingTime": "00:15"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "11:15",
-        "closingTime": "15:45"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "07:15",
-        "closingTime": "15:15"
-      },
-      {
-        "days": "Mon,Sat",
-        "openingTime": "14:00",
-        "closingTime": "02:30"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "07:15",
-        "closingTime": "14:15"
-      }
-    ],
-    "cashBalance": 3750.12
-  },
-  {
-    "restaurantName": "Eggs 'N Things",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "03:15"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "14:45",
-        "closingTime": "21:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "17:45",
-        "closingTime": "19:30"
-      },
-      {
-        "days": "Weds,Sat",
-        "openingTime": "06:45",
-        "closingTime": "08:15"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "09:15",
-        "closingTime": "22:00"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "17:45",
-        "closingTime": "22:15"
-      }
-    ],
-    "cashBalance": 3224.26
-  },
-  {
-    "restaurantName": "Homestyle Hawaiian",
-    "openingHours": [
-      {
-        "days": "Tues,Thurs,Fri",
-        "openingTime": "12:00",
-        "closingTime": "03:45"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "05:15",
-        "closingTime": "00:30"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "08:30",
-        "closingTime": "18:45"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "05:00",
-        "closingTime": "18:45"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "22:15"
-      }
-    ],
-    "cashBalance": 605.53
-  },
-  {
-    "restaurantName": "Hooked",
-    "openingHours": [
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "02:30"
-      },
-      {
-        "days": "Sat",
-        "openingTime": "16:45",
-        "closingTime": "03:45"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "12:30",
-        "closingTime": "14:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "07:15",
-        "closingTime": "23:30"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "10:30",
-        "closingTime": "03:30"
-      },
-      {
-        "days": "Mon,Tues",
-        "openingTime": "09:45",
-        "closingTime": "00:00"
-      }
-    ],
-    "cashBalance": 4664.15
-  },
-  {
-    "restaurantName": "Howard Wang's Uptown China Brasserie",
-    "openingHours": [
-      {
-        "days": "Sat",
-        "openingTime": "11:00",
-        "closingTime": "19:45"
-      },
-      {
-        "days": "Fri,Sun",
-        "openingTime": "15:45",
-        "closingTime": "21:45"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "05:30",
-        "closingTime": "09:15"
-      },
-      {
-        "days": "Weds",
-        "openingTime": "13:45",
-        "closingTime": "22:30"
-      },
-      {
-        "days": "Tues",
-        "openingTime": "13:30",
-        "closingTime": "01:15"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "09:15",
-        "closingTime": "13:45"
-      }
-    ],
-    "cashBalance": 3055.62
-  },
-  {
-    "restaurantName": "Harman's Eat & Drink",
-    "openingHours": [
-      {
-        "days": "Fri",
-        "openingTime": "11:45",
-        "closingTime": "21:00"
-      },
-      {
-        "days": "Thurs,Sat,Sun",
-        "openingTime": "15:45",
-        "closingTime": "18:30"
-      },
-      {
-        "days": "Tues,Weds",
-        "openingTime": "05:45",
-        "closingTime": "02:45"
-      },
-      {
-        "days": "Mon",
-        "openingTime": "14:00",
-        "closingTime": "20:15"
-      }
-    ],
-    "cashBalance": 1488.7
-  },
-  {
-    "restaurantName": "the plimoth",
-    "openingHours": [
-      {
-        "days": "Mon - Weds,Sat",
-        "openingTime": "11:00",
-        "closingTime": "22:15"
-      },
-      {
-        "days": "Thurs",
-        "openingTime": "08:30",
-        "closingTime": "02:30"
-      },
-      {
-        "days": "Fri",
-        "openingTime": "06:00",
-        "closingTime": "03:15"
-      },
-      {
-        "days": "Sun",
-        "openingTime": "15:45",
-        "closingTime": "16:15"
-      }
-    ],
-    "cashBalance": 2039.92
+    ]
   }
 ]

@@ -97,7 +97,7 @@ This repository contains controllers which are dealing with Restaurants and User
 
 	
 
-##Purchase request by user for particular dish from particular restaurant (POST)
+## Purchase request by user for particular dish from particular restaurant (POST)
 ``` https://localhost:5001/api/Purchase ```
 ``` javascript
 [

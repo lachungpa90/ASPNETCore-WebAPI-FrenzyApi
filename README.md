@@ -1,22 +1,32 @@
 # ASP.NET Core Web API using Entity Framework Core
 
 ## Pre requirements
-•	Visual Studio 2019/ VS code
-•	.Net Core SDK 5 
-•	C# extension for VS Code
+Visual Studio 2019/ VS code
+
+.Net Core SDK 5 
+
+C# extension for VS Code
 
 ## How to Run
-•	Open solution in Visual Studio 2019/ VS Code
-•	Set API project as start-up project and build the project 
-•	Run the project using command dotnet run
+Open solution in Visual Studio 2019/ VS Code
+
+Set API project as start-up project and build the project 
+
+Run the project using command dotnet run
 
 ## Tools used
-•	.Net Core 5
-•	Sqlite for RDBMS
-•	C# 
-•	Entity Framework Core (ORM)
-•	MSTest Framework for unit Testing
-•	AutoMapper
+
+.Net Core 5
+
+Sqlite for RDBMS
+
+C# 
+
+Entity Framework Core (ORM)
+
+MSTest Framework for unit Testing
+
+AutoMapper
 
 This repository contains controllers which are dealing with Restaurants and Users data to create Food Delivery System. You can GET/POST them as required in the questions.
 

@@ -49,7 +49,7 @@ This repository contains controllers which are dealing with Restaurants and User
 	"params" : 
 	      {		
 		  "day": "Sun", 
-		  "time": "15:45"		
+		  "time": "15:45" // It's in 24 hours time i.e 3:45 pm		
 	      }
      }
    ]

@@ -100,8 +100,8 @@ This repository contains controllers which are dealing with Restaurants and User
 ``` javascript
    {
        "userid": 2,
-       "restaurantName": "024 Grille", //Exact name of restaurant should be passed
-       "DishName": "Sweetbreads" //Exact dish name should be bassed
+       "restaurantName": "024 Grille", //Exact name of a restaurant should be passed
+       "DishName": "Sweetbreads" //Exact dish name should be passed
    }
 ```
 
